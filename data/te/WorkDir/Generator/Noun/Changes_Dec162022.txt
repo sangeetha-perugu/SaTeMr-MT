@@ -1,0 +1,23 @@
+Apertium changes on Dec 16, 2022
+
+1) Noun pdgm:
+  - batti and valana are sepereated into different slots both in sg/pl
+  
+2)  -  merged the following with *
+n number eka parsarg sWAnaMnuMdi*
+n number eka parsarg sWAnaMlonuMdi
+n number eka parsarg sWAnaMlonuMci
+
+n number eka parsarg kiMxanuMdi*
+n number eka parsarg kriMxanuMdi
+
+n number bahu parsarg veVnukanuMdi*
+n number bahu parsarg veVnukanuMci
+
+n number eka parsarg maXyanuMdi*
+n number eka parsarg maXyalonuMdi
+
+n number eka parsarg pakkanuMdi*
+n number eka parsarg pakkalonuMdi
+
+--------------------------------------
