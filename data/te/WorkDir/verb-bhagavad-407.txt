@@ -84,13 +84,13 @@ apa_Af_vq2,ap,sk,v,Daka,NW  --
 apa_nux1,pp,sk,v,xUra_kara_saka,  --
 arc1,pp,sk,v,pUjiMcu^gOraviMcu,pUjAyAm
 arh1,pp,sk,v,arhawa_uMcu^pUjiMcu,pUjAyAM_yogyawve_ca
-as1,ap,sk,v,jA^camaka^le,gawi-xIpwi-AxAneRu
-as1,pp,sk,v,jA^camaka^le,gawi-xIpwi-AxAneRu
-as2,pp,ak,v,ho1,NW
-ava_Ap1,pp,sk,v,pA,
-ava_IkR1,ap,sk,v,xeKa,
-ava_SiR2,pp,sk,v,baca,
-ava_gam1,pp,sk,v,jAna,
+as1,ap,sk,v,velYlYu^wIsukonucu^prakASiMcu,gawi-xIpwi-AxAneRu  
+as1,pp,sk,v,jA^prakAsiMcu^le,gawi-xIpwi-AxAneRu
+as2,pp,ak,v,avucu^agu^kalugu,Buvi
+ava_Ap1,pp,sk,v,vyApiMcu^prApwiMcu,NW
+ava_IkR1,ap,sk,v,cUcu,
+ava_SiR2,pp,sk,v,baca, --
+ava_gam1,pp,sk,v,welusukonu,
 ava_jFA1,pp,sk,v,wucCa_samaJa^GqNA_kara^wiraskaAra_kara^apekSA_kara,NW
 ava_jFA2,pp,sk,v,apamAna_kara,
 ava_sWA1,pp,ak,v,Tahara^ruka^niSceRta_raha,NW
@@ -113,10 +113,10 @@ ci1,ap,sk,v,cuna^batora^ekawra_kara,cayane
 ci1,pp,sk,v,cuna^batora^ekawra_kara,cayane
 cinw1,pp,sk,v,cinwana_kara^smaraNa_kara^yAxa_kara^cinwA_kara,smqwyAm
 cyu1,ap,sk,v,jA,gawO
-gE1,pp,sk,v,gA,Sabxe
-gQ2,pp,sk,v,Sabxa_kara,Sabxe
-gam1,ap,sk,v,veVlYlu,gawO
-gam1,pp,sk,v,veVlYlu,gawO
+gE1,pp,sk,v,pAdu,Sabxe
+gQ2,pp,sk,v,cappudu_ceyu^SabxaM_ceyu,Sabxe
+gam1,ap,sk,v,veVlYlYu,gawO
+gam1,pp,sk,v,veVlYlYu,gawO
 grah1,ap,sk,v,le^svIkAra_kara,upAxAne
 grah1,pp,sk,v,le^svIkAra_kara,upAxAne
 gras1,ap,sk,v,KA^nikala,axane
@@ -127,9 +127,9 @@ hq1,ap,sk,v,le_jA^haraNa_kara^corI_kara,haraNe
 hq1,pp,sk,v,le_jA^haraNa_kara^corI_kara,haraNe
 hqR1,pp,sk,v,sanwuRta_ho^prasanna_ho,wuRtO
 hu1,pp,sk,v,xenA_yajFa_kara^KA^le^BakRaNa_kara^grahaNa_kara,xAna-AxAnayoH_AxAne_{ca_iwyeke}
-i1,pp,sk,v,jA,gawO
-iR2,pp,sk,v,icCA_kara^cAha,icCAyAm
-ifg1,pp,sk,v,jA,gawyarWaH
+i1,pp,sk,v,kriMxa_padu^velYlYu,gawO
+iR2,pp,sk,v,iRta_padu,icCAyAm
+ifg1,pp,sk,v,velYlYu,gawyarWaH
 ifg1,ap,sk,v,hila^kAzpa^jA,gawyarWaH
 jAgq1,pp,ak,v,jAga,nixrAkRaye
 jFA1,pp,sk,v,jAna^samaJA,avaboXane
