@@ -33,10 +33,16 @@ fp1.close() # Close file
 #trie =pytrie.SortedStringTrie()
 #print(trie)
 
-cat = lines[0]
-paradigm = re.sub(r'\t', '', lines[1])
+cat = lines[0].strip()
+paradigm = re.sub(r'[\t ]+', '', lines[1]).strip()
 
 features_hash = {}
+sdef = '<sdefs>\n<sdef n="root:' + paradigm + '" c="'+paradigm+'"/>\n'
+sdef += '<sdef n="lcat:' + cat +'" c="'+cat+'" />\n'
+sdef += '<sdef n="gen:any" c="any"/>\n'
+sdef += '<sdef n="per:any" c="any"/>\n'
+sdef += '<sdef n="case:o" c="o"/>\n'
+sdef += '<sdef n="cm:0" c="0"/>\n'
 
 for line in lines[2::]:
 	current_line = line.split("\t")
@@ -46,46 +52,69 @@ for line in lines[2::]:
 	current_form = current_line[0]
 	forms = current_form.split("/")
 	for form in forms:
+		#print("1",form)
 		if(form == "-"):
 			continue
-		cform = re.sub(r'\*', '', form)
-		#print(cform)
+		if(re.search(r'\*', form)):
+			lr_flag = 1
+			cform = re.sub(r'\*', '', form)
+		else:
+			cform = form
+			lr_flag = 0
+		#print("2",cform)
 		features = current_line[1].split(" ")
 		i=1
 		#print(len(features))
-		feature_value = ''
+		feature_value = '<s n="root:' + paradigm + '"/><s n="lcat:' + cat +'"/>'
+		feature_value += '<s n="gen:any"/>'
+		
 		while (i<len(features)):
 			#print(i)
 			f = features[i]
-			if(re.match(r'num', features[i])):
-				feature_value += '<s n="num:' + features[i+1] +'"/>'
+			if(re.search(r'num', features[i])):
+				if(re.search(r'eka',features[i+1])):
+					number = 'sg'
+				else:
+					number = 'pl'
+				feature_value += '<s n="num:' + number +'"/><s n="per:any"/>'
 				i = i + 1
-			elif(re.match(r'parsarg', features[i])):
+			elif(re.search(r'parsarg', features[i])):
 				suff = features[i+1]
-				feature_value += '<s n="parsarg:' + features[i+1] +'"/>'
+				#feature_value += '<s n="parsarg:' + features[i+1] +'"/>'
 				i = i + 1
 			else:
 				i = i + 1
 		#print(form)
 
-		feature_value += '<s n="gen:any"/><s n="per:any"/>'
 		feature_value += '<s n="case:o"/><s n="cm:0"/><s n="suffix:' + suff + '"/>'
-		features_hash[cform] = feature_value
+		sdef += '<sdef n="num:' + number +'" c="'+number+'" />\n<sdef n="suffix:' + suff + '" c="'+suff+'"/>\n'
+		if(lr_flag == 1):
+			features_hash[cform] = feature_value 
+		else:
+			features_hash[cform] = feature_value + 'LR_FLAG'
 
 strings = list(features_hash.keys())
 #print(strings)
 max_match = os.path.commonprefix(strings)
 rem = re.sub(max_match, '', paradigm)
 
-out_content = '<paradef n="' + max_match + '/' + rem + '__n">\n'
+out_content = '<?xml version="1.0"?>\n<dictionary>\n<alphabet>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</alphabet>\n'
+out_content += sdef + '</sdefs>'
+out_content += '<pardefs><pardef n="' + max_match + '/' + rem + '__n">\n'
+
 for s in strings:
 	out_content += '<e><p>\n<l>'
 	left = re.sub(max_match, '', s)
 	out_content += left
 	out_content += '</l>\n'
-	out_content += '<r>'+ rem + features_hash[s] + '</r>\n</e></p>\n'
+	if(re.search(r'LR_FLAG', features_hash[s])):
+		val = features_hash[s]
+		val =  re.sub(r'LR_FLAG', '', val)
+		out_content += '<r e="LR">'+ rem + val + '</r>\n</p></e>\n'
+	else:
+		out_content += '<r>'+ rem + features_hash[s] + '</r>\n</p></e>\n'
 
-out_content += '</paradef>\n'
+out_content += '</pardef></pardefs></dictionary>\n'
 #print(s)
 print(out_content)
 #print(max_match)
