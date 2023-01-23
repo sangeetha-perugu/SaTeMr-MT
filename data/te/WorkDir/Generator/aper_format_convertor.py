@@ -1,4 +1,5 @@
 #pip3 install pygtrie
+#new dev commit
 from argparse import ArgumentParser
 import sys
 import re
@@ -67,7 +68,7 @@ for line in lines[2::]:
 		#print(len(features))
 		feature_value = '<s n="root:' + paradigm + '"/><s n="lcat:' + cat +'"/>'
 		feature_value += '<s n="gen:any"/>'
-		
+
 		while (i<len(features)):
 			#print(i)
 			f = features[i]
@@ -89,7 +90,7 @@ for line in lines[2::]:
 		feature_value += '<s n="case:o"/><s n="cm:0"/><s n="suffix:' + suff + '"/>'
 		sdef += '<sdef n="num:' + number +'" c="'+number+'" />\n<sdef n="suffix:' + suff + '" c="'+suff+'"/>\n'
 		if(lr_flag == 1):
-			features_hash[cform] = feature_value 
+			features_hash[cform] = feature_value
 		else:
 			features_hash[cform] = feature_value + 'LR_FLAG'
 
