@@ -103,6 +103,8 @@ out_content = '<?xml version="1.0"?>\n<dictionary>\n<alphabet>abcdefghijklmnopqr
 out_content += sdef + '</sdefs>'
 out_content += '<pardefs><pardef n="' + max_match + '/' + rem + '__n">\n'
 
+dict_content = ''
+
 for s in strings:
 	out_content += '<e><p>\n<l>'
 	left = re.sub(max_match, '', s)
@@ -115,7 +117,11 @@ for s in strings:
 	else:
 		out_content += '<r>'+ rem + features_hash[s] + '</r>\n</p></e>\n'
 
-out_content += '</pardef></pardefs></dictionary>\n'
+dict_content += '<section id="main" type="standard">\n<e lm="' + strings[0] + '"><i>' + max_match + '</i><par n="' + max_match + '/' + rem + '__n"/></e></section>\n'
+
+out_content += '</pardef></pardefs>\n'
+out_content += dict_content
+out_content += '</dictionary>\n'
 #print(s)
 print(out_content)
 #print(max_match)
