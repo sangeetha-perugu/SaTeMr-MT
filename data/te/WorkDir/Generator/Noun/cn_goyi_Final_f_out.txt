@@ -1,0 +1,3187 @@
+<pardef n="go/yi__n">
+<e><p>
+<l>yi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:0"/></r>
+</p></e>
+<e><p>
+<l>yigAdu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAdu"/></r>
+</p></e>
+<e><p>
+<l>wigAdu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAdu"/></r>
+</p></e>
+<e><p>
+<l>yigawweV</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gawweV"/></r>
+</p></e>
+<e><p>
+<l>wigawweV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gawweV"/></r>
+</p></e>
+<e><p>
+<l>yivAdu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vAdu"/></r>
+</p></e>
+<e><p>
+<l>wivAdu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vAdu"/></r>
+</p></e>
+<e><p>
+<l>yAyana</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:Ayana"/></r>
+</p></e>
+<e><p>
+<l>wAyana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:Ayana"/></r>
+</p></e>
+<e><p>
+<l>yivAru</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vAru"/></r>
+</p></e>
+<e><p>
+<l>wivAru</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vAru"/></r>
+</p></e>
+<e><p>
+<l>yixi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xi"/></r>
+</p></e>
+<e><p>
+<l>wixi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xi"/></r>
+</p></e>
+<e><p>
+<l>yivi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vu"/></r>
+</p></e>
+<e><p>
+<l>wivi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vu"/></r>
+</p></e>
+<e><p>
+<l>wiy</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vi"/></r>
+</p></e>
+<e><p>
+<l>wiyyi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vi"/></r>
+</p></e>
+<e><p>
+<l>yigAru</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAru"/></r>
+</p></e>
+<e><p>
+<l>wigAru</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAru"/></r>
+</p></e>
+<e><p>
+<l>yinu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ni"/></r>
+</p></e>
+<e><p>
+<l>winu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nu"/></r>
+</p></e>
+<e><p>
+<l>yini</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ni"/></r>
+</p></e>
+<e><p>
+<l>wini</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ni"/></r>
+</p></e>
+<e><p>
+<l>wivu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vu"/></r>
+</p></e>
+<e><p>
+<l>wiyoVkka</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:yoVkka"/></r>
+</p></e>
+<e><p>
+<l>yiyoVkka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:yoVkka"/></r>
+</p></e>
+<e><p>
+<l>wi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:obl"/></r>
+</p></e>
+<e><p>
+<l>yiki</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ki"/></r>
+</p></e>
+<e><p>
+<l>yiku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ki"/></r>
+</p></e>
+<e><p>
+<l>wiki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ki"/></r>
+</p></e>
+<e><p>
+<l>wiku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ki"/></r>
+</p></e>
+<e><p>
+<l>yiwo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>yiwoda</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>wiwo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>wiwoda</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>wwo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>yilo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>yilona</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>wilo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>wilona</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>yilopala</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>wilopala</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>yiloni</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:loni"/></r>
+</p></e>
+<e><p>
+<l>wiloni</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:loni"/></r>
+</p></e>
+<e><p>
+<l>yilopali</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:loni"/></r>
+</p></e>
+<e><p>
+<l>wiyaMxali</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:loni"/></r>
+</p></e>
+<e><p>
+<l>wilopali</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:loni"/></r>
+</p></e>
+<e><p>
+<l>yimIxa</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxa"/></r>
+</p></e>
+<e><p>
+<l>wimIxa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxa"/></r>
+</p></e>
+<e><p>
+<l>yina</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:na"/></r>
+</p></e>
+<e><p>
+<l>wina</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:na"/></r>
+</p></e>
+<e><p>
+<l>yiniMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:niMci"/></r>
+</p></e>
+<e><p>
+<l>yinuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:niMci"/></r>
+</p></e>
+<e><p>
+<l>yinuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:niMci"/></r>
+</p></e>
+<e><p>
+<l>winiMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:niMci"/></r>
+</p></e>
+<e><p>
+<l>winuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:niMci"/></r>
+</p></e>
+<e><p>
+<l>winuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:niMci"/></r>
+</p></e>
+<e><p>
+<l>yixvArA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xvArA"/></r>
+</p></e>
+<e><p>
+<l>wixvArA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xvArA"/></r>
+</p></e>
+<e><p>
+<l>yixvAra</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xvArA"/></r>
+</p></e>
+<e><p>
+<l>wixvAra</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xvArA"/></r>
+</p></e>
+<e><p>
+<l>yivalana</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
+<l>yivalla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
+<l>wivalana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
+<l>wivalla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
+<l>winibatti</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:batti"/></r>
+</p></e>
+<e><p>
+<l>yinibatti</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:batti"/></r>
+</p></e>
+<e><p>
+<l>yice</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ce"/></r>
+</p></e>
+<e><p>
+<l>yicewa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ce"/></r>
+</p></e>
+<e><p>
+<l>wice</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ce"/></r>
+</p></e>
+<e><p>
+<l>wicewa</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ce"/></r>
+</p></e>
+<e><p>
+<l>yiwopAtu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>wiwopAtu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>yiwobAtu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>wiwobAtu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>wwopAtu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>yiwokUdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>yiwokUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>yiwogUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>wiwokUdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>yiwogUdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>wiwogUdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>wwokUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>wwogUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>yikosaM</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kosaM"/></r>
+</p></e>
+<e><p>
+<l>yikE</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kosaM"/></r>
+</p></e>
+<e><p>
+<l>wikosaM</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kosaM"/></r>
+</p></e>
+<e><p>
+<l>wikE</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kosaM"/></r>
+</p></e>
+<e><p>
+<l>yArWaM</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kosaM"/></r>
+</p></e>
+<e><p>
+<l>yikoVraku</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>yikoVrYaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>wikoVraku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>wikoVrYaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>yilonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lonuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lonuMdi"/></r>
+</p></e>
+<e><p>
+<l>wilonuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lonuMdi"/></r>
+</p></e>
+<e><p>
+<l>wilonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lonuMdi"/></r>
+</p></e>
+<e><p>
+<l>yimIxanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yimIxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wimIxanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wimIxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yixAkA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xAkA"/></r>
+</p></e>
+<e><p>
+<l>yixAka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xAkA"/></r>
+</p></e>
+<e><p>
+<l>wixAkA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xAkA"/></r>
+</p></e>
+<e><p>
+<l>wixAka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xAkA"/></r>
+</p></e>
+<e><p>
+<l>yivaraku</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:varaku"/></r>
+</p></e>
+<e><p>
+<l>wivaraku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:varaku"/></r>
+</p></e>
+<e><p>
+<l>yimIxaki</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxaki"/></r>
+</p></e>
+<e><p>
+<l>yimIxaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxaki"/></r>
+</p></e>
+<e><p>
+<l>wimIxaki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxaki"/></r>
+</p></e>
+<e><p>
+<l>wimIxaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxaki"/></r>
+</p></e>
+<e><p>
+<l>yixaggara</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggara"/></r>
+</p></e>
+<e><p>
+<l>wixaggara</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggara"/></r>
+</p></e>
+<e><p>
+<l>yivaxxa</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxa"/></r>
+</p></e>
+<e><p>
+<l>wivaxxa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxa"/></r>
+</p></e>
+<e><p>
+<l>yikAda</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kAda"/></r>
+</p></e>
+<e><p>
+<l>wikAda</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kAda"/></r>
+</p></e>
+<e><p>
+<l>yikeVxurugA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:keVxurugA"/></r>
+</p></e>
+<e><p>
+<l>yeVxurugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:keVxurugA"/></r>
+</p></e>
+<e><p>
+<l>wikeVxurugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:keVxurugA"/></r>
+</p></e>
+<e><p>
+<l>yimuMxu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxu"/></r>
+</p></e>
+<e><p>
+<l>wimuMxu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxu"/></r>
+</p></e>
+<e><p>
+<l>yiguriMci</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guriMci"/></r>
+</p></e>
+<e><p>
+<l>yiniguriMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guriMci"/></r>
+</p></e>
+<e><p>
+<l>wiguriMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guriMci"/></r>
+</p></e>
+<e><p>
+<l>winiguriMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guriMci"/></r>
+</p></e>
+<e><p>
+<l>yipE</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pE"/></r>
+</p></e>
+<e><p>
+<l>yipEna</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pE"/></r>
+</p></e>
+<e><p>
+<l>wipE</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pE"/></r>
+</p></e>
+<e><p>
+<l>wipEna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pE"/></r>
+</p></e>
+<e><p>
+<l>yipEki</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEki"/></r>
+</p></e>
+<e><p>
+<l>wipEki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEki"/></r>
+</p></e>
+<e><p>
+<l>yiguMdA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>wiguMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>yilA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>yilAga</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>yilAgA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>wilA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>wilAga</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>wilAgA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>yivale</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vale"/></r>
+</p></e>
+<e><p>
+<l>yimAxiri</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vale"/></r>
+</p></e>
+<e><p>
+<l>yinipoli</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vale"/></r>
+</p></e>
+<e><p>
+<l>wivale</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vale"/></r>
+</p></e>
+<e><p>
+<l>wimAxiri</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vale"/></r>
+</p></e>
+<e><p>
+<l>winipoli</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vale"/></r>
+</p></e>
+<e><p>
+<l>yikimalle</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kimalle"/></r>
+</p></e>
+<e><p>
+<l>wikimalle</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kimalle"/></r>
+</p></e>
+<e><p>
+<l>yikimalleV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kimalle"/></r>
+</p></e>
+<e><p>
+<l>wikimalleV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kimalle"/></r>
+</p></e>
+<e><p>
+<l>yikUdA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kUdA"/></r>
+</p></e>
+<e><p>
+<l>yinikUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kUdA"/></r>
+</p></e>
+<e><p>
+<l>winikUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kUdA"/></r>
+</p></e>
+<e><p>
+<l>yigUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kUdA"/></r>
+</p></e>
+<e><p>
+<l>yinigUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kUdA"/></r>
+</p></e>
+<e><p>
+<l>winigUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kUdA"/></r>
+</p></e>
+<e><p>
+<l>yixqRtilo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xqRtilo"/></r>
+</p></e>
+<e><p>
+<l>yixruRtilo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xqRtilo"/></r>
+</p></e>
+<e><p>
+<l>wixqRtilo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xqRtilo"/></r>
+</p></e>
+<e><p>
+<l>wixruRtilo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xqRtilo"/></r>
+</p></e>
+<e><p>
+<l>yilekuMdA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>yinilekuMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>yileka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>winilekuMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>yikAkuMdA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kAkuMdA"/></r>
+</p></e>
+<e><p>
+<l>yinikAkuMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kAkuMdA"/></r>
+</p></e>
+<e><p>
+<l>yikAka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kAkuMdA"/></r>
+</p></e>
+<e><p>
+<l>winikAkuMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kAkuMdA"/></r>
+</p></e>
+<e><p>
+<l>yimoVxalukoVni</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:moVxalukoVni"/></r>
+</p></e>
+<e><p>
+<l>yinimoVxalukoVni</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:moVxalukoVni"/></r>
+</p></e>
+<e><p>
+<l>winimoVxalukoVni</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:moVxalukoVni"/></r>
+</p></e>
+<e><p>
+<l>yivEpu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vEpu"/></r>
+</p></e>
+<e><p>
+<l>wivEpu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vEpu"/></r>
+</p></e>
+<e><p>
+<l>yikesi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vEpu"/></r>
+</p></e>
+<e><p>
+<l>wikesi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vEpu"/></r>
+</p></e>
+<e><p>
+<l>yipakka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakka"/></r>
+</p></e>
+<e><p>
+<l>yiprakka</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakka"/></r>
+</p></e>
+<e><p>
+<l>yipakkana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakka"/></r>
+</p></e>
+<e><p>
+<l>wipakka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakka"/></r>
+</p></e>
+<e><p>
+<l>wiprakka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakka"/></r>
+</p></e>
+<e><p>
+<l>wipakkana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakka"/></r>
+</p></e>
+<e><p>
+<l>yipakkalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>yiprakkalo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>wipakkalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>wiprakkalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>yiloki</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>wiloki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>yiloniki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>wiloniki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>yilopaliki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>yilopalaki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>yilopalaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>wilopalaki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>wilopalaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>wilopaliki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>yikiMxa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>yikriMxa</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>wikiMxa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>wikriMxa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>yikriMxana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>yikiMxana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>wikriMxana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>wikiMxana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>yaduguna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aduguna"/></r>
+</p></e>
+<e><p>
+<l>yikaduguna</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aduguna"/></r>
+</p></e>
+<e><p>
+<l>wikaduguna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aduguna"/></r>
+</p></e>
+<e><p>
+<l>waduguna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aduguna"/></r>
+</p></e>
+<e><p>
+<l>yikeVlla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kalla"/></r>
+</p></e>
+<e><p>
+<l>yikalla</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kalla"/></r>
+</p></e>
+<e><p>
+<l>wikeVlla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kalla"/></r>
+</p></e>
+<e><p>
+<l>wikalla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kalla"/></r>
+</p></e>
+<e><p>
+<l>yiveVnuka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnuka"/></r>
+</p></e>
+<e><p>
+<l>yiveVnakAla</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnuka"/></r>
+</p></e>
+<e><p>
+<l>yiveVnakAwala</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnuka"/></r>
+</p></e>
+<e><p>
+<l>wiveVnuka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnuka"/></r>
+</p></e>
+<e><p>
+<l>wiveVnakAla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnuka"/></r>
+</p></e>
+<e><p>
+<l>wiveVnakAwala</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnuka"/></r>
+</p></e>
+<e><p>
+<l>yiwaravAwa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwa"/></r>
+</p></e>
+<e><p>
+<l>yiwarvAwa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwa"/></r>
+</p></e>
+<e><p>
+<l>yiwaruvAwa</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwa"/></r>
+</p></e>
+<e><p>
+<l>wiwaravAwa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwa"/></r>
+</p></e>
+<e><p>
+<l>wiwarvAwa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwa"/></r>
+</p></e>
+<e><p>
+<l>wiwaruvAwa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwa"/></r>
+</p></e>
+<e><p>
+<l>yeVxuruguMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxuruguMdA"/></r>
+</p></e>
+<e><p>
+<l>yikeVxuruguMdA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxuruguMdA"/></r>
+</p></e>
+<e><p>
+<l>weVxuruguMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxuruguMdA"/></r>
+</p></e>
+<e><p>
+<l>wikeVxuruguMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxuruguMdA"/></r>
+</p></e>
+<e><p>
+<l>yimaXya</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXya"/></r>
+</p></e>
+<e><p>
+<l>yimaXyalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXya"/></r>
+</p></e>
+<e><p>
+<l>yimaXyana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXya"/></r>
+</p></e>
+<e><p>
+<l>wimaXya</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXya"/></r>
+</p></e>
+<e><p>
+<l>wimaXyalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXya"/></r>
+</p></e>
+<e><p>
+<l>wimaXyana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXya"/></r>
+</p></e>
+<e><p>
+<l>yinaduma</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:naduma"/></r>
+</p></e>
+<e><p>
+<l>winaduma</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:naduma"/></r>
+</p></e>
+<e><p>
+<l>yibaxulugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:baxulugA"/></r>
+</p></e>
+<e><p>
+<l>yibaxulu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:baxulugA"/></r>
+</p></e>
+<e><p>
+<l>yikibaxulu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:baxulugA"/></r>
+</p></e>
+<e><p>
+<l>wibaxulu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:baxulugA"/></r>
+</p></e>
+<e><p>
+<l>wikibaxulu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:baxulugA"/></r>
+</p></e>
+<e><p>
+<l>yicotlo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>yicotulo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>yicotuna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>wicotulo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>wicotlo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>wicotuna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>yisWAnaMlo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMlo"/></r>
+</p></e>
+<e><p>
+<l>yiswAnaMlo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMlo"/></r>
+</p></e>
+<e><p>
+<l>wisWAnaMlo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMlo"/></r>
+</p></e>
+<e><p>
+<l>wiswAnaMlo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMlo"/></r>
+</p></e>
+<e><p>
+<l>yinerugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nerugA"/></r>
+</p></e>
+<e><p>
+<l>yikunerugA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nerugA"/></r>
+</p></e>
+<e><p>
+<l>yikinerugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nerugA"/></r>
+</p></e>
+<e><p>
+<l>wikinerugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nerugA"/></r>
+</p></e>
+<e><p>
+<l>yiprakAraM</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:prakAraM"/></r>
+</p></e>
+<e><p>
+<l>wiprakAramu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:prakAraM"/></r>
+</p></e>
+<e><p>
+<l>yixaggaranuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>yixaggaranuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>wixaggaranuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>wixaggaranuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>yivaxxanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yivaxxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wivaxxanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wivaxxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yipakkanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yipakkanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wipakkanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wipakkanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yipakkalonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yipakkalonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wipakkalonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wipakkalonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilopalanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilopalanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wilopalanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wilopalanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yibEtanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yibEtanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wibEtanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wibEtanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yipEnuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yipEnuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wipEnuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wipEnuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yikiMxanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yikiMxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wikiMxanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wikiMxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yikriMxanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yikriMxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wikriMxanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wikriMxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yadugunuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yadugunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yikadugunuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yikadugunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wikadugunuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wikadugunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yimuMxunuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yimuMxunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wimuMxunuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wimuMxunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiveVnukanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiveVnakAlanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiveVnakAwalanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wiveVnakanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wiveVnakanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiveVnukanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiveVnakAlanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiveVnakAwalanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wiveVnakAlanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wiveVnakAlanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yeVxutinuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxutinuMdi"/></r>
+</p></e>
+<e><p>
+<l>yeVxutanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxutinuMdi"/></r>
+</p></e>
+<e><p>
+<l>yikeVxutinuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxutinuMdi"/></r>
+</p></e>
+<e><p>
+<l>wikeVxutinuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxutinuMdi"/></r>
+</p></e>
+<e><p>
+<l>wikeVxutinuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxutinuMdi"/></r>
+</p></e>
+<e><p>
+<l>yimaXyanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yimaXyanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wimaXyanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wimaXyanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yimaXyalonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yimaXyalonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wimaXyalonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wimaXyalonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yinadumanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yinadumanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>winadumanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>winadumanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiwaravAwanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiwarvAwanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wiwaravAwanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wiwarvAwanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiwaravAwanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiwarvAwanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wiwaravAwanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wiwarvAwanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yicotunuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>yicotunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>wicotunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>wicotunuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>yicotlonuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>yicotlonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>wicotlonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>wicotlonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>yisWAnaMnuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yisWAnamunuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wisWAnaMnuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yisWAnamunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yisWAnaMnuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wisWAnaMnuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wisWAnamunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yisWAnaMlonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wisWAnamulonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiswAnaMlonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wisWAnaMlonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yisWAnaMlonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yisWAnamulonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wisWAnaMlonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wisWAnamulonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yaMxu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>yinaMxu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>winaMxu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>wiyaMxu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>yaMte</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMte"/></r>
+</p></e>
+<e><p>
+<l>waMte</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMte"/></r>
+</p></e>
+<e><p>
+<l>yaMteV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMte"/></r>
+</p></e>
+<e><p>
+<l>waMteV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMte"/></r>
+</p></e>
+<e><p>
+<l>yikaMteV</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kaMteV"/></r>
+</p></e>
+<e><p>
+<l>wikaMte</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kaMteV"/></r>
+</p></e>
+<e><p>
+<l>wikaMteV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kaMteV"/></r>
+</p></e>
+<e><p>
+<l>yikannA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kaMteV"/></r>
+</p></e>
+<e><p>
+<l>wikannA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kaMteV"/></r>
+</p></e>
+<e><p>
+<l>wikanna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kaMteV"/></r>
+</p></e>
+<e><p>
+<l>yEna</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:Ena"/></r>
+</p></e>
+<e><p>
+<l>wEna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:Ena"/></r>
+</p></e>
+<e><p>
+<l>yipAti</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pAti"/></r>
+</p></e>
+<e><p>
+<l>wipAti</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pAti"/></r>
+</p></e>
+<e><p>
+<l>yilAMti</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lAMti"/></r>
+</p></e>
+<e><p>
+<l>yilAti</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lAMti"/></r>
+</p></e>
+<e><p>
+<l>wilAMti</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lAMti"/></r>
+</p></e>
+<e><p>
+<l>wilAti</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lAMti"/></r>
+</p></e>
+<e><p>
+<l>yigAnI</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAni"/></r>
+</p></e>
+<e><p>
+<l>yikAnI</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAni"/></r>
+</p></e>
+<e><p>
+<l>wigAnI</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAni"/></r>
+</p></e>
+<e><p>
+<l>wikAnI</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAni"/></r>
+</p></e>
+<e><p>
+<l>yigA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gA"/></r>
+</p></e>
+<e><p>
+<l>wigA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gA"/></r>
+</p></e>
+<e><p>
+<l>yilu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vu"/></r>
+</p></e>
+<e><p>
+<l>wulu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vu"/></r>
+</p></e>
+<e><p>
+<l>yilU</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:I"/></r>
+</p></e>
+<e><p>
+<l>wulU</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:I"/></r>
+</p></e>
+<e><p>
+<l>yilArA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:I"/></r>
+</p></e>
+<e><p>
+<l>wulArA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:I"/></r>
+</p></e>
+<e><p>
+<l>yilagAdu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAdu"/></r>
+</p></e>
+<e><p>
+<l>wulagAdu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAdu"/></r>
+</p></e>
+<e><p>
+<l>yilagawweV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gawweV"/></r>
+</p></e>
+<e><p>
+<l>wulagawweV</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gawweV"/></r>
+</p></e>
+<e><p>
+<l>yilavAdu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vAdu"/></r>
+</p></e>
+<e><p>
+<l>wulavAdu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vAdu"/></r>
+</p></e>
+<e><p>
+<l>yilAyana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:Ayana"/></r>
+</p></e>
+<e><p>
+<l>wulAyana</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:Ayana"/></r>
+</p></e>
+<e><p>
+<l>yilavAru</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vAru"/></r>
+</p></e>
+<e><p>
+<l>wulavAru</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vAru"/></r>
+</p></e>
+<e><p>
+<l>yilaxi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xi"/></r>
+</p></e>
+<e><p>
+<l>wulaxi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xi"/></r>
+</p></e>
+<e><p>
+<l>yilavi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vi"/></r>
+</p></e>
+<e><p>
+<l>yilay</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vi"/></r>
+</p></e>
+<e><p>
+<l>wulavi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vi"/></r>
+</p></e>
+<e><p>
+<l>yilugAru</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAru"/></r>
+</p></e>
+<e><p>
+<l>wulagAru</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:gAru"/></r>
+</p></e>
+<e><p>
+<l>yilaM</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nu"/></r>
+</p></e>
+<e><p>
+<l>yilamu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nu"/></r>
+</p></e>
+<e><p>
+<l>wulamu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nu"/></r>
+</p></e>
+<e><p>
+<l>wulaM</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nu"/></r>
+</p></e>
+<e><p>
+<l>yilayoVkka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:yoVkka"/></r>
+</p></e>
+<e><p>
+<l>wulayoVkka</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:yoVkka"/></r>
+</p></e>
+<e><p>
+<l>yyila</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:obl"/></r>
+</p></e>
+<e><p>
+<l>wula</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:obl"/></r>
+</p></e>
+<e><p>
+<l>yilani</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ni"/></r>
+</p></e>
+<e><p>
+<l>yilni</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ni"/></r>
+</p></e>
+<e><p>
+<l>wulni</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ni"/></r>
+</p></e>
+<e><p>
+<l>yilanu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ni"/></r>
+</p></e>
+<e><p>
+<l>wulanu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ni"/></r>
+</p></e>
+<e><p>
+<l>wulani</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ni"/></r>
+</p></e>
+<e><p>
+<l>yilaki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ki"/></r>
+</p></e>
+<e><p>
+<l>wulaki</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ki"/></r>
+</p></e>
+<e><p>
+<l>yilaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ki"/></r>
+</p></e>
+<e><p>
+<l>wulaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ki"/></r>
+</p></e>
+<e><p>
+<l>yilawo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>wulawo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>yilawoda</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>wulawoda</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>yyilwo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>yyilwoda</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wo"/></r>
+</p></e>
+<e><p>
+<l>yyilallo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>yilalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>wulalo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>yillo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>wullo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>yilalona</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>wulalona</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>yillona</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>wullona</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lo"/></r>
+</p></e>
+<e><p>
+<l>yilloni</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:loni"/></r>
+</p></e>
+<e><p>
+<l>wulloni</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:loni"/></r>
+</p></e>
+<e><p>
+<l>yilamIxa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxa"/></r>
+</p></e>
+<e><p>
+<l>wulamIxa</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxa"/></r>
+</p></e>
+<e><p>
+<l>yilana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:na"/></r>
+</p></e>
+<e><p>
+<l>wulana</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:na"/></r>
+</p></e>
+<e><p>
+<l>yilaniMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:niMci"/></r>
+</p></e>
+<e><p>
+<l>wulaniMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:niMci"/></r>
+</p></e>
+<e><p>
+<l>yilanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:niMci"/></r>
+</p></e>
+<e><p>
+<l>wulanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:niMci"/></r>
+</p></e>
+<e><p>
+<l>yilanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>wulanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>yilaxvArA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xvArA"/></r>
+</p></e>
+<e><p>
+<l>wulaxvArA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xvArA"/></r>
+</p></e>
+<e><p>
+<l>yilavalana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
+<l>wulavalana</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
+<l>yilavalla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
+<l>wulavalla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
+<l>yyilavalana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
+<l>yilacewa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:batti"/></r>
+</p></e>
+<e><p>
+<l>wulacewa</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:batti"/></r>
+</p></e>
+<e><p>
+<l>yilace</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:batti"/></r>
+</p></e>
+<e><p>
+<l>wulace</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:batti"/></r>
+</p></e>
+<e><p>
+<l>yilawopAtu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ce"/></r>
+</p></e>
+<e><p>
+<l>wulawopAtu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ce"/></r>
+</p></e>
+<e><p>
+<l>yilawobAtu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ce"/></r>
+</p></e>
+<e><p>
+<l>wulawobAtu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:ce"/></r>
+</p></e>
+<e><p>
+<l>yilawokUdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>wulawokUdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>yilawogUdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>wulawogUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>yilawogUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>wulawokUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wopAtu"/></r>
+</p></e>
+<e><p>
+<l>yilakosaM</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>wulakosaM</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>yilakE</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>wulakE</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>wulArWaM</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:wokUdi"/></r>
+</p></e>
+<e><p>
+<l>yilakoVraku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kosaM"/></r>
+</p></e>
+<e><p>
+<l>wulakoVraku</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kosaM"/></r>
+</p></e>
+<e><p>
+<l>yilakoVrYaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kosaM"/></r>
+</p></e>
+<e><p>
+<l>wulakoVrYaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kosaM"/></r>
+</p></e>
+<e><p>
+<l>yilalonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>yilalonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>wulalonuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>yillonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>wullonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>wulalonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>yillonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>wullonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:koVraku"/></r>
+</p></e>
+<e><p>
+<l>yilamIxanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lonuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulamIxanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lonuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilamIxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lonuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulamIxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lonuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaxAkA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaxAkA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaxAka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaxAka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilavaraku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xAkA"/></r>
+</p></e>
+<e><p>
+<l>wulavaraku</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xAkA"/></r>
+</p></e>
+<e><p>
+<l>yilamIxaki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:varaku"/></r>
+</p></e>
+<e><p>
+<l>wulamIxaki</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:varaku"/></r>
+</p></e>
+<e><p>
+<l>yilamIxaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:varaku"/></r>
+</p></e>
+<e><p>
+<l>wulamIxaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:varaku"/></r>
+</p></e>
+<e><p>
+<l>yilaxaggara</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxaki"/></r>
+</p></e>
+<e><p>
+<l>wulaxaggara</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxaki"/></r>
+</p></e>
+<e><p>
+<l>wulaxaggira</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxaki"/></r>
+</p></e>
+<e><p>
+<l>yilaxaggira</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:mIxaki"/></r>
+</p></e>
+<e><p>
+<l>yilavaxxa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggara"/></r>
+</p></e>
+<e><p>
+<l>wulavaxxa</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggara"/></r>
+</p></e>
+<e><p>
+<l>yilakAda</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxa"/></r>
+</p></e>
+<e><p>
+<l>wulakAda</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxa"/></r>
+</p></e>
+<e><p>
+<l>yileVxurugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kAda"/></r>
+</p></e>
+<e><p>
+<l>wulakeVxurugA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kAda"/></r>
+</p></e>
+<e><p>
+<l>yilamuMxu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:keVxurugA"/></r>
+</p></e>
+<e><p>
+<l>wulamuMxu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:keVxurugA"/></r>
+</p></e>
+<e><p>
+<l>yilaguriMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxu"/></r>
+</p></e>
+<e><p>
+<l>wulaguriMci</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxu"/></r>
+</p></e>
+<e><p>
+<l>yilanuguriMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxu"/></r>
+</p></e>
+<e><p>
+<l>wulanugUrci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxu"/></r>
+</p></e>
+<e><p>
+<l>wulniguriMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxu"/></r>
+</p></e>
+<e><p>
+<l>yilapE</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guriMci"/></r>
+</p></e>
+<e><p>
+<l>wulapE</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guriMci"/></r>
+</p></e>
+<e><p>
+<l>yilapEna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guriMci"/></r>
+</p></e>
+<e><p>
+<l>wulapEna</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guriMci"/></r>
+</p></e>
+<e><p>
+<l>yilapEni</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guriMci"/></r>
+</p></e>
+<e><p>
+<l>wulapEni</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guriMci"/></r>
+</p></e>
+<e><p>
+<l>yilapEki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pE"/></r>
+</p></e>
+<e><p>
+<l>wulapEki</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pE"/></r>
+</p></e>
+<e><p>
+<l>yilaguMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEki"/></r>
+</p></e>
+<e><p>
+<l>wulaguMdA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEki"/></r>
+</p></e>
+<e><p>
+<l>yilalA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>yyilalA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>wulalA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>yillA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>wullA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>yilalAga</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>wulalAga</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>yillAgA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>wullAgA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:guMdA"/></r>
+</p></e>
+<e><p>
+<l>yilavale</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>wulavale</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>yilamAxiri</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>wulamAxiri</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>yilanupolina</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>wulanupolina</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lA"/></r>
+</p></e>
+<e><p>
+<l>yilakumalle</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vale"/></r>
+</p></e>
+<e><p>
+<l>wulakumalle</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vale"/></r>
+</p></e>
+<e><p>
+<l>yilakumalleV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vale"/></r>
+</p></e>
+<e><p>
+<l>wulakumalleV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vale"/></r>
+</p></e>
+<e><p>
+<l>yilukUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kimalle"/></r>
+</p></e>
+<e><p>
+<l>wulukUdA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kimalle"/></r>
+</p></e>
+<e><p>
+<l>yilugUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kimalle"/></r>
+</p></e>
+<e><p>
+<l>wulugUdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kimalle"/></r>
+</p></e>
+<e><p>
+<l>yilaxqRtilo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kUdA"/></r>
+</p></e>
+<e><p>
+<l>wulaxqRtilo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kUdA"/></r>
+</p></e>
+<e><p>
+<l>yilaxruRtilo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kUdA"/></r>
+</p></e>
+<e><p>
+<l>wulaxruRtilo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kUdA"/></r>
+</p></e>
+<e><p>
+<l>yilulekuMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xqRtilo"/></r>
+</p></e>
+<e><p>
+<l>wululekuMdA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xqRtilo"/></r>
+</p></e>
+<e><p>
+<l>yiluleka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xqRtilo"/></r>
+</p></e>
+<e><p>
+<l>wululeka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xqRtilo"/></r>
+</p></e>
+<e><p>
+<l>yilukAkuMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>wulukAkuMdA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>yilukAka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>wulukAka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>yilugAkuMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>wulugAkuMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>yilugAka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>wulugAka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lekuMdA"/></r>
+</p></e>
+<e><p>
+<l>yilumoVxalukoVni</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kAkuMdA"/></r>
+</p></e>
+<e><p>
+<l>wulumoVxalukoVni</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kAkuMdA"/></r>
+</p></e>
+<e><p>
+<l>yilavEpu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:moVxalukoVni"/></r>
+</p></e>
+<e><p>
+<l>wulavEpu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:moVxalukoVni"/></r>
+</p></e>
+<e><p>
+<l>yilavepu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:moVxalukoVni"/></r>
+</p></e>
+<e><p>
+<l>wulavepu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:moVxalukoVni"/></r>
+</p></e>
+<e><p>
+<l>yilakesi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:moVxalukoVni"/></r>
+</p></e>
+<e><p>
+<l>wulakesi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:moVxalukoVni"/></r>
+</p></e>
+<e><p>
+<l>yilapakka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vEpu"/></r>
+</p></e>
+<e><p>
+<l>wulapakka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vEpu"/></r>
+</p></e>
+<e><p>
+<l>yilaprakka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vEpu"/></r>
+</p></e>
+<e><p>
+<l>yilapakkana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vEpu"/></r>
+</p></e>
+<e><p>
+<l>wulaprakka</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vEpu"/></r>
+</p></e>
+<e><p>
+<l>wulapakkana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vEpu"/></r>
+</p></e>
+<e><p>
+<l>yilapakkalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakka"/></r>
+</p></e>
+<e><p>
+<l>wulapakkalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakka"/></r>
+</p></e>
+<e><p>
+<l>yilaprakkalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakka"/></r>
+</p></e>
+<e><p>
+<l>wulaprakkalo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakka"/></r>
+</p></e>
+<e><p>
+<l>yilloki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>wulloki</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>yilloniki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>wulloniki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>yilalopalaki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>wulalopalaki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>yillopaliki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>wullopaliki</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>yilalopalaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>wulalopalaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>yillopalaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>wullopalaku</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkalo"/></r>
+</p></e>
+<e><p>
+<l>yilakiMxa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>wulakiMxa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>yilakriMxa</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>wulakriMxa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>yilakriMxana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>wulakriMxana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>yilakiMxana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>wulakiMxana</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalaki"/></r>
+</p></e>
+<e><p>
+<l>yiladuguna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>wuladuguna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>yilakaduguna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>wulakaduguna</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kiMxa"/></r>
+</p></e>
+<e><p>
+<l>yilakeVlla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aduguna"/></r>
+</p></e>
+<e><p>
+<l>wulakeVlla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aduguna"/></r>
+</p></e>
+<e><p>
+<l>yilakalla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aduguna"/></r>
+</p></e>
+<e><p>
+<l>wulakalla</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aduguna"/></r>
+</p></e>
+<e><p>
+<l>yilaveVnuka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kalla"/></r>
+</p></e>
+<e><p>
+<l>wulaveVnuka</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kalla"/></r>
+</p></e>
+<e><p>
+<l>yilaveVnakAla</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kalla"/></r>
+</p></e>
+<e><p>
+<l>wulaveVnakAla</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kalla"/></r>
+</p></e>
+<e><p>
+<l>yilaveVnakAwala</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kalla"/></r>
+</p></e>
+<e><p>
+<l>wulaveVnakAwala</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kalla"/></r>
+</p></e>
+<e><p>
+<l>yilawaravAwa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnuka"/></r>
+</p></e>
+<e><p>
+<l>wulawaravAwa</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnuka"/></r>
+</p></e>
+<e><p>
+<l>yilawarvAwa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnuka"/></r>
+</p></e>
+<e><p>
+<l>wulawarvAwa</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnuka"/></r>
+</p></e>
+<e><p>
+<l>yileVxuruguMdA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwa"/></r>
+</p></e>
+<e><p>
+<l>wulakeVxuruguMdA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwa"/></r>
+</p></e>
+<e><p>
+<l>yilamaXya</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxuruguMdA"/></r>
+</p></e>
+<e><p>
+<l>wulamaXya</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxuruguMdA"/></r>
+</p></e>
+<e><p>
+<l>yilamaXyalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxuruguMdA"/></r>
+</p></e>
+<e><p>
+<l>wulamaXyalo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxuruguMdA"/></r>
+</p></e>
+<e><p>
+<l>yilanaduma</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXya"/></r>
+</p></e>
+<e><p>
+<l>wulanaduma</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXya"/></r>
+</p></e>
+<e><p>
+<l>yilabaxulugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:naduma"/></r>
+</p></e>
+<e><p>
+<l>wulabaxulugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:naduma"/></r>
+</p></e>
+<e><p>
+<l>yilabaxulu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:naduma"/></r>
+</p></e>
+<e><p>
+<l>wulabaxulu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:naduma"/></r>
+</p></e>
+<e><p>
+<l>yilacotlo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:baxulugA"/></r>
+</p></e>
+<e><p>
+<l>wulacotlo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:baxulugA"/></r>
+</p></e>
+<e><p>
+<l>yilacotulo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:baxulugA"/></r>
+</p></e>
+<e><p>
+<l>wulacotulo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:baxulugA"/></r>
+</p></e>
+<e><p>
+<l>yilasWAnaMlo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>wulasWAnaMlo</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>yilaswAnaMlo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>wulaswAnaMlo</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>yilanerugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>wulanerugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>yilakunerugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>wulakunerugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>yilakinerugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>wulakinerugA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlo"/></r>
+</p></e>
+<e><p>
+<l>yilaprakAraM</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMlo"/></r>
+</p></e>
+<e><p>
+<l>wulaprakAraM</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMlo"/></r>
+</p></e>
+<e><p>
+<l>yilabatti</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMlo"/></r>
+</p></e>
+<e><p>
+<l>wulabatti</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMlo"/></r>
+</p></e>
+<e><p>
+<l>yilaxaggaranuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nerugA"/></r>
+</p></e>
+<e><p>
+<l>wulaxaggaranuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nerugA"/></r>
+</p></e>
+<e><p>
+<l>yilaxaggaranuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nerugA"/></r>
+</p></e>
+<e><p>
+<l>wulaxaggaranuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nerugA"/></r>
+</p></e>
+<e><p>
+<l>yilavaxxanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:prakAraM"/></r>
+</p></e>
+<e><p>
+<l>wulavaxxanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:prakAraM"/></r>
+</p></e>
+<e><p>
+<l>yilavaxxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:prakAraM"/></r>
+</p></e>
+<e><p>
+<l>wulavaxxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:prakAraM"/></r>
+</p></e>
+<e><p>
+<l>yilapakkanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulapakkanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilapakkanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulapakkanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilapakkalonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulapakkalonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilapakkalonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulapakkalonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:xaggaranuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilalopalanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yillopalanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulalopalanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wullopalanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilalopalanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulalopalanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yillopalanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wullopalanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:vaxxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilabEtanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulabEtanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilabEtanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulabEtanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pakkanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilapEnuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulapEnuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilapEnuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulapEnuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lopalanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilakiMxanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulakiMxanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilakiMxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulakiMxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilakriMxanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulakriMxanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilakriMxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulakriMxanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:bEtanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiladugunuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wuladugunuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yiladugunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wuladugunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pEnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilamuMxunuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulamuMxunuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilamuMxunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulamuMxunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kriMxanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaveVnukanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaveVnukanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaveVnakAlanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaveVnakAlanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaveVnukanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaveVnukanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaveVnakAlanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaveVnakAlanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaveVnakAwalanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaveVnakAwalanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaveVnakAwalanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaveVnakAwalanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:adugunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yileVxutinuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wuleVxutinuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulakeVxutinuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yileVxutanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wuleVxutanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulakeVxutanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yileVxutinuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wuleVxutinuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulakeVxutinuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:muMxunuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilamaXyanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulamaXyanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilamaXyanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulamaXyanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilamaXyalonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulamaXyalonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilamaXyalonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulamaXyalonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:veVnukanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilanadumanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxutinuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulanadumanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxutinuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilanadumanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxutinuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulanadumanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:eVxutinuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilawaravAwanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulawaravAwanuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilawarvAwanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulawarvAwanuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilawaravAwanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulawaravAwanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilawarvAwanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulawarvAwanuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:maXyanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilacotunuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulacotunuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilacotunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulacotunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilacotlonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulacotlonuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilacotlonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulacotlonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:nadumanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilasWAnamunuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulasWAnamunuMdi</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaswAnaMnuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaswAnaMnuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilasWAnamunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulasWAnamunuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaswAnaMnuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaswAnaMnuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilasWAnaMlonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulasWAnaMlonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaswAnamulonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaswAnamulonuMdi</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilasWAnaMlonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulasWAnaMlonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaswAnamulonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaswAnamulonuMci</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:waravAwanuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilayaMxu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulayaMxu</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaMxu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaMxu</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:cotlonuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaMte</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaMte</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilaMteV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>wulaMteV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:sWAnaMnuMdi"/></r>
+</p></e>
+<e><p>
+<l>yilakaMteV</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>yilakaMte</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>wulakaMteV</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>wulakaMte</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>yilakanna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>yilakannA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>wulakanna</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>wulakannA</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMxu"/></r>
+</p></e>
+<e><p>
+<l>wulEna</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:aMte"/></r>
+</p></e>
+<e><p>
+<l>wulupAti</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:kaMteV"/></r>
+</p></e>
+<e><p>
+<l>wululAMti</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:Ena"/></r>
+</p></e>
+<e><p>
+<l>wululAti</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:Ena"/></r>
+</p></e>
+<e><p>
+<l>wulugAnI</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pAti"/></r>
+</p></e>
+<e><p>
+<l>wulukAnI</l>
+<r e="LR">yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:pAti"/></r>
+</p></e>
+<e><p>
+<l>wulugA</l>
+<r>yi<s n="root:goyi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:lAMti"/></r>
+</p></e>
+</pardef>
+

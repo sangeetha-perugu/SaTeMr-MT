@@ -30,6 +30,12 @@ fp1 = open(inputfile) # Open file on read mode -- input file
 lines = fp1.read().split("\n") # Create a list containing all lines
 fp1.close() # Close file
 
+#open file using open file mode
+sdef_fp = open("sdef.txt", "a") # Open file on appen mode -- sdef file
+paradef_fp = open("pardef.txt", "a") # Open file on appen mode -- pardef file
+dict_fp = open("dict.txt", "a") # Open file on appen mode -- pardef file
+
+
 # Create a trie with the words you want to match against
 #trie =pytrie.SortedStringTrie()
 #print(trie)
@@ -38,7 +44,8 @@ cat = lines[0].strip()
 paradigm = re.sub(r'[\t ]+', '', lines[1]).strip()
 
 features_hash = {}
-sdef = '<sdefs>\n<sdef n="root:' + paradigm + '" c="'+paradigm+'"/>\n'
+sdef = '<sdefs>\n'
+sdef = '<sdef n="root:' + paradigm + '" c="'+paradigm+'"/>\n'
 sdef += '<sdef n="lcat:' + cat +'" c="'+cat+'" />\n'
 sdef += '<sdef n="gen:any" c="any"/>\n'
 sdef += '<sdef n="per:any" c="any"/>\n'
@@ -53,8 +60,9 @@ for line in lines[2::]:
 	current_form = current_line[0]
 	forms = current_form.split("/")
 	for form in forms:
+		form = form.strip()
 		#print("1",form)
-		if(form == "-"):
+		if(form == "-" or form == ""):
 			continue
 		if(re.search(r'\*', form)):
 			lr_flag = 1
@@ -100,8 +108,10 @@ max_match = os.path.commonprefix(strings)
 rem = re.sub(max_match, '', paradigm)
 
 out_content = '<?xml version="1.0"?>\n<dictionary>\n<alphabet>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</alphabet>\n'
-out_content += sdef + '</sdefs>'
-out_content += '<pardefs><pardef n="' + max_match + '/' + rem + '__n">\n'
+#out_content = sdef #+ '</sdefs>'
+sdef_fp.write(sdef)
+#out_content += '<pardefs>'
+out_content = '<pardef n="' + max_match + '/' + rem + '__n">\n'
 
 dict_content = ''
 
@@ -117,11 +127,17 @@ for s in strings:
 	else:
 		out_content += '<r>'+ rem + features_hash[s] + '</r>\n</p></e>\n'
 
-dict_content += '<section id="main" type="standard">\n<e lm="' + strings[0] + '"><i>' + max_match + '</i><par n="' + max_match + '/' + rem + '__n"/></e></section>\n'
+#dict_content += '<section id="main" type="standard">\n'
+dict_content += '<e lm="' + strings[0] + '">'
+dict_content += '<i>' + max_match + '</i><par n="' + max_match + '/' + rem + '__n"/></e>'
+#dict_content + ='</section>\n'
 
-out_content += '</pardef></pardefs>\n'
-out_content += dict_content
-out_content += '</dictionary>\n'
+out_content += '</pardef>\n'
+#out_content += '</pardefs>\n'
+#out_content += dict_content
+paradef_fp.write(out_content)
+dict_fp.write(dict_content)
+#out_content += '</dictionary>\n'
 #print(s)
 print(out_content)
 #print(max_match)
