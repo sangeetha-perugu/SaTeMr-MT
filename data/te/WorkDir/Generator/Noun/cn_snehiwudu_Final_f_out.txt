@@ -280,6 +280,14 @@
 <r e="LR">udu<s n="root:snehiwudu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
 </p></e>
 <e><p>
+<l>univalana</l>
+<r e="LR">udu<s n="root:snehiwudu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
+<l>univalla</l>
+<r e="LR">udu<s n="root:snehiwudu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:valana"/></r>
+</p></e>
+<e><p>
 <l>udinibatti</l>
 <r>udu<s n="root:snehiwudu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:batti"/></r>
 </p></e>
@@ -289,14 +297,6 @@
 </p></e>
 <e><p>
 <l>uNNibatti</l>
-<r e="LR">udu<s n="root:snehiwudu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:batti"/></r>
-</p></e>
-<e><p>
-<l>univalana</l>
-<r e="LR">udu<s n="root:snehiwudu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:batti"/></r>
-</p></e>
-<e><p>
-<l>univalla</l>
 <r e="LR">udu<s n="root:snehiwudu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:0"/><s n="suffix:batti"/></r>
 </p></e>
 <e><p>

@@ -104,7 +104,8 @@ for c in cat_list:
 		pdgm_slots = "\n".join(cur_list[start_index:end_index])
 		print("iam",pdgm_slots, start_index, end_index)
 		count = count + offset2
-		fpw2 = open("out/" + root, "a", encoding="utf-8")
+		fn = re.sub(r'\*', '', root)
+		fpw2 = open("out/" + fn, "a", encoding="utf-8")
 		fpw2.write(pdgm_slots + "\n")
 		fpw2.close()
 			#else:

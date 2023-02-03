@@ -150,7 +150,7 @@ koVtlalA/koVttullA/koVtlalAgA/*koVttullAgA/koVtlalAga	n number bahu parsarg lA
 *koVtlavEpu/koVtlavepu/koVtlakesi/koVttulavepu/koVttulavEpu/koVttulakesi	n number bahu parsarg vEpu 
 koVtlapakka/koVtlapakkana/koVtlaprakka/*koVtlaprakkana/koVttulapakkana	n number bahu parsarg pakka 
 koVtlapakkalo/*koVtlaprakkalo	n number bahu parsarg pakkalo 
-koVtlaloki/koVtlaloniki/kovttulloki/kovttulloniki/*koVtlalopalaki/koVtlalopaliki/koVttullopaliki/koVtlalopalaku/koVttullopalaku	n number bahu parsarg lopalaki 
+koVtlaloki/koVtlaloniki/koVttulloki/koVttulloniki/*koVtlalopalaki/koVtlalopaliki/koVttullopaliki/koVtlalopalaku/koVttullopalaku	n number bahu parsarg lopalaki 
 koVtlakiMxa/*koVtlakriMxa/koVttulakiMxa/koVtlakriMxana/koVtlakiMxana	n number bahu parsarg kiMxa 
 koVtladuguna/*koVtlakaduguna	n number bahu parsarg aduguna 
 koVtlakeVlla/*koVtlakalla	n number bahu parsarg kalla 

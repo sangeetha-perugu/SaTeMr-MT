@@ -52,6 +52,7 @@ sdef += '<sdef n="per:any" c="any"/>\n'
 sdef += '<sdef n="case:o" c="o"/>\n'
 sdef += '<sdef n="cm:0" c="0"/>\n'
 
+line_no = 1
 for line in lines[2::]:
 	current_line = line.split("\t")
 	#print(line)
@@ -64,6 +65,11 @@ for line in lines[2::]:
 		#print("1",form)
 		if(form == "-" or form == ""):
 			continue
+		if(re.search(r'#', form)):
+			case_flag = 1
+			cform = re.sub(r'#', '', form)
+		else:
+			case_flag = 0
 		if(re.search(r'\*', form)):
 			lr_flag = 1
 			cform = re.sub(r'\*', '', form)
@@ -98,9 +104,18 @@ for line in lines[2::]:
 		feature_value += '<s n="case:o"/><s n="cm:0"/><s n="suffix:' + suff + '"/>'
 		sdef += '<sdef n="num:' + number +'" c="'+number+'" />\n<sdef n="suffix:' + suff + '" c="'+suff+'"/>\n'
 		if(lr_flag == 1):
-			features_hash[cform] = feature_value
+			if(cform in features_hash):
+				cur_val = features_hash[cform]
+				features_hash[cform] = cur_val + "	" + feature_value
+			else:
+				features_hash[cform] = feature_value
 		else:
-			features_hash[cform] = feature_value + 'LR_FLAG'
+			if(cform in features_hash):
+				cur_val = features_hash[cform]
+				features_hash[cform] = cur_val + "	" + feature_value + 'LR_FLAG'
+			else:
+				features_hash[cform] = feature_value + 'LR_FLAG'
+	line_no = line_no + 1
 
 strings = list(features_hash.keys())
 #print(strings)
@@ -116,19 +131,22 @@ out_content = '<pardef n="' + max_match + '/' + rem + '__n">\n'
 dict_content = ''
 
 for s in strings:
-	out_content += '<e><p>\n<l>'
+	out_content += '<e><p><l>'
 	left = re.sub(max_match, '', s)
 	out_content += left
-	out_content += '</l>\n'
-	if(re.search(r'LR_FLAG', features_hash[s])):
-		val = features_hash[s]
-		val =  re.sub(r'LR_FLAG', '', val)
-		out_content += '<r e="LR">'+ rem + val + '</r>\n</p></e>\n'
-	else:
-		out_content += '<r>'+ rem + features_hash[s] + '</r>\n</p></e>\n'
+	out_content += '</l>'
+	
+	val = features_hash[s]
+	for v in val.split("	"):
+		if(re.search(r'LR_FLAG', v)):
+			v =  re.sub(r'LR_FLAG', '', v)
+			out_content += '<r e="LR">'+ rem + v + '</r></p></e>\n'
+		else:
+			out_content += '<r>'+ rem + v + '</r></p></e>\n'
 
-#dict_content += '<section id="main" type="standard">\n<e lm="' + strings[0] + '">'
-dict_content += '<e><i>' + max_match + '</i><par n="' + max_match + '/' + rem + '__n"/></e>'
+#dict_content += '<section id="main" type="standard">\n'
+dict_content += '<e lm="' + strings[0] + '">'
+dict_content += '<i>' + max_match + '</i><par n="' + max_match + '/' + rem + '__n"/></e>'
 #dict_content + ='</section>\n'
 
 out_content += '</pardef>\n'
