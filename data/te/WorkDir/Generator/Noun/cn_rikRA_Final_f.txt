@@ -1,18 +1,18 @@
 noun	
 rikRA	
-*rikRA	n number eka parsarg 0 
+*rikRA	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*rikRAgAdu	n number eka parsarg gAdu 
-*rikRAgawweV	n number eka parsarg gawweV 
-*rikRAvAdu	n number eka parsarg vAdu 
-*rikRAAyana	n number eka parsarg Ayana 
-*rikRAvAru	n number eka parsarg vAru 
-*rikRAxi	n number eka parsarg xi 
-*rikRAvi	n number eka parsarg vi 
-*rikRAgAru	n number eka parsarg gAru 
+*rikRAgAdu	n number eka parsarg gAdu  case d
+*rikRAgawweV	n number eka parsarg gawweV  case d
+*rikRAvAdu	n number eka parsarg vAdu  case d
+*rikRAAyana	n number eka parsarg Ayana  case d
+*rikRAvAru	n number eka parsarg vAru  case d
+*rikRAxi	n number eka parsarg xi  case d
+*rikRAvi	n number eka parsarg vi  case d
+*rikRAgAru	n number eka parsarg gAru  case d
 *rikRAnu	n number eka parsarg nu 
-*rikRAvu	n number eka parsarg vu 
+*rikRAvu	n number eka parsarg vu  case d
 *rikRAyoVkka	n number eka parsarg yoVkka 
 *rikRA	n number eka parsarg obl 
 *rikRAni/rikRAnu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ rikRAEna/*rikRAayina	n number eka parsarg Ena
 *rikRAlAMti/rikRAlAti	n number eka parsarg lAMti 
 *rikRAgAnI/rikRAkAnI	n number eka parsarg gAni 
 *rikRAgA	n number eka parsarg gA 
-*rikRAlu	n number bahu parsarg 0 
-rikRAlU/*rikRAlArA	n number bahu parsarg I 
+*rikRAlu	n number bahu parsarg 0  case d
+rikRAlU/*rikRAlArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*rikRAlagAdu	n number bahu parsarg gAdu 
-*rikRAlagawweV	n number bahu parsarg gawweV 
-*rikRAlavAdu/rikRAlodu	n number bahu parsarg vAdu 
-*rikRAlAyana	n number bahu parsarg Ayana 
-*rikRAlavAru/rikRAloru	n number bahu parsarg vAru 
-rikRAlxi/*rikRAlaxi	n number bahu parsarg xi 
-*rikRAlavi/rikRAliy	n number bahu parsarg vi 
-*rikRAlagAru	n number bahu parsarg gAru 
-rikRAlamu/*rikRAlaM	n number bahu parsarg nu 
+*rikRAlagAdu	n number bahu parsarg gAdu  case d
+*rikRAlagawweV	n number bahu parsarg gawweV  case d
+*rikRAlavAdu/rikRAlodu	n number bahu parsarg vAdu  case d
+*rikRAlAyana	n number bahu parsarg Ayana  case d
+*rikRAlavAru/rikRAloru	n number bahu parsarg vAru  case d
+rikRAlxi/*rikRAlaxi	n number bahu parsarg xi  case d
+*rikRAlavi/rikRAliy	n number bahu parsarg vi  case d
+*rikRAlagAru	n number bahu parsarg gAru  case d
+rikRAlamu/*rikRAlaM	n number bahu parsarg nu  case d
 *rikRAlu	n number bahu parsarg vu 
 *rikRAlayoVkka	n number bahu parsarg yoVkka 
 *rikRAla	n number bahu parsarg obl 

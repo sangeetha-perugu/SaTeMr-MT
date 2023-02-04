@@ -1,18 +1,18 @@
 noun	
 peVtteV	
-*peVtteV	n number eka parsarg 0 
+*peVtteV	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*peVtteVgAdu	n number eka parsarg gAdu 
-*peVtteVgawweV	n number eka parsarg gawweV 
-*peVtteVvAdu	n number eka parsarg vAdu 
-*peVttAyana	n number eka parsarg Ayana 
-*peVtteVvAru	n number eka parsarg vAru 
-*peVtteVxi	n number eka parsarg xi 
-*peVtteVvi	n number eka parsarg vi 
-*peVtteVgAru	n number eka parsarg gAru 
+*peVtteVgAdu	n number eka parsarg gAdu  case d
+*peVtteVgawweV	n number eka parsarg gawweV  case d
+*peVtteVvAdu	n number eka parsarg vAdu  case d
+*peVttAyana	n number eka parsarg Ayana  case d
+*peVtteVvAru	n number eka parsarg vAru  case d
+*peVtteVxi	n number eka parsarg xi  case d
+*peVtteVvi	n number eka parsarg vi  case d
+*peVtteVgAru	n number eka parsarg gAru  case d
 *peVtteVni/peVtteVnu	n number eka parsarg nu 
-*peVtteVvi/peVtteVvu	n number eka parsarg vu 
+*peVtteVvi/peVtteVvu	n number eka parsarg vu  case d
 *peVtteVyoVkka	n number eka parsarg yoVkka 
 *peVtteV	n number eka parsarg obl 
 *peVtteVni/peVtteVnu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ peVttaMte/*peVttaMteV	n number eka parsarg aMte
 *peVtteVlAMti/peVtteVlAti	n number eka parsarg lAMti 
 *peVtteVgAnI/peVttekAnI	n number eka parsarg gAni 
 *peVtteVgA	n number eka parsarg gA 
-*peVtteVlu	n number bahu parsarg 0 
-*peVtteVlU/peVtteVlArA	n number bahu parsarg I 
+*peVtteVlu	n number bahu parsarg 0  case d
+*peVtteVlU/peVtteVlArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*peVtteVlagAdu	n number bahu parsarg gAdu 
-*peVtteVlagawweV	n number bahu parsarg gawweV 
-*peVtteVlavAdu/peVtteVlodu	n number bahu parsarg vAdu 
-*peVtteVlAyana	n number bahu parsarg Ayana 
-*peVtteVlavAru/peVtteVloru	n number bahu parsarg vAru 
-*peVtteVlaxi/peVtteVlxi	n number bahu parsarg xi 
-*peVtteVlavi/peVtteVliy	n number bahu parsarg vi 
-*peVtteVlagAru	n number bahu parsarg gAru 
-*peVtteVlaM/peVtteVlamu	n number bahu parsarg nu 
+*peVtteVlagAdu	n number bahu parsarg gAdu  case d
+*peVtteVlagawweV	n number bahu parsarg gawweV  case d
+*peVtteVlavAdu/peVtteVlodu	n number bahu parsarg vAdu  case d
+*peVtteVlAyana	n number bahu parsarg Ayana  case d
+*peVtteVlavAru/peVtteVloru	n number bahu parsarg vAru  case d
+*peVtteVlaxi/peVtteVlxi	n number bahu parsarg xi  case d
+*peVtteVlavi/peVtteVliy	n number bahu parsarg vi  case d
+*peVtteVlagAru	n number bahu parsarg gAru  case d
+*peVtteVlaM/peVtteVlamu	n number bahu parsarg nu  case d
 *peVtteVlu	n number bahu parsarg vu 
 *peVtteVlayoVkka	n number bahu parsarg yoVkka 
 *peVtteVla	n number bahu parsarg obl 

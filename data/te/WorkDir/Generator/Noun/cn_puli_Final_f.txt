@@ -1,18 +1,18 @@
 noun	
 puli	
-puli	n number eka parsarg 0 
+puli	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*puligAdu	n number eka parsarg gAdu 
-*puligawweV	n number eka parsarg gawweV 
-*pulivAdu	n number eka parsarg vAdu 
-*pulAyana	n number eka parsarg Ayana 
-*pulivAru	n number eka parsarg vAru 
-*pulixi	n number eka parsarg xi 
-*pulivi/puliy	n number eka parsarg vi 
-*puligAru	n number eka parsarg gAru 
+*puligAdu	n number eka parsarg gAdu  case d
+*puligawweV	n number eka parsarg gawweV  case d
+*pulivAdu	n number eka parsarg vAdu  case d
+*pulAyana	n number eka parsarg Ayana  case d
+*pulivAru	n number eka parsarg vAru  case d
+*pulixi	n number eka parsarg xi  case d
+*pulivi/puliy	n number eka parsarg vi  case d
+*puligAru	n number eka parsarg gAru  case d
 pulinu/*pulini	n number eka parsarg nu 
-pulivu/*pulivi	n number eka parsarg vu 
+pulivu/*pulivi	n number eka parsarg vu  case d
 *puliyoVkka	n number eka parsarg yoVkka 
 *puli	n number eka parsarg obl 
 *pulini	n number eka parsarg ni 
@@ -94,18 +94,18 @@ pulaMte/*pulaMteV	n number eka parsarg aMte
 *pulilAMti/pulilAti	n number eka parsarg lAMti 
 *puligAnI/pulikAnI	n number eka parsarg gAni 
 *puligA	n number eka parsarg gA 
-*pululu	n number bahu parsarg 0 
-*pululU/pululArA	n number bahu parsarg I 
+*pululu	n number bahu parsarg 0  case d
+*pululU/pululArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*pululagAdu	n number bahu parsarg gAdu 
-*pululagawweV	n number bahu parsarg gawweV 
-*pululavAdu/pululodu	n number bahu parsarg vAdu 
-*pululAyana	n number bahu parsarg Ayana 
-*pululavAru/pululoru	n number bahu parsarg vAru 
-*pululaxi/pululxi	n number bahu parsarg xi 
-*pululavi/puliliy	n number bahu parsarg vi 
-*pululagAru	n number bahu parsarg gAru 
-*pululaM/pululamu	n number bahu parsarg nu 
+*pululagAdu	n number bahu parsarg gAdu  case d
+*pululagawweV	n number bahu parsarg gawweV  case d
+*pululavAdu/pululodu	n number bahu parsarg vAdu  case d
+*pululAyana	n number bahu parsarg Ayana  case d
+*pululavAru/pululoru	n number bahu parsarg vAru  case d
+*pululaxi/pululxi	n number bahu parsarg xi  case d
+*pululavi/puliliy	n number bahu parsarg vi  case d
+*pululagAru	n number bahu parsarg gAru  case d
+*pululaM/pululamu	n number bahu parsarg nu  case d
 *pululu	n number bahu parsarg vu 
 *pululayoVkka	n number bahu parsarg yoVkka 
 *pulula	n number bahu parsarg obl 

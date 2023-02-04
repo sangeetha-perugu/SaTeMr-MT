@@ -1,18 +1,18 @@
 noun	
 piMdi	
-*piMdi	n number eka parsarg 0 
+*piMdi	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*piMdigAdu	n number eka parsarg gAdu 
-*piMdigawweV	n number eka parsarg gawweV 
-*piMdivAdu	n number eka parsarg vAdu 
-*piMdAyana	n number eka parsarg Ayana 
-*piMdivAru	n number eka parsarg vAru 
-*piMdixi	n number eka parsarg xi 
-*piMdivi/piMdiy	n number eka parsarg vi 
-*piMdigAru	n number eka parsarg gAru 
+*piMdigAdu	n number eka parsarg gAdu  case d
+*piMdigawweV	n number eka parsarg gawweV  case d
+*piMdivAdu	n number eka parsarg vAdu  case d
+*piMdAyana	n number eka parsarg Ayana  case d
+*piMdivAru	n number eka parsarg vAru  case d
+*piMdixi	n number eka parsarg xi  case d
+*piMdivi/piMdiy	n number eka parsarg vi  case d
+*piMdigAru	n number eka parsarg gAru  case d
 *piMdini	n number eka parsarg nu 
-*piMdivi	n number eka parsarg vu 
+*piMdivi	n number eka parsarg vu  case d
 *piMdiyoVkka	n number eka parsarg yoVkka 
 *piMdi	n number eka parsarg obl 
 *piMdini/piMdinu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ piMdaMte/*piMdaMteV	n number eka parsarg aMte
 *piMdilAMti/piMdilAti	n number eka parsarg lAMti 
 *piMdigAnI/piMdikAnI	n number eka parsarg gAni 
 *piMdigA	n number eka parsarg gA 
-*piMdlu/piMdulu	n number bahu parsarg 0 
-piMdlU/piMdlulArA/piMdillArA/*piMdullArA	n number bahu parsarg I 
+*piMdlu/piMdulu	n number bahu parsarg 0  case d
+piMdlU/piMdlulArA/piMdillArA/*piMdullArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*piMdlagAdu/piMdulagAdu	n number bahu parsarg gAdu 
-*piMdlagawweV/piMdulagawweV	n number bahu parsarg gawweV 
-*piMdlavAdu/piMdlodu	n number bahu parsarg vAdu 
-*piMdlAyana/piMdulAyana	n number bahu parsarg Ayana 
-*piMdlavAru/piMdloru	n number bahu parsarg vAru 
-*piMdlaxi/piMdilxi/piMdulxi	n number bahu parsarg xi 
-*piMdlavi/piMdluy/piMdluvi	n number bahu parsarg vi 
-*piMdlagAru/piMdulagAru	n number bahu parsarg gAru 
-*piMdlaM/piMdlamu	n number bahu parsarg nu 
+*piMdlagAdu/piMdulagAdu	n number bahu parsarg gAdu  case d
+*piMdlagawweV/piMdulagawweV	n number bahu parsarg gawweV  case d
+*piMdlavAdu/piMdlodu	n number bahu parsarg vAdu  case d
+*piMdlAyana/piMdulAyana	n number bahu parsarg Ayana  case d
+*piMdlavAru/piMdloru	n number bahu parsarg vAru  case d
+*piMdlaxi/piMdilxi/piMdulxi	n number bahu parsarg xi  case d
+*piMdlavi/piMdluy/piMdluvi	n number bahu parsarg vi  case d
+*piMdlagAru/piMdulagAru	n number bahu parsarg gAru  case d
+*piMdlaM/piMdlamu	n number bahu parsarg nu  case d
 *piMdlu/piMdulu	n number bahu parsarg vu 
 *piMdlayoVkka	n number bahu parsarg yoVkka 
 *piMdla	n number bahu parsarg obl 

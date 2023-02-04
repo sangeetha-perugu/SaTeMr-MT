@@ -1,18 +1,18 @@
 noun	
 kIlu	
-*kIlu	n number eka parsarg 0 
+*kIlu	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*kIlugAdu	n number eka parsarg gAdu 
-*kIlugawweV	n number eka parsarg gawweV 
-*kIluvAdu	n number eka parsarg vAdu 
-*kIlAyana	n number eka parsarg Ayana 
-*kIluvAru	n number eka parsarg vAru 
-*kIluxi	n number eka parsarg xi 
-*kIluvi/kIluy	n number eka parsarg vi 
-*kIlugAru	n number eka parsarg gAru 
+*kIlugAdu	n number eka parsarg gAdu  case d
+*kIlugawweV	n number eka parsarg gawweV  case d
+*kIluvAdu	n number eka parsarg vAdu  case d
+*kIlAyana	n number eka parsarg Ayana  case d
+*kIluvAru	n number eka parsarg vAru  case d
+*kIluxi	n number eka parsarg xi  case d
+*kIluvi/kIluy	n number eka parsarg vi  case d
+*kIlugAru	n number eka parsarg gAru  case d
 *kIlunu	n number eka parsarg nu 
-*kIluvu	n number eka parsarg vu 
+*kIluvu	n number eka parsarg vu  case d
 *kIluyoVkka	n number eka parsarg yoVkka 
 *kIlu	n number eka parsarg obl 
 *kIluni/kIlunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ kIlaMxu/kIlunaMxu/*kIluyaMxu	n number eka parsarg aMxu
 *kIlulAMti/kIlulAti	n number eka parsarg lAMti 
 *kIlugAnI/kIlugAni	n number eka parsarg gAni 
 *kIlugA	n number eka parsarg gA 
-*kIlYlYu/kIlYlu	n number bahu parsarg 0 
-kIlYlulArA/kIlYlU/*kIlYlYU	n number bahu parsarg I 
+*kIlYlYu/kIlYlu	n number bahu parsarg 0  case d
+kIlYlulArA/kIlYlU/*kIlYlYU	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*kIlYlYagAdu/kIlYlagAdu	n number bahu parsarg gAdu 
-*kIlYlYagawweV/kIlYlagawweV	n number bahu parsarg gawweV 
-*kIlYlYavAdu/kIlYlavAdu/kIlYlodu	n number bahu parsarg vAdu 
-*kIlYlYAyana/kIlYlAyana	n number bahu parsarg Ayana 
-*kIlYlYavAru/kIlYlavAru/kIlYloru	n number bahu parsarg vAru 
-*kIlYlYaxi/kIlYlaxi	n number bahu parsarg xi 
-*kIlYlYavi/kIlYlavi/kIlYlay	n number bahu parsarg vi 
-*kIlYlYagAru/kIlYlagAru	n number bahu parsarg gAru 
-*kIlYlYaM/kIlYlaM/kIlYlamu	n number bahu parsarg nu 
+*kIlYlYagAdu/kIlYlagAdu	n number bahu parsarg gAdu  case d
+*kIlYlYagawweV/kIlYlagawweV	n number bahu parsarg gawweV  case d
+*kIlYlYavAdu/kIlYlavAdu/kIlYlodu	n number bahu parsarg vAdu  case d
+*kIlYlYAyana/kIlYlAyana	n number bahu parsarg Ayana  case d
+*kIlYlYavAru/kIlYlavAru/kIlYloru	n number bahu parsarg vAru  case d
+*kIlYlYaxi/kIlYlaxi	n number bahu parsarg xi  case d
+*kIlYlYavi/kIlYlavi/kIlYlay	n number bahu parsarg vi  case d
+*kIlYlYagAru/kIlYlagAru	n number bahu parsarg gAru  case d
+*kIlYlYaM/kIlYlaM/kIlYlamu	n number bahu parsarg nu  case d
 *kIlYlYu/kIlYlu	n number bahu parsarg vu 
 *kIlYlYayoVkka/kIlYlayoVkka	n number bahu parsarg yoVkka 
 kIlYlYa/kIlYla	n number bahu parsarg obl 

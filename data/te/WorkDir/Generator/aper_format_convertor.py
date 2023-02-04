@@ -3,6 +3,7 @@
 from argparse import ArgumentParser
 import sys
 import re
+from collections import OrderedDict
 #	import pytrie
 import os.path
 
@@ -43,17 +44,21 @@ dict_fp = open("dict.txt", "a") # Open file on appen mode -- pardef file
 cat = lines[0].strip()
 paradigm = re.sub(r'[\t ]+', '', lines[1]).strip()
 
-features_hash = {}
+#features_hash = {}
+features_hash =  	OrderedDict()
 sdef = '<sdefs>\n'
 sdef = '<sdef n="root:' + paradigm + '" c="'+paradigm+'"/>\n'
 sdef += '<sdef n="lcat:' + cat +'" c="'+cat+'" />\n'
 sdef += '<sdef n="gen:any" c="any"/>\n'
 sdef += '<sdef n="per:any" c="any"/>\n'
 sdef += '<sdef n="case:o" c="o"/>\n'
+sdef += '<sdef n="case:d" c="d"/>\n'
 sdef += '<sdef n="cm:0" c="0"/>\n'
+sdef += '<sdef n="cm:obl" c="obl"/>\n'
 
 line_no = 1
 for line in lines[2::]:
+	line = re.sub(r'  ', ' ', line)
 	current_line = line.split("\t")
 	#print(line)
 	if(line == ""):
@@ -82,7 +87,7 @@ for line in lines[2::]:
 		#print(len(features))
 		feature_value = '<s n="root:' + paradigm + '"/><s n="lcat:' + cat +'"/>'
 		feature_value += '<s n="gen:any"/>'
-
+		case = 'o'
 		while (i<len(features)):
 			#print(i)
 			f = features[i]
@@ -97,12 +102,15 @@ for line in lines[2::]:
 				suff = features[i+1]
 				#feature_value += '<s n="parsarg:' + features[i+1] +'"/>'
 				i = i + 1
+			elif(re.search(r'case', features[i])):
+				case = features[i+1]
+				i = i + 1
 			else:
+				#case = 'o'
 				i = i + 1
 		#print(form)
-
-		feature_value += '<s n="case:o"/><s n="cm:0"/><s n="suffix:' + suff + '"/>'
-		sdef += '<sdef n="num:' + number +'" c="'+number+'" />\n<sdef n="suffix:' + suff + '" c="'+suff+'"/>\n'
+		feature_value += '<s n="case:' + case +'"/><s n="cm:' + suff + '"/><s n="suffix:' + suff + '"/>'
+		sdef += '<sdef n="cm:' + suff +'" c="'+suff+'" />\n<sdef n="num:' + number +'" c="'+number+'" />\n<sdef n="suffix:' + suff + '" c="'+suff+'"/>\n'
 		if(lr_flag == 1):
 			if(cform in features_hash):
 				cur_val = features_hash[cform]
@@ -131,13 +139,15 @@ out_content = '<pardef n="' + max_match + '/' + rem + '__n">\n'
 dict_content = ''
 
 for s in strings:
-	out_content += '<e><p><l>'
 	left = re.sub(max_match, '', s)
-	out_content += left
-	out_content += '</l>'
+	
 	
 	val = features_hash[s]
 	for v in val.split("	"):
+		out_content += '<e><p><l>'
+	
+		out_content += left
+		out_content += '</l>'
 		if(re.search(r'LR_FLAG', v)):
 			v =  re.sub(r'LR_FLAG', '', v)
 			out_content += '<r e="LR">'+ rem + v + '</r></p></e>\n'

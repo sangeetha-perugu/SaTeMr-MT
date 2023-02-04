@@ -1,18 +1,18 @@
 noun	
 abbAyi	
-*abbAyi	n number eka parsarg 0 
+*abbAyi	n number eka parsarg 0  case d
 *abbAyI	n number eka parsarg I 
 -	n number eka parsarg gA 
-*abbAyigAdu	n number eka parsarg gAdu 
-*abbAyigawweV	n number eka parsarg gawweV 
-*abbAyivAdu	n number eka parsarg vAdu 
-*abbAyAyana	n number eka parsarg Ayana 
-*abbAyivAru	n number eka parsarg vAru 
-*abbAyixi	n number eka parsarg xi 
-*abbAyivi/abbAyiy/abbAyiyyi	n number eka parsarg vi 
-*abbAyigAru	n number eka parsarg gAru 
+*abbAyigAdu	n number eka parsarg gAdu  case d
+*abbAyigawweV	n number eka parsarg gawweV  case d
+*abbAyivAdu	n number eka parsarg vAdu  case d
+*abbAyAyana	n number eka parsarg Ayana  case d
+*abbAyivAru	n number eka parsarg vAru  case d
+*abbAyixi	n number eka parsarg xi  case d
+*abbAyivi/abbAyiy/abbAyiyyi	n number eka parsarg vi  case d
+*abbAyigAru	n number eka parsarg gAru  case d
 *abbAyini/abbAyinu	n number eka parsarg nu 
-*abbAyivi/abbAyivu	n number eka parsarg vu 
+*abbAyivi/abbAyivu	n number eka parsarg vu  case d
 *abbAyiyoVkka	n number eka parsarg yoVkka 
 *abbAyi	n number eka parsarg obl 
 *abbAyini/abbAyinu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ abbAyaMxu/abbAyinaMxu/*abbAyiyaMxu	n number eka parsarg aMxu
 *abbAyilAMti/abbAyilAti	n number eka parsarg lAMti 
 *abbAyigAnI/abbAyikAnI	n number eka parsarg gAni 
 *abbAyigA	n number eka parsarg gA 
-*abbAyilu	n number bahu parsarg 0 
-*abbAyilU/abbAyillArA	n number bahu parsarg I 
+*abbAyilu	n number bahu parsarg 0  case d
+*abbAyilU/abbAyillArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*abbAyilagAdu/abbAyilugA	n number bahu parsarg gAdu 
-*abbAyilagawweV	n number bahu parsarg gawweV 
-*abbAyilavAdu/abbAyilodu	n number bahu parsarg vAdu 
-*abbAyilAyana	n number bahu parsarg Ayana 
-*abbAyilavAru/abbAyiloru	n number bahu parsarg vAru 
-*abbAyilaxi/abbAyilxi	n number bahu parsarg xi 
-*abbAyilavi/abbAyiliy/abbAyiliyyi	n number bahu parsarg vi 
-*abbAyilugAru	n number bahu parsarg gAru 
-*abbAyilaM/abbAyilamu	n number bahu parsarg nu 
+*abbAyilagAdu/abbAyilugA	n number bahu parsarg gAdu  case d
+*abbAyilagawweV	n number bahu parsarg gawweV  case d
+*abbAyilavAdu/abbAyilodu	n number bahu parsarg vAdu  case d
+*abbAyilAyana	n number bahu parsarg Ayana  case d
+*abbAyilavAru/abbAyiloru	n number bahu parsarg vAru  case d
+*abbAyilaxi/abbAyilxi	n number bahu parsarg xi  case d
+*abbAyilavi/abbAyiliy/abbAyiliyyi	n number bahu parsarg vi  case d
+*abbAyilugAru	n number bahu parsarg gAru  case d
+*abbAyilaM/abbAyilamu	n number bahu parsarg nu  case d
 *abbAyilu	n number bahu parsarg vu 
 *abbAyilayoVkka	n number bahu parsarg yoVkka 
 *abbAyila	n number bahu parsarg obl 

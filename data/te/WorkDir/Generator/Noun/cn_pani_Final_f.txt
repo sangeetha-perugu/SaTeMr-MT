@@ -1,18 +1,18 @@
 noun	
 pani	
-*pani	n number eka parsarg 0 
+*pani	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*panigAdu	n number eka parsarg gAdu 
-*panigawweV	n number eka parsarg gawweV 
-*panivAdu	n number eka parsarg vAdu 
-*panAyana	n number eka parsarg Ayana 
-*panivAru	n number eka parsarg vAru 
-*panixi	n number eka parsarg xi 
-*panivi/paniy	n number eka parsarg vi 
-*panigAru	n number eka parsarg gAru 
+*panigAdu	n number eka parsarg gAdu  case d
+*panigawweV	n number eka parsarg gawweV  case d
+*panivAdu	n number eka parsarg vAdu  case d
+*panAyana	n number eka parsarg Ayana  case d
+*panivAru	n number eka parsarg vAru  case d
+*panixi	n number eka parsarg xi  case d
+*panivi/paniy	n number eka parsarg vi  case d
+*panigAru	n number eka parsarg gAru  case d
 *panini/paninu	n number eka parsarg nu 
-panivu/*panivi	n number eka parsarg vu 
+panivu/*panivi	n number eka parsarg vu  case d
 *paniyoVkka	n number eka parsarg yoVkka 
 *pani	n number eka parsarg obl 
 *panini/paninu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ panaMxu/paninaMxu/*paniyaMxu	n number eka parsarg aMxu
 *panilAMti/panilAti	n number eka parsarg lAMti 
 *panigAnI/panikAnI	n number eka parsarg gAni 
 *panigA	n number eka parsarg gA 
-panlu/*panulu	n number bahu parsarg 0 
-panlU/*panulArA/panlArA/panulU	n number bahu parsarg I 
+panlu/*panulu	n number bahu parsarg 0  case d
+panlU/*panulArA/panlArA/panulU	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-panlagAdu/*panulagAdu	n number bahu parsarg gAdu 
-panlagawweV/*panulagawweV	n number bahu parsarg gawweV 
-panlavAdu/*panulavadu	n number bahu parsarg vAdu 
-panlAyana/*panulAyana	n number bahu parsarg Ayana 
-panlavAru/*panulavAru	n number bahu parsarg vAru 
-panlaxi/*panulaxi	n number bahu parsarg xi 
-panlavi/*panulavi/panlay/panulay	n number bahu parsarg vi 
-panlagAru/*panulagAru	n number bahu parsarg gAru 
-panlaM/panlamu/*panulaM/panulamu	n number bahu parsarg nu 
+panlagAdu/*panulagAdu	n number bahu parsarg gAdu  case d
+panlagawweV/*panulagawweV	n number bahu parsarg gawweV  case d
+panlavAdu/*panulavadu	n number bahu parsarg vAdu  case d
+panlAyana/*panulAyana	n number bahu parsarg Ayana  case d
+panlavAru/*panulavAru	n number bahu parsarg vAru  case d
+panlaxi/*panulaxi	n number bahu parsarg xi  case d
+panlavi/*panulavi/panlay/panulay	n number bahu parsarg vi  case d
+panlagAru/*panulagAru	n number bahu parsarg gAru  case d
+panlaM/panlamu/*panulaM/panulamu	n number bahu parsarg nu  case d
 panlu/*panulu	n number bahu parsarg vu 
 *panulayoVkka/panlayoVkka	n number bahu parsarg yoVkka 
 panla/*panula	n number bahu parsarg obl 

@@ -1,18 +1,18 @@
 noun	
 Uru	
-*Uru	n number eka parsarg 0 
+*Uru	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*UrigAdu	n number eka parsarg gAdu 
-*UrigawweV	n number eka parsarg gawweV 
-*UrivAdu	n number eka parsarg vAdu 
-*UrAyana	n number eka parsarg Ayana 
-*UrivAru	n number eka parsarg vAru 
-*Urixi	n number eka parsarg xi 
-*Urivi/Uriy	n number eka parsarg vi 
-*UrugAru	n number eka parsarg gAru 
+*UrigAdu	n number eka parsarg gAdu  case d
+*UrigawweV	n number eka parsarg gawweV  case d
+*UrivAdu	n number eka parsarg vAdu  case d
+*UrAyana	n number eka parsarg Ayana  case d
+*UrivAru	n number eka parsarg vAru  case d
+*Urixi	n number eka parsarg xi  case d
+*Urivi/Uriy	n number eka parsarg vi  case d
+*UrugAru	n number eka parsarg gAru  case d
 Urunu/*Urini	n number eka parsarg nu 
-Uruvu/*Urivi	n number eka parsarg vu 
+Uruvu/*Urivi	n number eka parsarg vu  case d
 *UriyoVkka	n number eka parsarg yoVkka 
 *Uri	n number eka parsarg obl 
 Uruni/*Urini	n number eka parsarg ni 
@@ -94,18 +94,18 @@ UraMte/*UraMteV	n number eka parsarg aMte
 *UrilAMti/UrilAti	n number eka parsarg lAMti 
 *UrugAnI/UrukAnI	n number eka parsarg gAni 
 *UrugA	n number eka parsarg gA 
-*UlYlYu/UlYlu/Urlu	n number bahu parsarg 0 
-UlYlU/*UlYlYalArA/UlYlalArA/UlYlArA/UrlU/UrlalArA/UrlArA	n number bahu parsarg I 
+*UlYlYu/UlYlu/Urlu	n number bahu parsarg 0  case d
+UlYlU/*UlYlYalArA/UlYlalArA/UlYlArA/UrlU/UrlalArA/UrlArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-UlYlugAdu/UrlagAdu/UlYlagAdu/*UlYlYagAdu	n number bahu parsarg gAdu 
-UlYlugawweV/UrlagawweV/UlYlagawweV/*UlYlYagawweV	n number bahu parsarg gawweV 
-*UlYlYavAdu/UlYlavAdu/UrlavAdu	n number bahu parsarg vAdu 
-*UlYlYAyana/UlYlAyana/UrlaAyana	n number bahu parsarg Ayana 
-*UlYlYavAru/UlYlavAru/UrlavAru	n number bahu parsarg vAru 
-*UlYlYaxi/UlYlaxi/Urlaxi	n number bahu parsarg xi 
-*UlYlYavi/UlYlavi/Urlavi	n number bahu parsarg vi 
-*UlYlYagAru/UlYlagAru/UrlagAru	n number bahu parsarg gAru 
-*UlYlYaM/UlYlaM/UlYlamu/UrlaM/Urlamu	n number bahu parsarg nu 
+UlYlugAdu/UrlagAdu/UlYlagAdu/*UlYlYagAdu	n number bahu parsarg gAdu  case d
+UlYlugawweV/UrlagawweV/UlYlagawweV/*UlYlYagawweV	n number bahu parsarg gawweV  case d
+*UlYlYavAdu/UlYlavAdu/UrlavAdu	n number bahu parsarg vAdu  case d
+*UlYlYAyana/UlYlAyana/UrlaAyana	n number bahu parsarg Ayana  case d
+*UlYlYavAru/UlYlavAru/UrlavAru	n number bahu parsarg vAru  case d
+*UlYlYaxi/UlYlaxi/Urlaxi	n number bahu parsarg xi  case d
+*UlYlYavi/UlYlavi/Urlavi	n number bahu parsarg vi  case d
+*UlYlYagAru/UlYlagAru/UrlagAru	n number bahu parsarg gAru  case d
+*UlYlYaM/UlYlaM/UlYlamu/UrlaM/Urlamu	n number bahu parsarg nu  case d
 *UlYlYu/UlYlu/Urlu	n number bahu parsarg vu 
 *UlYlYayoVkka/UlYlayoVkka/UrlayoVkka	n number bahu parsarg yoVkka 
 *UlYlYa/UlYla/Urla	n number bahu parsarg obl 

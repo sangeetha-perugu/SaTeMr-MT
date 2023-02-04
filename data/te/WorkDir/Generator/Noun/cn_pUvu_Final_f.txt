@@ -1,18 +1,18 @@
 noun	
 pUvu	
-*pUvu	n number eka parsarg 0 
+*pUvu	n number eka parsarg 0  case d
 pU/*pUvU/pUvA	n number eka parsarg I 
 -	n number eka parsarg gA 
-*pUvugAdu	n number eka parsarg gAdu 
-*pUvugawweV	n number eka parsarg gawweV 
-*pUvuvAdu	n number eka parsarg vAdu 
-*pUvAyana	n number eka parsarg Ayana 
-*pUvuvAru	n number eka parsarg vAru 
-*pUvuxi	n number eka parsarg xi 
-*pUvuvi/pUviy	n number eka parsarg vi 
-*pUvugAru	n number eka parsarg gAru 
+*pUvugAdu	n number eka parsarg gAdu  case d
+*pUvugawweV	n number eka parsarg gawweV  case d
+*pUvuvAdu	n number eka parsarg vAdu  case d
+*pUvAyana	n number eka parsarg Ayana  case d
+*pUvuvAru	n number eka parsarg vAru  case d
+*pUvuxi	n number eka parsarg xi  case d
+*pUvuvi/pUviy	n number eka parsarg vi  case d
+*pUvugAru	n number eka parsarg gAru  case d
 *pUvunu	n number eka parsarg nu 
-*pUvuvu	n number eka parsarg vu 
+*pUvuvu	n number eka parsarg vu  case d
 *pUvuyoVkka	n number eka parsarg yoVkka 
 *pUvu/pU	n number eka parsarg obl 
 pUvuni/*pUvunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ pUvukaMte/*pUvukaMteV/pUvukanna/pUvukannA	n number eka parsarg kaMteV
 *pUvulAMti/pUvulAti	n number eka parsarg lAMti 
 *pUvugAnI/pUvukAnI	n number eka parsarg gAni 
 *pUvugA	n number eka parsarg gA 
-*pUlu/pUvulu	n number bahu parsarg 0 
-*pUlU/pUvulU	n number bahu parsarg I 
+*pUlu/pUvulu	n number bahu parsarg 0  case d
+*pUlU/pUvulU	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*pUlagAdu/pUvulagAdu	n number bahu parsarg gAdu 
-*pUlagawweV/pUvulagawweV	n number bahu parsarg gawweV 
-*pUlavAdu/pUvulavAdu	n number bahu parsarg vAdu 
-*pUlAyana/pUvulAyana	n number bahu parsarg Ayana 
-*pUlavAru/pUvulavAru	n number bahu parsarg vAru 
-*pUlaxi/pUvulaxi	n number bahu parsarg xi 
-pUlavi/pUlayyi/pUlay/*pUvulavi/pUvulayyi/pUvulay	n number bahu parsarg vi 
-*pUlagAru/pUvulagAru	n number bahu parsarg gAru 
-pUlaM/pUlamu/*pUvulaM/pUvulamu	n number bahu parsarg nu 
+*pUlagAdu/pUvulagAdu	n number bahu parsarg gAdu  case d
+*pUlagawweV/pUvulagawweV	n number bahu parsarg gawweV  case d
+*pUlavAdu/pUvulavAdu	n number bahu parsarg vAdu  case d
+*pUlAyana/pUvulAyana	n number bahu parsarg Ayana  case d
+*pUlavAru/pUvulavAru	n number bahu parsarg vAru  case d
+*pUlaxi/pUvulaxi	n number bahu parsarg xi  case d
+pUlavi/pUlayyi/pUlay/*pUvulavi/pUvulayyi/pUvulay	n number bahu parsarg vi  case d
+*pUlagAru/pUvulagAru	n number bahu parsarg gAru  case d
+pUlaM/pUlamu/*pUvulaM/pUvulamu	n number bahu parsarg nu  case d
 -	n number bahu parsarg vu 
 *pUvulayoVkka/pUlayoVkka	n number bahu parsarg yoVkka 
 *pUla/pUvula	n number bahu parsarg obl 

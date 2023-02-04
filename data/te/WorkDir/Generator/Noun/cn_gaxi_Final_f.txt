@@ -1,18 +1,18 @@
 noun	
 gaxi	
-*gaxi	n number eka parsarg 0 
+*gaxi	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*gaxigAdu	n number eka parsarg gAdu 
-*gaxigawweV	n number eka parsarg gawweV 
-*gaxivAdu	n number eka parsarg vAdu 
-*gaxAyana	n number eka parsarg Ayana 
-*gaxivAru	n number eka parsarg vAru 
-*gaxixi	n number eka parsarg xi 
-*gaxivi/gaxiy	n number eka parsarg vi 
-*gaxigAru	n number eka parsarg gAru 
+*gaxigAdu	n number eka parsarg gAdu  case d
+*gaxigawweV	n number eka parsarg gawweV  case d
+*gaxivAdu	n number eka parsarg vAdu  case d
+*gaxAyana	n number eka parsarg Ayana  case d
+*gaxivAru	n number eka parsarg vAru  case d
+*gaxixi	n number eka parsarg xi  case d
+*gaxivi/gaxiy	n number eka parsarg vi  case d
+*gaxigAru	n number eka parsarg gAru  case d
 *gaxini	n number eka parsarg nu 
-*gaxivi	n number eka parsarg vu 
+*gaxivi	n number eka parsarg vu  case d
 *gaxiyoVkka	n number eka parsarg yoVkka 
 *gaxi	n number eka parsarg obl 
 *gaxini/gaxinu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ gaxaMxu/gaxinaMxu/*gaxiyaMxu	n number eka parsarg aMxu
 *gaxilAMti/gaxilAti	n number eka parsarg lAMti 
 *gaxigAnI/gaxikAnI	n number eka parsarg gAni 
 *gaxigA	n number eka parsarg gA 
-*gaxulu	n number bahu parsarg 0 
-gaxulU/gaxululArA/*gaxullArA	n number bahu parsarg I 
+*gaxulu	n number bahu parsarg 0  case d
+gaxulU/gaxululArA/*gaxullArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*gaxulagAdu	n number bahu parsarg gAdu 
-*gaxulagawweV	n number bahu parsarg gawweV 
-*gaxulavAdu/gaxulodu	n number bahu parsarg vAdu 
-*gaxulAyana	n number bahu parsarg Ayana 
-*gaxulavAru/gaxuloru	n number bahu parsarg vAru 
-*gaxulaxi/gaxulxi	n number bahu parsarg xi 
-*gaxulavi/gaxulay/gaxuliy	n number bahu parsarg vi 
-*gaxulagAru	n number bahu parsarg gAru 
-*gaxulaM/gaxulamu	n number bahu parsarg nu 
+*gaxulagAdu	n number bahu parsarg gAdu  case d
+*gaxulagawweV	n number bahu parsarg gawweV  case d
+*gaxulavAdu/gaxulodu	n number bahu parsarg vAdu  case d
+*gaxulAyana	n number bahu parsarg Ayana  case d
+*gaxulavAru/gaxuloru	n number bahu parsarg vAru  case d
+*gaxulaxi/gaxulxi	n number bahu parsarg xi  case d
+*gaxulavi/gaxulay/gaxuliy	n number bahu parsarg vi  case d
+*gaxulagAru	n number bahu parsarg gAru  case d
+*gaxulaM/gaxulamu	n number bahu parsarg nu  case d
 -	n number bahu parsarg vu 
 *gaxulayoVkka	n number bahu parsarg yoVkka 
 *gaxula	n number bahu parsarg obl 

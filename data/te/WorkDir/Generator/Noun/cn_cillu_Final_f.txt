@@ -1,18 +1,18 @@
 noun	
 cillu	
-*cillu	n number eka parsarg 0 
+*cillu	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*cillugAdu	n number eka parsarg gAdu 
-*cillugawweV	n number eka parsarg gawweV 
-*cilluvAdu	n number eka parsarg vAdu 
-*cilluAyana	n number eka parsarg Ayana 
-*cilluvAru	n number eka parsarg vAru 
-*cilluxi	n number eka parsarg xi 
-*cilluvi	n number eka parsarg vi 
-*cillugAru	n number eka parsarg gAru 
+*cillugAdu	n number eka parsarg gAdu  case d
+*cillugawweV	n number eka parsarg gawweV  case d
+*cilluvAdu	n number eka parsarg vAdu  case d
+*cilluAyana	n number eka parsarg Ayana  case d
+*cilluvAru	n number eka parsarg vAru  case d
+*cilluxi	n number eka parsarg xi  case d
+*cilluvi	n number eka parsarg vi  case d
+*cillugAru	n number eka parsarg gAru  case d
 *cillunu	n number eka parsarg nu 
-*cilluvu	n number eka parsarg vu 
+*cilluvu	n number eka parsarg vu  case d
 *cilluyoVkka	n number eka parsarg yoVkka 
 *cillu	n number eka parsarg obl 
 *cilluni/cillunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ cillaMxu/cillunaMxu/*cilluyaMxu	n number eka parsarg aMxu
 *cillulAMti/cillulAti	n number eka parsarg lAMti 
 *cillugAnI/cillukAnI	n number eka parsarg gAni 
 *cillugA	n number eka parsarg gA 
-*cillulu	n number bahu parsarg 0 
-*cillulU/cillulArA	n number bahu parsarg I 
+*cillulu	n number bahu parsarg 0  case d
+*cillulU/cillulArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*cillulagAdu	n number bahu parsarg gAdu 
-*cillulagawweV	n number bahu parsarg gawweV 
-*cillulavAdu	n number bahu parsarg vAdu 
-*cillulAyana	n number bahu parsarg Ayana 
-*cillulavAru	n number bahu parsarg vAru 
-*cillulaxi/cillulxi	n number bahu parsarg xi 
-*cillulavi/cilluliy	n number bahu parsarg vi 
-*cillulugAru	n number bahu parsarg gAru 
-cillulamu/*cillulaM	n number bahu parsarg nu 
+*cillulagAdu	n number bahu parsarg gAdu  case d
+*cillulagawweV	n number bahu parsarg gawweV  case d
+*cillulavAdu	n number bahu parsarg vAdu  case d
+*cillulAyana	n number bahu parsarg Ayana  case d
+*cillulavAru	n number bahu parsarg vAru  case d
+*cillulaxi/cillulxi	n number bahu parsarg xi  case d
+*cillulavi/cilluliy	n number bahu parsarg vi  case d
+*cillulugAru	n number bahu parsarg gAru  case d
+cillulamu/*cillulaM	n number bahu parsarg nu  case d
 *cillulu	n number bahu parsarg vu 
 *cillulayoVkka	n number bahu parsarg yoVkka 
 *cillula	n number bahu parsarg obl 

@@ -1,18 +1,18 @@
 noun	
 gUdu	
-*gUdu	n number eka parsarg 0 
+*gUdu	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*gUdugAdu/gUtigAdu	n number eka parsarg gAdu 
-*gUdugawweV/gUtigawweV	n number eka parsarg gawweV 
-*gUduvAdu/gUtivAdu	n number eka parsarg vAdu 
-*gUdAyana/gUtAyana	n number eka parsarg Ayana 
-gUduvAru/*gUtivAru	n number eka parsarg vAru 
-gUduxi/*gUtixi	n number eka parsarg xi 
-*gUduvi/gUdiy/gUtivi	n number eka parsarg vi 
-*gUdugAru/gUtigAru	n number eka parsarg gAru 
+*gUdugAdu/gUtigAdu	n number eka parsarg gAdu  case d
+*gUdugawweV/gUtigawweV	n number eka parsarg gawweV  case d
+*gUduvAdu/gUtivAdu	n number eka parsarg vAdu  case d
+*gUdAyana/gUtAyana	n number eka parsarg Ayana  case d
+gUduvAru/*gUtivAru	n number eka parsarg vAru  case d
+gUduxi/*gUtixi	n number eka parsarg xi  case d
+*gUduvi/gUdiy/gUtivi	n number eka parsarg vi  case d
+*gUdugAru/gUtigAru	n number eka parsarg gAru  case d
 *gUdunu/gUduni/gUtinu/gUtini	n number eka parsarg nu 
-gUduvu/*gUduvi/gUtivu/gUtivi	n number eka parsarg vu 
+gUduvu/*gUduvi/gUtivu/gUtivi	n number eka parsarg vu  case d
 *gUtiyoVkka/gUduyoVkka	n number eka parsarg yoVkka 
 *gUti/gUdu	n number eka parsarg obl 
 *gUdunu/gUtini	n number eka parsarg ni 
@@ -94,18 +94,18 @@ gUdaMxu/gUdunaMxu/gUduyaMxu/gUtinaMxu/*gUtiyaMxu	n number eka parsarg aMxu
 *gUdulAMti/gUdulAti/gUtilAMti/gUtilAti	n number eka parsarg lAMti 
 *gUdugAnI/gUdukAnI	n number eka parsarg gAni 
 *gUdugA/gUtigA	n number eka parsarg gA 
-*gUlYlYu/gUlYlu	n number bahu parsarg 0 
-*gUlYlYU/gUlYlU/gUlYlulArA/gUlYlArA/gUdlU/gUdlulArA/gUdlArA	n number bahu parsarg I 
+*gUlYlYu/gUlYlu	n number bahu parsarg 0  case d
+*gUlYlYU/gUlYlU/gUlYlulArA/gUlYlArA/gUdlU/gUdlulArA/gUdlArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*gUlYlYagAdu/gUlYlugAdu/gUdlagAdu/gUlYlagAdu	n number bahu parsarg gAdu 
-gUdlagawweV/gUlYlugawweV/*gUlYlYagawweV/gUlYlagawweV	n number bahu parsarg gawweV 
-*gUlYlYavAdu/gUlYlavAdu/gUdlavAdu	n number bahu parsarg vAdu 
-*gUlYlYAyana/gUlYlAyana/gUdlAyana	n number bahu parsarg Ayana 
-*gUlYlYavAru/gUlYlavAru/gUdlavAru	n number bahu parsarg vAru 
-*gUlYlYaxi/gUlYlaxi/gUdlaxi	n number bahu parsarg xi 
-*gUlYlYavi/gUlYlavi/gUdlavi	n number bahu parsarg vi 
-gUlYlagAru/gUdlagAru	n number bahu parsarg gAru 
-*gUlYlYaM/gUlYlaM/gUlYlamu/gUdlaM/gUdlamu	n number bahu parsarg nu 
+*gUlYlYagAdu/gUlYlugAdu/gUdlagAdu/gUlYlagAdu	n number bahu parsarg gAdu  case d
+gUdlagawweV/gUlYlugawweV/*gUlYlYagawweV/gUlYlagawweV	n number bahu parsarg gawweV  case d
+*gUlYlYavAdu/gUlYlavAdu/gUdlavAdu	n number bahu parsarg vAdu  case d
+*gUlYlYAyana/gUlYlAyana/gUdlAyana	n number bahu parsarg Ayana  case d
+*gUlYlYavAru/gUlYlavAru/gUdlavAru	n number bahu parsarg vAru  case d
+*gUlYlYaxi/gUlYlaxi/gUdlaxi	n number bahu parsarg xi  case d
+*gUlYlYavi/gUlYlavi/gUdlavi	n number bahu parsarg vi  case d
+gUlYlagAru/gUdlagAru	n number bahu parsarg gAru  case d
+*gUlYlYaM/gUlYlaM/gUlYlamu/gUdlaM/gUdlamu	n number bahu parsarg nu  case d
 *gUlYlYu/gUlYlu/gUdlu	n number bahu parsarg vu 
 *gUlYlYayoVkka/gUlYlayoVkka/gUdlayoVkka	n number bahu parsarg yoVkka 
 *gUlYlYa/gUdla	n number bahu parsarg obl 

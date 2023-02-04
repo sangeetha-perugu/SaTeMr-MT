@@ -1,18 +1,18 @@
 noun	
 xAri	
-*xAri	n number eka parsarg 0 
+*xAri	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*xArigAdu	n number eka parsarg gAdu 
-*xArigawweV	n number eka parsarg gawweV 
-*xArivAdu	n number eka parsarg vAdu 
-*xArAyana	n number eka parsarg Ayana 
-*xArivAru	n number eka parsarg vAru 
-*xArixi	n number eka parsarg xi 
-*xArivi/xAriy	n number eka parsarg vi 
-*xArigAru	n number eka parsarg gAru 
+*xArigAdu	n number eka parsarg gAdu  case d
+*xArigawweV	n number eka parsarg gawweV  case d
+*xArivAdu	n number eka parsarg vAdu  case d
+*xArAyana	n number eka parsarg Ayana  case d
+*xArivAru	n number eka parsarg vAru  case d
+*xArixi	n number eka parsarg xi  case d
+*xArivi/xAriy	n number eka parsarg vi  case d
+*xArigAru	n number eka parsarg gAru  case d
 *xArini/xArinu	n number eka parsarg nu 
-xArivu/*xArivi	n number eka parsarg vu 
+xArivu/*xArivi	n number eka parsarg vu  case d
 *xAriyoVkka	n number eka parsarg yoVkka 
 *xAri	n number eka parsarg obl 
 *xArini/xArinu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ xAraMte/*xAraMteV	n number eka parsarg aMte
 *xArilAMti/xArilAti	n number eka parsarg lAMti 
 *xArigAnI/xArikAnI	n number eka parsarg gAni 
 *xArigA	n number eka parsarg gA 
-xArlu/*xArulu	n number bahu parsarg 0 
-xArlU/*xArulArA/xArulAra	n number bahu parsarg I 
+xArlu/*xArulu	n number bahu parsarg 0  case d
+xArlU/*xArulArA/xArulAra	n number bahu parsarg I  case d
 xArlagAdu/*xArulagAdu	n number bahu parsarg gA 
-xArlagawweV/*xArulagawweV	n number bahu parsarg gAdu 
-xArlavAdu/*xArulavAdu	n number bahu parsarg gawweV 
-xArlAyana/*xArulAyana	n number bahu parsarg vAdu 
-xArlavAru/*xArulavAru	n number bahu parsarg Ayana 
-xArlaxi/*xArulaxi	n number bahu parsarg vAru 
-xArlavi/*xArulavi/xArlay/xArulay	n number bahu parsarg xi 
-xArlagAru/*xArulagAru	n number bahu parsarg vi 
-xArlaM/xArlamu/*xArulaM/xArulamu	n number bahu parsarg gAru 
-xArlu/*xArulu	n number bahu parsarg nu 
+xArlagawweV/*xArulagawweV	n number bahu parsarg gAdu  case d
+xArlavAdu/*xArulavAdu	n number bahu parsarg gawweV  case d
+xArlAyana/*xArulAyana	n number bahu parsarg vAdu  case d
+xArlavAru/*xArulavAru	n number bahu parsarg Ayana  case d
+xArlaxi/*xArulaxi	n number bahu parsarg vAru  case d
+xArlavi/*xArulavi/xArlay/xArulay	n number bahu parsarg xi  case d
+xArlagAru/*xArulagAru	n number bahu parsarg vi  case d
+xArlaM/xArlamu/*xArulaM/xArulamu	n number bahu parsarg gAru  case d
+xArlu/*xArulu	n number bahu parsarg nu  case d
 *xArulayoVkka	n number bahu parsarg vu 
 xArla/xArlayoVkka/xArula/*xArulayoVkka	n number bahu parsarg yoVkka 
 xArlani/xArlanu/xArulani/*xArulanu/xArilni	n number bahu parsarg obl 

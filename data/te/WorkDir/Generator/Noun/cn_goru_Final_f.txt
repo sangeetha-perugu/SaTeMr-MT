@@ -1,18 +1,18 @@
 noun	
 goru	
-*goru	n number eka parsarg 0 
+*goru	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*gorugAdu/gotigAdu	n number eka parsarg gAdu 
-*gorugawweV/gotigawweV	n number eka parsarg gawweV 
-*goruvAdu/gotivAdu	n number eka parsarg vAdu 
-*gorAyana/gotAyana	n number eka parsarg Ayana 
-*goruvAru/gotivAru	n number eka parsarg vAru 
-*goruxi/gotixi	n number eka parsarg xi 
-*goruvi/goriy/gotivi	n number eka parsarg vi 
-*gorugAru/gotigAru	n number eka parsarg gAru 
+*gorugAdu/gotigAdu	n number eka parsarg gAdu  case d
+*gorugawweV/gotigawweV	n number eka parsarg gawweV  case d
+*goruvAdu/gotivAdu	n number eka parsarg vAdu  case d
+*gorAyana/gotAyana	n number eka parsarg Ayana  case d
+*goruvAru/gotivAru	n number eka parsarg vAru  case d
+*goruxi/gotixi	n number eka parsarg xi  case d
+*goruvi/goriy/gotivi	n number eka parsarg vi  case d
+*gorugAru/gotigAru	n number eka parsarg gAru  case d
 gorunu/*goruni	n number eka parsarg nu 
-goruvu/*goruvi	n number eka parsarg vu 
+goruvu/*goruvi	n number eka parsarg vu  case d
 gotiyoVkka/*goruyoVkka	n number eka parsarg yoVkka 
 goti/*goru	n number eka parsarg obl 
 *goruni/gotini	n number eka parsarg ni 
@@ -94,18 +94,18 @@ goraMxu/gorunaMxu/*goruyaMxu/gotinaMxu/gotiyaMxu	n number eka parsarg aMxu
 *gorulAMti/gorulAti/gotilAMti/gotilAti	n number eka parsarg lAMti 
 *gorugAnI/gorukAnI	n number eka parsarg gAni 
 *gorugA/gotigA	n number eka parsarg gA 
-*golYlYu/golYlu/gorlu/gorulu	n number bahu parsarg 0 
-*golYlYU/golYlU/golYlulArA/golYlArA/gorlU/gorlulArA/gorlArA	n number bahu parsarg I 
+*golYlYu/golYlu/gorlu/gorulu	n number bahu parsarg 0  case d
+*golYlYU/golYlU/golYlulArA/golYlArA/gorlU/gorlulArA/gorlArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-golYlugAdu/gorlagAdu/golYlagAdu/*golYlYagAdu	n number bahu parsarg gAdu 
-gorlagawweV/golYlugawweV/golYlagawweV/*golYlYagawweV	n number bahu parsarg gawweV 
-*golYlYavAdu/golYlavAdu/gorlavAdu	n number bahu parsarg vAdu 
-*golYlYAyana/golYlAyana/gorlAyana	n number bahu parsarg Ayana 
-*golYlYavAru/golYlavAru/gorlavAru	n number bahu parsarg vAru 
-*golYlYaxi/golYlaxi/gorlaxi	n number bahu parsarg xi 
-*golYlYavi/golYlavi/gorlavi	n number bahu parsarg vi 
-*golYlYagAru/golYlagAru/gorlagAru	n number bahu parsarg gAru 
-*golYlYaM/golYlaM/golYlamu/gorlaM/gorlamu	n number bahu parsarg nu 
+golYlugAdu/gorlagAdu/golYlagAdu/*golYlYagAdu	n number bahu parsarg gAdu  case d
+gorlagawweV/golYlugawweV/golYlagawweV/*golYlYagawweV	n number bahu parsarg gawweV  case d
+*golYlYavAdu/golYlavAdu/gorlavAdu	n number bahu parsarg vAdu  case d
+*golYlYAyana/golYlAyana/gorlAyana	n number bahu parsarg Ayana  case d
+*golYlYavAru/golYlavAru/gorlavAru	n number bahu parsarg vAru  case d
+*golYlYaxi/golYlaxi/gorlaxi	n number bahu parsarg xi  case d
+*golYlYavi/golYlavi/gorlavi	n number bahu parsarg vi  case d
+*golYlYagAru/golYlagAru/gorlagAru	n number bahu parsarg gAru  case d
+*golYlYaM/golYlaM/golYlamu/gorlaM/gorlamu	n number bahu parsarg nu  case d
 *golYlYu/golYlu/gorlu	n number bahu parsarg vu 
 *golYlYayoVkka/golYlayoVkka/gorlayoVkka	n number bahu parsarg yoVkka 
 *golYlYa/golYla/gorla	n number bahu parsarg obl 

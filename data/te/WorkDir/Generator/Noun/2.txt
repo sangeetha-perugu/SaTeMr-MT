@@ -1,18 +1,18 @@
 
 
-n number eka parsarg 0 
+n number eka parsarg 0  case d
 n number eka parsarg I 
 n number eka parsarg gA 
-n number eka parsarg gAdu 
-n number eka parsarg gawweV 
-n number eka parsarg vAdu 
-n number eka parsarg Ayana 
-n number eka parsarg vAru 
-n number eka parsarg xi 
-n number eka parsarg vi 
-n number eka parsarg gAru 
+n number eka parsarg gAdu  case d
+n number eka parsarg gawweV  case d
+n number eka parsarg vAdu  case d
+n number eka parsarg Ayana  case d
+n number eka parsarg vAru  case d
+n number eka parsarg xi  case d
+n number eka parsarg vi  case d
+n number eka parsarg gAru  case d
 n number eka parsarg nu 
-n number eka parsarg vu 
+n number eka parsarg vu  case d
 n number eka parsarg yoVkka 
 n number eka parsarg obl 
 n number eka parsarg ni 
@@ -94,18 +94,18 @@ n number eka parsarg pAti
 n number eka parsarg lAMti 
 n number eka parsarg gAni 
 n number eka parsarg gA 
-n number bahu parsarg 0 
-n number bahu parsarg I 
+n number bahu parsarg 0  case d
+n number bahu parsarg I  case d
 n number bahu parsarg gA 
-n number bahu parsarg gAdu 
-n number bahu parsarg gawweV 
-n number bahu parsarg vAdu 
-n number bahu parsarg Ayana 
-n number bahu parsarg vAru 
-n number bahu parsarg xi 
-n number bahu parsarg vi 
-n number bahu parsarg gAru 
-n number bahu parsarg nu 
+n number bahu parsarg gAdu  case d
+n number bahu parsarg gawweV  case d
+n number bahu parsarg vAdu  case d
+n number bahu parsarg Ayana  case d
+n number bahu parsarg vAru  case d
+n number bahu parsarg xi  case d
+n number bahu parsarg vi  case d
+n number bahu parsarg gAru  case d
+n number bahu parsarg nu  case d
 n number bahu parsarg vu 
 n number bahu parsarg yoVkka 
 n number bahu parsarg obl 

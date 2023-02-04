@@ -1,18 +1,18 @@
 noun	
 man?Ri	
-*maniRi	n number eka parsarg 0 
+*maniRi	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*maniRigAdu	n number eka parsarg gAdu 
-*maniRigawweV	n number eka parsarg gawweV 
-*maniRivAdu	n number eka parsarg vAdu 
-*maniRAyana	n number eka parsarg Ayana 
-*maniRivAru	n number eka parsarg vAru 
-*maniRixi	n number eka parsarg xi 
-*maniRivi/maniRiy	n number eka parsarg vi 
-*maniRigAru	n number eka parsarg gAru 
+*maniRigAdu	n number eka parsarg gAdu  case d
+*maniRigawweV	n number eka parsarg gawweV  case d
+*maniRivAdu	n number eka parsarg vAdu  case d
+*maniRAyana	n number eka parsarg Ayana  case d
+*maniRivAru	n number eka parsarg vAru  case d
+*maniRixi	n number eka parsarg xi  case d
+*maniRivi/maniRiy	n number eka parsarg vi  case d
+*maniRigAru	n number eka parsarg gAru  case d
 *maniRini	n number eka parsarg nu 
-*maniRivi	n number eka parsarg vu 
+*maniRivi	n number eka parsarg vu  case d
 *maniRiyoVkka	n number eka parsarg yoVkka 
 *maniRi	n number eka parsarg obl 
 *maniRini/maniRinu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ maniRaMxu/maniRinaMxu/*maniRiyaMxu	n number eka parsarg aMxu
 *maniRilAMti/maniRilAti/maniRivaMti	n number eka parsarg lAMti 
 *maniRigAnI/maniRikAnI	n number eka parsarg gAni 
 *maniRigA	n number eka parsarg gA 
-*manuRulu	n number bahu parsarg 0 
-*manuRulU/manuRulArA	n number bahu parsarg I 
+*manuRulu	n number bahu parsarg 0  case d
+*manuRulU/manuRulArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*manuRulagAdu	n number bahu parsarg gAdu 
-*manuRulagawweV	n number bahu parsarg gawweV 
-*manuRulavAdu/manuRulodu	n number bahu parsarg vAdu 
-*manuRulAyana	n number bahu parsarg Ayana 
-*manuRulavAru/manuRuloru	n number bahu parsarg vAru 
-*manuRulaxi/manuRulxi	n number bahu parsarg xi 
-*manuRulavi/manuRuliy	n number bahu parsarg vi 
-*manuRulagAru	n number bahu parsarg gAru 
-*manuRulaM/manuRulamu	n number bahu parsarg nu 
+*manuRulagAdu	n number bahu parsarg gAdu  case d
+*manuRulagawweV	n number bahu parsarg gawweV  case d
+*manuRulavAdu/manuRulodu	n number bahu parsarg vAdu  case d
+*manuRulAyana	n number bahu parsarg Ayana  case d
+*manuRulavAru/manuRuloru	n number bahu parsarg vAru  case d
+*manuRulaxi/manuRulxi	n number bahu parsarg xi  case d
+*manuRulavi/manuRuliy	n number bahu parsarg vi  case d
+*manuRulagAru	n number bahu parsarg gAru  case d
+*manuRulaM/manuRulamu	n number bahu parsarg nu  case d
 *manuRulu	n number bahu parsarg vu 
 *manuRulayoVkka	n number bahu parsarg yoVkka 
 *manuRula	n number bahu parsarg obl 

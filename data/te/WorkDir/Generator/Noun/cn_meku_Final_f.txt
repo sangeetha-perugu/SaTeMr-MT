@@ -1,18 +1,18 @@
 noun	
 meku	
-*meku	n number eka parsarg 0 
+*meku	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*mekugAdu	n number eka parsarg gAdu 
-*mekugawweV	n number eka parsarg gawweV 
-*mekuvAdu	n number eka parsarg vAdu 
-*mekAyana	n number eka parsarg Ayana 
-*mekuvAru	n number eka parsarg vAru 
-*mekuxi	n number eka parsarg xi 
-*mekuvi	n number eka parsarg vi 
-*mekugAru	n number eka parsarg gAru 
+*mekugAdu	n number eka parsarg gAdu  case d
+*mekugawweV	n number eka parsarg gawweV  case d
+*mekuvAdu	n number eka parsarg vAdu  case d
+*mekAyana	n number eka parsarg Ayana  case d
+*mekuvAru	n number eka parsarg vAru  case d
+*mekuxi	n number eka parsarg xi  case d
+*mekuvi	n number eka parsarg vi  case d
+*mekugAru	n number eka parsarg gAru  case d
 *mekunu	n number eka parsarg nu 
-*mekuvu	n number eka parsarg vu 
+*mekuvu	n number eka parsarg vu  case d
 *mekuyoVkka	n number eka parsarg yoVkka 
 *meku	n number eka parsarg obl 
 *mekuni/mekunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ mekaMxu/mekunaMxu/*mekuyaMxu	n number eka parsarg aMxu
 *mekulAMti/mekulAti	n number eka parsarg lAMti 
 *mekugAnI/mekukAnI	n number eka parsarg gAni 
 *mekugA	n number eka parsarg gA 
-*mekulu	n number bahu parsarg 0 
-*mekulU/mekulArA/mekullArA	n number bahu parsarg I 
+*mekulu	n number bahu parsarg 0  case d
+*mekulU/mekulArA/mekullArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*mekulagAdu	n number bahu parsarg gAdu 
-*mekulagawweV	n number bahu parsarg gawweV 
-*mekulavAdu	n number bahu parsarg vAdu 
-*mekulAyana	n number bahu parsarg Ayana 
-*mekulavAru	n number bahu parsarg vAru 
-*mekulaxi/mekulxi	n number bahu parsarg xi 
-*mekulavi/mekuliy	n number bahu parsarg vi 
-*mekulagAru	n number bahu parsarg gAru 
-mekulamu/*mekulaM	n number bahu parsarg nu 
+*mekulagAdu	n number bahu parsarg gAdu  case d
+*mekulagawweV	n number bahu parsarg gawweV  case d
+*mekulavAdu	n number bahu parsarg vAdu  case d
+*mekulAyana	n number bahu parsarg Ayana  case d
+*mekulavAru	n number bahu parsarg vAru  case d
+*mekulaxi/mekulxi	n number bahu parsarg xi  case d
+*mekulavi/mekuliy	n number bahu parsarg vi  case d
+*mekulagAru	n number bahu parsarg gAru  case d
+mekulamu/*mekulaM	n number bahu parsarg nu  case d
 *mekulu	n number bahu parsarg vu 
 *mekulayoVkka	n number bahu parsarg yoVkka 
 *mekula	n number bahu parsarg obl 

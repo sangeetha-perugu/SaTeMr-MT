@@ -1,18 +1,18 @@
 noun	
 velu	
-*velu	n number eka parsarg 0 
+*velu	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*veligAdu	n number eka parsarg gAdu 
-*veligawweV	n number eka parsarg gawweV 
-*velivAdu	n number eka parsarg vAdu 
-*velAyana	n number eka parsarg Ayana 
-*velivAru	n number eka parsarg vAru 
-*velixi	n number eka parsarg xi 
-*velivi/veliy	n number eka parsarg vi 
-*veligAru	n number eka parsarg gAru 
+*veligAdu	n number eka parsarg gAdu  case d
+*veligawweV	n number eka parsarg gawweV  case d
+*velivAdu	n number eka parsarg vAdu  case d
+*velAyana	n number eka parsarg Ayana  case d
+*velivAru	n number eka parsarg vAru  case d
+*velixi	n number eka parsarg xi  case d
+*velivi/veliy	n number eka parsarg vi  case d
+*veligAru	n number eka parsarg gAru  case d
 *velunu	n number eka parsarg nu 
-*veluvu	n number eka parsarg vu 
+*veluvu	n number eka parsarg vu  case d
 *veliyoVkka	n number eka parsarg yoVkka 
 *veli	n number eka parsarg obl 
 *velini/velunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ velaMte/*velaMteV	n number eka parsarg aMte
 *velilAMti/velilAti	n number eka parsarg lAMti 
 *velugAnI/velukAnI	n number eka parsarg gAni 
 *velugA	n number eka parsarg gA 
-*velYlYu/velYlu	n number bahu parsarg 0 
-velYlulArA/*velYlYU/velYlU	n number bahu parsarg I 
+*velYlYu/velYlu	n number bahu parsarg 0  case d
+velYlulArA/*velYlYU/velYlU	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*velYlYagAdu/velYlagAdu	n number bahu parsarg gAdu 
-*velYlYagawweV/velYlagawweV	n number bahu parsarg gawweV 
-*velYlYavAdu/velYlavAdu/velYlodu	n number bahu parsarg vAdu 
-*velYlYAyana/velYlAyana	n number bahu parsarg Ayana 
-*velYlYavAru/velYlavAru/velYloru	n number bahu parsarg vAru 
-*velYlaxi/velYlaxi	n number bahu parsarg xi 
-*velYlYavi/velYlay	n number bahu parsarg vi 
-*velYlYagAru/velYlagAru	n number bahu parsarg gAru 
-*velYlYaM/velYlaM/velYlamu	n number bahu parsarg nu 
+*velYlYagAdu/velYlagAdu	n number bahu parsarg gAdu  case d
+*velYlYagawweV/velYlagawweV	n number bahu parsarg gawweV  case d
+*velYlYavAdu/velYlavAdu/velYlodu	n number bahu parsarg vAdu  case d
+*velYlYAyana/velYlAyana	n number bahu parsarg Ayana  case d
+*velYlYavAru/velYlavAru/velYloru	n number bahu parsarg vAru  case d
+*velYlaxi/velYlaxi	n number bahu parsarg xi  case d
+*velYlYavi/velYlay	n number bahu parsarg vi  case d
+*velYlYagAru/velYlagAru	n number bahu parsarg gAru  case d
+*velYlYaM/velYlaM/velYlamu	n number bahu parsarg nu  case d
 *velYlYu/velYlu	n number bahu parsarg vu 
 *velYlYayoVkka/velYlayoVkka	n number bahu parsarg yoVkka 
 *velYlYa/velYla	n number bahu parsarg obl 

@@ -1,18 +1,18 @@
 noun	
 peVnnu	
-*peVnnu	n number eka parsarg 0 
+*peVnnu	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*peVnnugAdu	n number eka parsarg gAdu 
-*peVnnugawweV	n number eka parsarg gawweV 
-*peVnnuvAdu	n number eka parsarg vAdu 
-*peVnnAyana	n number eka parsarg Ayana 
-*peVnnuvAru	n number eka parsarg vAru 
-*peVnnuxi	n number eka parsarg xi 
-*peVnnuvi	n number eka parsarg vi 
-*peVnnugAru	n number eka parsarg gAru 
+*peVnnugAdu	n number eka parsarg gAdu  case d
+*peVnnugawweV	n number eka parsarg gawweV  case d
+*peVnnuvAdu	n number eka parsarg vAdu  case d
+*peVnnAyana	n number eka parsarg Ayana  case d
+*peVnnuvAru	n number eka parsarg vAru  case d
+*peVnnuxi	n number eka parsarg xi  case d
+*peVnnuvi	n number eka parsarg vi  case d
+*peVnnugAru	n number eka parsarg gAru  case d
 *peVnnunu	n number eka parsarg nu 
-*peVnnuvu	n number eka parsarg vu 
+*peVnnuvu	n number eka parsarg vu  case d
 *peVnnuyoVkka	n number eka parsarg yoVkka 
 *peVnnu	n number eka parsarg obl 
 *peVnnuni/peVnnunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ peVnnukaMteV/*peVnnukaMte/peVnnukanna/peVnnukannA	n number eka parsarg kaMteV
 *peVnnulAMti/peVnnulAti	n number eka parsarg lAMti 
 *peVnnugAnI/peVnnukAnI	n number eka parsarg gAni 
 *peVnnugA	n number eka parsarg gA 
-*peVnnulu	n number bahu parsarg 0 
-peVnnulU/peVnnulArA/*peVnnullArA	n number bahu parsarg I 
+*peVnnulu	n number bahu parsarg 0  case d
+peVnnulU/peVnnulArA/*peVnnullArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*peVnnulagAdu	n number bahu parsarg gAdu 
-*peVnnulagawweV	n number bahu parsarg gawweV 
-*peVnnulavAdu/peVnnulAdu/peVnnulodu	n number bahu parsarg vAdu 
-*peVnnulAyana	n number bahu parsarg Ayana 
-*peVnnulavAru/peVnnuloru/peVnnulAru	n number bahu parsarg vAru 
-*peVnnulaxi/peVnnulxi	n number bahu parsarg xi 
-*peVnnulavi/peVnnuliy	n number bahu parsarg vi 
-*peVnnulagAru	n number bahu parsarg gAru 
-*peVnnulaM/peVnnulamu	n number bahu parsarg nu 
+*peVnnulagAdu	n number bahu parsarg gAdu  case d
+*peVnnulagawweV	n number bahu parsarg gawweV  case d
+*peVnnulavAdu/peVnnulAdu/peVnnulodu	n number bahu parsarg vAdu  case d
+*peVnnulAyana	n number bahu parsarg Ayana  case d
+*peVnnulavAru/peVnnuloru/peVnnulAru	n number bahu parsarg vAru  case d
+*peVnnulaxi/peVnnulxi	n number bahu parsarg xi  case d
+*peVnnulavi/peVnnuliy	n number bahu parsarg vi  case d
+*peVnnulagAru	n number bahu parsarg gAru  case d
+*peVnnulaM/peVnnulamu	n number bahu parsarg nu  case d
 *peVnnulu	n number bahu parsarg vu 
 *peVnnulayoVkka	n number bahu parsarg yoVkka 
 *peVnnula	n number bahu parsarg obl 

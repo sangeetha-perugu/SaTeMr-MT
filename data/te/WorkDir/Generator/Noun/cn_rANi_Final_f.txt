@@ -1,18 +1,18 @@
 noun	
 rANi	
-*rANi	n number eka parsarg 0 
+*rANi	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*rANigAdu	n number eka parsarg gAdu 
-*rANigawweV	n number eka parsarg gawweV 
-*rANivAdu	n number eka parsarg vAdu 
-*rANAyana	n number eka parsarg Ayana 
-*rANivAru	n number eka parsarg vAru 
-*rANixi	n number eka parsarg xi 
-*rANivi/rANiy	n number eka parsarg vi 
-*rANigAru	n number eka parsarg gAru 
+*rANigAdu	n number eka parsarg gAdu  case d
+*rANigawweV	n number eka parsarg gawweV  case d
+*rANivAdu	n number eka parsarg vAdu  case d
+*rANAyana	n number eka parsarg Ayana  case d
+*rANivAru	n number eka parsarg vAru  case d
+*rANixi	n number eka parsarg xi  case d
+*rANivi/rANiy	n number eka parsarg vi  case d
+*rANigAru	n number eka parsarg gAru  case d
 *rANini	n number eka parsarg nu 
-*rANivi	n number eka parsarg vu 
+*rANivi	n number eka parsarg vu  case d
 *rANiyoVkka	n number eka parsarg yoVkka 
 *rANi	n number eka parsarg obl 
 *rANini/rANinu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ rANaMte/*rANaMteV	n number eka parsarg aMte
 *rANilAMti/rANilAti	n number eka parsarg lAMti 
 *rANigAnI/rANikAnI	n number eka parsarg gAni 
 *rANigA	n number eka parsarg gA 
-*rANulu	n number bahu parsarg 0 
-rANulU/rANululArA/*rANullArA	n number bahu parsarg I 
+*rANulu	n number bahu parsarg 0  case d
+rANulU/rANululArA/*rANullArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*rANulagAdu	n number bahu parsarg gAdu 
-*rANulagawweV	n number bahu parsarg gawweV 
-*rANulavAdu/rANilodu	n number bahu parsarg vAdu 
-*rANulAyana	n number bahu parsarg Ayana 
-*rANulavAru/rANiloru	n number bahu parsarg vAru 
-rANulaxi/rANulxi	n number bahu parsarg xi 
-*rANulavi/rANulay/rANuliy	n number bahu parsarg vi 
-*rANulagAru	n number bahu parsarg gAru 
-*rANulaM/rANulamu	n number bahu parsarg nu 
+*rANulagAdu	n number bahu parsarg gAdu  case d
+*rANulagawweV	n number bahu parsarg gawweV  case d
+*rANulavAdu/rANilodu	n number bahu parsarg vAdu  case d
+*rANulAyana	n number bahu parsarg Ayana  case d
+*rANulavAru/rANiloru	n number bahu parsarg vAru  case d
+rANulaxi/rANulxi	n number bahu parsarg xi  case d
+*rANulavi/rANulay/rANuliy	n number bahu parsarg vi  case d
+*rANulagAru	n number bahu parsarg gAru  case d
+*rANulaM/rANulamu	n number bahu parsarg nu  case d
 *rANulu	n number bahu parsarg vu 
 *rANulayoVkka	n number bahu parsarg yoVkka 
 *rANula	n number bahu parsarg obl 

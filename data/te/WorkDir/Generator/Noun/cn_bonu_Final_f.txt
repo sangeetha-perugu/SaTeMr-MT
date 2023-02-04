@@ -1,18 +1,18 @@
 noun	
 bonu	
-*bonu	n number eka parsarg 0 
+*bonu	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*bonugAdu	n number eka parsarg gAdu 
-*bonugawweV	n number eka parsarg gawweV 
-*bonuvAdu	n number eka parsarg vAdu 
-*bonAyana	n number eka parsarg Ayana 
-*bonuvAru	n number eka parsarg vAru 
-*bonuxi	n number eka parsarg xi 
-*bonuvi/bonuy/boniy	n number eka parsarg vi 
-*bonugAru	n number eka parsarg gAru 
+*bonugAdu	n number eka parsarg gAdu  case d
+*bonugawweV	n number eka parsarg gawweV  case d
+*bonuvAdu	n number eka parsarg vAdu  case d
+*bonAyana	n number eka parsarg Ayana  case d
+*bonuvAru	n number eka parsarg vAru  case d
+*bonuxi	n number eka parsarg xi  case d
+*bonuvi/bonuy/boniy	n number eka parsarg vi  case d
+*bonugAru	n number eka parsarg gAru  case d
 *bonuni/bonunu	n number eka parsarg nu 
-*bonuvu/bonuv	n number eka parsarg vu 
+*bonuvu/bonuv	n number eka parsarg vu  case d
 *bonuyoVkka	n number eka parsarg yoVkka 
 *bonu	n number eka parsarg obl 
 *bonuni/bonunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ bonaMxu/bonunaMxu/*bonuyaMxu	n number eka parsarg aMxu
 *bonulAMti/bonulAti	n number eka parsarg lAMti 
 *bonugAnI/bonukAnI	n number eka parsarg gAni 
 *bonugA	n number eka parsarg gA 
-bonlu/*bonulu	n number bahu parsarg 0 
-bonlU/*bonulU/bonulArA/bonullArA	n number bahu parsarg I 
+bonlu/*bonulu	n number bahu parsarg 0  case d
+bonlU/*bonulU/bonulArA/bonullArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-bonlagAdu/*bonulagAdu	n number bahu parsarg gAdu 
-bonlagawweV/*bonulagawweV	n number bahu parsarg gawweV 
-*bonlavAdu/bonulodu	n number bahu parsarg vAdu 
-bonlAyana/*bonulAyana	n number bahu parsarg Ayana 
-*bonlavAru/bonuloru	n number bahu parsarg vAru 
-bonlaxi/*bonulaxi/bonulxi	n number bahu parsarg xi 
-bonlavi/*bonulavi/bonlay/bonulay	n number bahu parsarg vi 
-bonlugAru/*bonulugAru	n number bahu parsarg gAru 
-bonlaM/bonlamu/*bonulaM/bonulamu	n number bahu parsarg nu 
+bonlagAdu/*bonulagAdu	n number bahu parsarg gAdu  case d
+bonlagawweV/*bonulagawweV	n number bahu parsarg gawweV  case d
+*bonlavAdu/bonulodu	n number bahu parsarg vAdu  case d
+bonlAyana/*bonulAyana	n number bahu parsarg Ayana  case d
+*bonlavAru/bonuloru	n number bahu parsarg vAru  case d
+bonlaxi/*bonulaxi/bonulxi	n number bahu parsarg xi  case d
+bonlavi/*bonulavi/bonlay/bonulay	n number bahu parsarg vi  case d
+bonlugAru/*bonulugAru	n number bahu parsarg gAru  case d
+bonlaM/bonlamu/*bonulaM/bonulamu	n number bahu parsarg nu  case d
 bonlu/*bonulu	n number bahu parsarg vu 
 *bonulayoVkka/bonlayoVkka	n number bahu parsarg yoVkka 
 bonla/*bonula	n number bahu parsarg obl 

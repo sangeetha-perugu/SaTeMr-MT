@@ -1,18 +1,18 @@
 noun	
 putti	
-*putti	n number eka parsarg 0 
+*putti	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*puttigAdu	n number eka parsarg gAdu 
-*puttigawweV	n number eka parsarg gawweV 
-*puttivAdu	n number eka parsarg vAdu 
-*puttAyana	n number eka parsarg Ayana 
-*puttivAru	n number eka parsarg vAru 
-*puttixi	n number eka parsarg xi 
-*puttivi/puttiy	n number eka parsarg vi 
-*puttigAru	n number eka parsarg gAru 
+*puttigAdu	n number eka parsarg gAdu  case d
+*puttigawweV	n number eka parsarg gawweV  case d
+*puttivAdu	n number eka parsarg vAdu  case d
+*puttAyana	n number eka parsarg Ayana  case d
+*puttivAru	n number eka parsarg vAru  case d
+*puttixi	n number eka parsarg xi  case d
+*puttivi/puttiy	n number eka parsarg vi  case d
+*puttigAru	n number eka parsarg gAru  case d
 *puttini	n number eka parsarg nu 
-*puttivi	n number eka parsarg vu 
+*puttivi	n number eka parsarg vu  case d
 *puttiyoVkka	n number eka parsarg yoVkka 
 *putti	n number eka parsarg obl 
 *puttini/puttinu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ puttaMxu/puttinaMxu/*puttiyaMxu	n number eka parsarg aMxu
 *puttilAMti/puttilAti	n number eka parsarg lAMti 
 *puttigAnI/puttikAnI	n number eka parsarg gAni 
 *puttigA	n number eka parsarg gA 
-*putlu	n number bahu parsarg 0 
--	n number bahu parsarg I 
+*putlu	n number bahu parsarg 0  case d
+-	n number bahu parsarg I  case d
 *putlU/putlulArA	n number bahu parsarg gA 
-*putlagAdu	n number bahu parsarg gAdu 
-*putlagawweV	n number bahu parsarg gawweV 
-*putlavAdu/putlodu	n number bahu parsarg vAdu 
-*putlAyana	n number bahu parsarg Ayana 
-*putlavAru/putloru	n number bahu parsarg vAru 
-*putlaxi/puttulxi	n number bahu parsarg xi 
-*putlavi/puttuliy/putliy	n number bahu parsarg vi 
-*putlugAru	n number bahu parsarg gAru 
-putlamu/*putlaM	n number bahu parsarg nu 
+*putlagAdu	n number bahu parsarg gAdu  case d
+*putlagawweV	n number bahu parsarg gawweV  case d
+*putlavAdu/putlodu	n number bahu parsarg vAdu  case d
+*putlAyana	n number bahu parsarg Ayana  case d
+*putlavAru/putloru	n number bahu parsarg vAru  case d
+*putlaxi/puttulxi	n number bahu parsarg xi  case d
+*putlavi/puttuliy/putliy	n number bahu parsarg vi  case d
+*putlugAru	n number bahu parsarg gAru  case d
+putlamu/*putlaM	n number bahu parsarg nu  case d
 *putlu	n number bahu parsarg vu 
 *putlayoVkka	n number bahu parsarg yoVkka 
 *putla	n number bahu parsarg obl 

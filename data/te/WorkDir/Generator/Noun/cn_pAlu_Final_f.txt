@@ -1,18 +1,18 @@
 noun_p	
 pAlu	
-*pAlu	n number eka parsarg 0 
+*pAlu	n number eka parsarg 0  case d
 *pAlU/pAlulArA	n number eka parsarg I 
 -	n number eka parsarg gA 
-*pAlagAdu	n number eka parsarg gAdu 
-*pAlagawweV	n number eka parsarg gawweV 
-*pAlavAdu/pAlodu	n number eka parsarg vAdu 
-*pAlAyana	n number eka parsarg Ayana 
-*pAlavAru/pAloru	n number eka parsarg vAru 
-*pAlaxi/pAlxi	n number eka parsarg xi 
-*pAlavi/pAliy	n number eka parsarg vi 
-*pAlugAru	n number eka parsarg gAru 
+*pAlagAdu	n number eka parsarg gAdu  case d
+*pAlagawweV	n number eka parsarg gawweV  case d
+*pAlavAdu/pAlodu	n number eka parsarg vAdu  case d
+*pAlAyana	n number eka parsarg Ayana  case d
+*pAlavAru/pAloru	n number eka parsarg vAru  case d
+*pAlaxi/pAlxi	n number eka parsarg xi  case d
+*pAlavi/pAliy	n number eka parsarg vi  case d
+*pAlugAru	n number eka parsarg gAru  case d
 *pAlaM/pAlamu	n number eka parsarg nu 
-*pAlu	n number eka parsarg vu 
+*pAlu	n number eka parsarg vu  case d
 *pAlayoVkka	n number eka parsarg yoVkka 
 *pAla	n number eka parsarg obl 
 *pAlani/pAlanu/pAlni	n number eka parsarg ni 
@@ -94,18 +94,18 @@ pAlaMte/*pAlaMteV	n number eka parsarg aMte
 *pAlalAMti/pAlalAti/pAlulAMti/pAlulAti	n number eka parsarg lAMti 
 *pAlugAni/pAlukAnI	n number eka parsarg gAni 
 *pAlugA	n number eka parsarg gA 
-	n number bahu parsarg 0 
-	n number bahu parsarg I 
+	n number bahu parsarg 0  case d
+	n number bahu parsarg I  case d
 	n number bahu parsarg gA 
-	n number bahu parsarg gAdu 
-	n number bahu parsarg gawweV 
-	n number bahu parsarg vAdu 
-	n number bahu parsarg Ayana 
-	n number bahu parsarg vAru 
-	n number bahu parsarg xi 
-	n number bahu parsarg vi 
-	n number bahu parsarg gAru 
-	n number bahu parsarg nu 
+	n number bahu parsarg gAdu  case d
+	n number bahu parsarg gawweV  case d
+	n number bahu parsarg vAdu  case d
+	n number bahu parsarg Ayana  case d
+	n number bahu parsarg vAru  case d
+	n number bahu parsarg xi  case d
+	n number bahu parsarg vi  case d
+	n number bahu parsarg gAru  case d
+	n number bahu parsarg nu  case d
 	n number bahu parsarg vu 
 	n number bahu parsarg yoVkka 
 	n number bahu parsarg obl 

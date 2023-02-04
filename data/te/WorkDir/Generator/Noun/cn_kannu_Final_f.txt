@@ -1,18 +1,18 @@
 noun	
 kannu	
-*kannu	n number eka parsarg 0 
+*kannu	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*kannugAdu/kaMtigAdu	n number eka parsarg gAdu 
-*kannugawweV/kaMtigawweV	n number eka parsarg gawweV 
-kannuvAdu/*kaMtivAdu	n number eka parsarg vAdu 
-kannAyana/*kaMtAyana	n number eka parsarg Ayana 
-kannuvAru/*kaMtivAru	n number eka parsarg vAru 
-kannuxi/*kaMtixi	n number eka parsarg xi 
-kannuvi/*kaMtivi/kaMtiy	n number eka parsarg vi 
-*kannugAru	n number eka parsarg gAru 
+*kannugAdu/kaMtigAdu	n number eka parsarg gAdu  case d
+*kannugawweV/kaMtigawweV	n number eka parsarg gawweV  case d
+kannuvAdu/*kaMtivAdu	n number eka parsarg vAdu  case d
+kannAyana/*kaMtAyana	n number eka parsarg Ayana  case d
+kannuvAru/*kaMtivAru	n number eka parsarg vAru  case d
+kannuxi/*kaMtixi	n number eka parsarg xi  case d
+kannuvi/*kaMtivi/kaMtiy	n number eka parsarg vi  case d
+*kannugAru	n number eka parsarg gAru  case d
 *kannunu	n number eka parsarg nu 
-*kannuvu	n number eka parsarg vu 
+*kannuvu	n number eka parsarg vu  case d
 *kaMtiyoVkka/kannuyoVkka	n number eka parsarg yoVkka 
 *kaMti/kannu	n number eka parsarg obl 
 *kannuni/kannunu/kaMtini	n number eka parsarg ni 
@@ -94,18 +94,18 @@ kannaMte/*kannaMteV	n number eka parsarg aMte
 *kannulAMti/kannulAti	n number eka parsarg lAMti 
 *kannugAnI/kannukAnI	n number eka parsarg gAni 
 *kannugA	n number eka parsarg gA 
-kannulu/*kalYlYu/kalYlu/kaMdlu	n number bahu parsarg 0 
-*kannulU/kannulArA	n number bahu parsarg I 
+kannulu/*kalYlYu/kalYlu/kaMdlu	n number bahu parsarg 0  case d
+*kannulU/kannulArA	n number bahu parsarg I  case d
 *kannulagA/kaMdlagA	n number bahu parsarg gA 
-kannulagAdu/*kalYlYagAdu/kalYlagAdu/kaMdlagAdu	n number bahu parsarg gAdu 
-kannulagawweV/*kalYlYagawweV/kalYlagawweV/kaMdlagawweV	n number bahu parsarg gawweV 
-kannulavAdu/*kalYlYavAdu/kalYlavAdu/kaMdlavAdu	n number bahu parsarg vAdu 
-kannulAyana/*kalYlYAyana/kalYlAyana/kaMdlAyana	n number bahu parsarg Ayana 
-kannulavAru/*kalYlYavAru/kalYlavAru/kaMdlavAru	n number bahu parsarg vAru 
-kannulaxi/*kalYlYaxi/kalYlaxi/kaMdlaxi	n number bahu parsarg xi 
-kannulavi/*kalYlYavi/kalYlavi/kaMdlavi/kalYlay	n number bahu parsarg vi 
-kannulagAru/*kalYlYugAru/kalYlugAru/kaMdlagAru	n number bahu parsarg gAru 
-*kannulaM/kalYlaM/kaMdlaM/kannulamu/kalYlamu/kaMdlamu	n number bahu parsarg nu 
+kannulagAdu/*kalYlYagAdu/kalYlagAdu/kaMdlagAdu	n number bahu parsarg gAdu  case d
+kannulagawweV/*kalYlYagawweV/kalYlagawweV/kaMdlagawweV	n number bahu parsarg gawweV  case d
+kannulavAdu/*kalYlYavAdu/kalYlavAdu/kaMdlavAdu	n number bahu parsarg vAdu  case d
+kannulAyana/*kalYlYAyana/kalYlAyana/kaMdlAyana	n number bahu parsarg Ayana  case d
+kannulavAru/*kalYlYavAru/kalYlavAru/kaMdlavAru	n number bahu parsarg vAru  case d
+kannulaxi/*kalYlYaxi/kalYlaxi/kaMdlaxi	n number bahu parsarg xi  case d
+kannulavi/*kalYlYavi/kalYlavi/kaMdlavi/kalYlay	n number bahu parsarg vi  case d
+kannulagAru/*kalYlYugAru/kalYlugAru/kaMdlagAru	n number bahu parsarg gAru  case d
+*kannulaM/kalYlaM/kaMdlaM/kannulamu/kalYlamu/kaMdlamu	n number bahu parsarg nu  case d
 kannulu/*kalYlYu/kalYlu/kaMdlu	n number bahu parsarg vu 
 kannulayoVkka/*kalYlYayoVkka/kalYlayoVkka/kaMdlayoVkka	n number bahu parsarg yoVkka 
 kannula/*kalYlYa/kalYla/kaMdla	n number bahu parsarg obl 

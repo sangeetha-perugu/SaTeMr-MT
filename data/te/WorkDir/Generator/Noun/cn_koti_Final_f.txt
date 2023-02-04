@@ -1,18 +1,18 @@
 noun	
 koti	
-*koti	n number eka parsarg 0 
+*koti	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*kotigAdu	n number eka parsarg gAdu 
-*kotigawweV	n number eka parsarg gawweV 
-*kotivAdu	n number eka parsarg vAdu 
-*kotAyana	n number eka parsarg Ayana 
-*kotivAru	n number eka parsarg vAru 
-*kotixi	n number eka parsarg xi 
-*kotivi/kotiy	n number eka parsarg vi 
-*kotigAru	n number eka parsarg gAru 
+*kotigAdu	n number eka parsarg gAdu  case d
+*kotigawweV	n number eka parsarg gawweV  case d
+*kotivAdu	n number eka parsarg vAdu  case d
+*kotAyana	n number eka parsarg Ayana  case d
+*kotivAru	n number eka parsarg vAru  case d
+*kotixi	n number eka parsarg xi  case d
+*kotivi/kotiy	n number eka parsarg vi  case d
+*kotigAru	n number eka parsarg gAru  case d
 *kotini	n number eka parsarg nu 
-kotivu/*kotivi	n number eka parsarg vu 
+kotivu/*kotivi	n number eka parsarg vu  case d
 *kotiyoVkka	n number eka parsarg yoVkka 
 *koti	n number eka parsarg obl 
 *kotini	n number eka parsarg ni 
@@ -94,18 +94,18 @@ kotaMxu/kotinaMxu/*kotiyaMxu	n number eka parsarg aMxu
 *kotilAMti/kotilAti	n number eka parsarg lAMti 
 *kotigAnI/kotikAnI	n number eka parsarg gAni 
 *kotigA	n number eka parsarg gA 
-*kotlu	n number bahu parsarg 0 
-*kotlU/kotillArA/kotlulArA	n number bahu parsarg I 
+*kotlu	n number bahu parsarg 0  case d
+*kotlU/kotillArA/kotlulArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*kotlagAdu	n number bahu parsarg gAdu 
-*kotlagawweV	n number bahu parsarg gawweV 
-*kotlavAdu/kotlodu	n number bahu parsarg vAdu 
-*kotlAyana	n number bahu parsarg Ayana 
-*kotlavAru/kotloru	n number bahu parsarg vAru 
-*kotlaxi/kotilxi	n number bahu parsarg xi 
-*kotlavi/kotliy	n number bahu parsarg vi 
-*kotlagAru	n number bahu parsarg gAru 
-*kotlaM/kotlamu	n number bahu parsarg nu 
+*kotlagAdu	n number bahu parsarg gAdu  case d
+*kotlagawweV	n number bahu parsarg gawweV  case d
+*kotlavAdu/kotlodu	n number bahu parsarg vAdu  case d
+*kotlAyana	n number bahu parsarg Ayana  case d
+*kotlavAru/kotloru	n number bahu parsarg vAru  case d
+*kotlaxi/kotilxi	n number bahu parsarg xi  case d
+*kotlavi/kotliy	n number bahu parsarg vi  case d
+*kotlagAru	n number bahu parsarg gAru  case d
+*kotlaM/kotlamu	n number bahu parsarg nu  case d
 *kotlu	n number bahu parsarg vu 
 *kotlayoVkka	n number bahu parsarg yoVkka 
 *kotla	n number bahu parsarg obl 

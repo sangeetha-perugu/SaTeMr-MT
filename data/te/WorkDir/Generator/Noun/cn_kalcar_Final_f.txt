@@ -1,18 +1,18 @@
 noun	
 kalcar	
-kalcar/*kalcaru	n number eka parsarg 0 
+kalcar/*kalcaru	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-kalcargAdu/*kalcarugAdu	n number eka parsarg gAdu 
-kalcargawweV/*kalcarugawweV	n number eka parsarg gawweV 
-kalcarvAdu/*kalcaruvAdu	n number eka parsarg vAdu 
-kalcarAyana/*kalcarAyana	n number eka parsarg Ayana 
-kalcarvAru/*kalcaruvAru	n number eka parsarg vAru 
-kalcarxi/*kalcaruxi	n number eka parsarg xi 
-kalcarvi/*kalcaruvi	n number eka parsarg vi 
-kalcargAru/*kalcarugAru	n number eka parsarg gAru 
+kalcargAdu/*kalcarugAdu	n number eka parsarg gAdu  case d
+kalcargawweV/*kalcarugawweV	n number eka parsarg gawweV  case d
+kalcarvAdu/*kalcaruvAdu	n number eka parsarg vAdu  case d
+kalcarAyana/*kalcarAyana	n number eka parsarg Ayana  case d
+kalcarvAru/*kalcaruvAru	n number eka parsarg vAru  case d
+kalcarxi/*kalcaruxi	n number eka parsarg xi  case d
+kalcarvi/*kalcaruvi	n number eka parsarg vi  case d
+kalcargAru/*kalcarugAru	n number eka parsarg gAru  case d
 kalcarnu/*kalcarunu	n number eka parsarg nu 
-kalcarvu/*kalcaruvu	n number eka parsarg vu 
+kalcarvu/*kalcaruvu	n number eka parsarg vu  case d
 kalcaryoVkka/*kalcaruyoVkka	n number eka parsarg yoVkka 
 kalcar/*kalcaru	n number eka parsarg obl 
 kalcarni/kalcarnu/*kalcaruni/kalcarunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ kalcarpAti/*kalcarupAti	n number eka parsarg pAti
 kalcarlAMti/kalcarlAti/*kalcarulAMti/kalcarulAti	n number eka parsarg lAMti 
 kalcargAnI/kalcarkAnI/*kalcarugAnI/kalcarukAnI	n number eka parsarg gAni 
 kalcargA/*kalcarugA	n number eka parsarg gA 
-kalcarlu/*kalcarulu	n number bahu parsarg 0 
-*kalcarlU/kalcarlArA/kalcarulU/kalcarulArA	n number bahu parsarg I 
+kalcarlu/*kalcarulu	n number bahu parsarg 0  case d
+*kalcarlU/kalcarlArA/kalcarulU/kalcarulArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*kalcarlagAdu/kalcarulagAdu	n number bahu parsarg gAdu 
-*kalcarlagawweV/kalcarulagawweV	n number bahu parsarg gawweV 
-*kalcarlavAdu/kalcarulavAdu	n number bahu parsarg vAdu 
-*kalcarlAyana/kalcarulAyana	n number bahu parsarg Ayana 
-*kalcarlavAru/kalcarulavAru	n number bahu parsarg vAru 
-*kalcarlaxi/kalcarlxi/kalcarulaxi/kalcarulxi	n number bahu parsarg xi 
-*kalcarlavi/kalcarliy/kalcarulavi/kalcaruliy	n number bahu parsarg vi 
-*kalcarlagAru/kalcarulagAru	n number bahu parsarg gAru 
-kalcarlamu/*kalcarlaM/kalcarulamu/kalcarulaM	n number bahu parsarg nu 
+*kalcarlagAdu/kalcarulagAdu	n number bahu parsarg gAdu  case d
+*kalcarlagawweV/kalcarulagawweV	n number bahu parsarg gawweV  case d
+*kalcarlavAdu/kalcarulavAdu	n number bahu parsarg vAdu  case d
+*kalcarlAyana/kalcarulAyana	n number bahu parsarg Ayana  case d
+*kalcarlavAru/kalcarulavAru	n number bahu parsarg vAru  case d
+*kalcarlaxi/kalcarlxi/kalcarulaxi/kalcarulxi	n number bahu parsarg xi  case d
+*kalcarlavi/kalcarliy/kalcarulavi/kalcaruliy	n number bahu parsarg vi  case d
+*kalcarlagAru/kalcarulagAru	n number bahu parsarg gAru  case d
+kalcarlamu/*kalcarlaM/kalcarulamu/kalcarulaM	n number bahu parsarg nu  case d
 *kalcarlu/kalcarulu	n number bahu parsarg vu 
 *kalcarlayoVkka/kalcarulayoVkka	n number bahu parsarg yoVkka 
 *kalcarla/kalcarula	n number bahu parsarg obl 

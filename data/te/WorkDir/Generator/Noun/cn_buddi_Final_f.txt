@@ -1,18 +1,18 @@
 noun	
 buddi	
-*buddi	n number eka parsarg 0 
+*buddi	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*buddigAdu	n number eka parsarg gAdu 
-*buddigawweV	n number eka parsarg gawweV 
-*buddivAdu	n number eka parsarg vAdu 
-*buddAyana	n number eka parsarg Ayana 
-*buddivAru	n number eka parsarg vAru 
-*buddixi	n number eka parsarg xi 
-*buddivi/buddiy	n number eka parsarg vi 
-*buddigAru	n number eka parsarg gAru 
+*buddigAdu	n number eka parsarg gAdu  case d
+*buddigawweV	n number eka parsarg gawweV  case d
+*buddivAdu	n number eka parsarg vAdu  case d
+*buddAyana	n number eka parsarg Ayana  case d
+*buddivAru	n number eka parsarg vAru  case d
+*buddixi	n number eka parsarg xi  case d
+*buddivi/buddiy	n number eka parsarg vi  case d
+*buddigAru	n number eka parsarg gAru  case d
 *buddini	n number eka parsarg nu 
-*buddivi	n number eka parsarg vu 
+*buddivi	n number eka parsarg vu  case d
 *buddiyoVkka	n number eka parsarg yoVkka 
 *buddi	n number eka parsarg obl 
 *buddini/buddinu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ buddaMxu/buddinaMxu/*buddiyaMxu	n number eka parsarg aMxu
 *buddilAMti/buddilAti	n number eka parsarg lAMti 
 *buddigAnI/buddikAnI	n number eka parsarg gAni 
 *buddigA	n number eka parsarg gA 
-*budlu	n number bahu parsarg 0 
--	n number bahu parsarg I 
+*budlu	n number bahu parsarg 0  case d
+-	n number bahu parsarg I  case d
 *budlU/budlulArA	n number bahu parsarg gA 
-*budlagAdu	n number bahu parsarg gAdu 
-*budlagawweV	n number bahu parsarg gawweV 
-*budlavAdu/budlodu	n number bahu parsarg vAdu 
-*budlAyana	n number bahu parsarg Ayana 
-*budlavAru/budloru	n number bahu parsarg vAru 
-*budlaxi/buddulxi	n number bahu parsarg xi 
-*budlavi/budduliy/budliy	n number bahu parsarg vi 
-*budlugAru	n number bahu parsarg gAru 
-budlamu/*budlaM	n number bahu parsarg nu 
+*budlagAdu	n number bahu parsarg gAdu  case d
+*budlagawweV	n number bahu parsarg gawweV  case d
+*budlavAdu/budlodu	n number bahu parsarg vAdu  case d
+*budlAyana	n number bahu parsarg Ayana  case d
+*budlavAru/budloru	n number bahu parsarg vAru  case d
+*budlaxi/buddulxi	n number bahu parsarg xi  case d
+*budlavi/budduliy/budliy	n number bahu parsarg vi  case d
+*budlugAru	n number bahu parsarg gAru  case d
+budlamu/*budlaM	n number bahu parsarg nu  case d
 *budlu	n number bahu parsarg vu 
 *budlayoVkka	n number bahu parsarg yoVkka 
 *budla	n number bahu parsarg obl 

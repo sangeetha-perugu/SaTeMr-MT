@@ -1,18 +1,18 @@
 noun	
 baMdi	
-*baMdi	n number eka parsarg 0 
+*baMdi	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*baMdigAdu	n number eka parsarg gAdu 
-*baMdigawweV	n number eka parsarg gawweV 
-*baMdivAdu/baMdodu/baMdAdu	n number eka parsarg vAdu 
-*baMdAyana	n number eka parsarg Ayana 
-*baMdivAru/baMdoru/baMdAru	n number eka parsarg vAru 
-*baMdixi	n number eka parsarg xi 
-*baMdivi/baMdiy/baMdiyyi	n number eka parsarg vi 
-*baMdigAru	n number eka parsarg gAru 
+*baMdigAdu	n number eka parsarg gAdu  case d
+*baMdigawweV	n number eka parsarg gawweV  case d
+*baMdivAdu/baMdodu/baMdAdu	n number eka parsarg vAdu  case d
+*baMdAyana	n number eka parsarg Ayana  case d
+*baMdivAru/baMdoru/baMdAru	n number eka parsarg vAru  case d
+*baMdixi	n number eka parsarg xi  case d
+*baMdivi/baMdiy/baMdiyyi	n number eka parsarg vi  case d
+*baMdigAru	n number eka parsarg gAru  case d
 *baMdini	n number eka parsarg nu 
-baMdivu/*baMdivi	n number eka parsarg vu 
+baMdivu/*baMdivi	n number eka parsarg vu  case d
 *baMdiyoVkka	n number eka parsarg yoVkka 
 *baMdi	n number eka parsarg obl 
 *baMdini	n number eka parsarg ni 
@@ -94,18 +94,18 @@ baMdaMxu/baMdinaMxu/*baMdiyaMxu	n number eka parsarg aMxu
 *baMdilAMti/baMdilAti	n number eka parsarg lAMti 
 *baMdigAnI/baMdikAnI	n number eka parsarg gAni 
 *baMdigA	n number eka parsarg gA 
-*balYlYu/balYlu/baMdlu	n number bahu parsarg 0 
-*balYlYU/balYlU/balYlalArA	n number bahu parsarg I 
+*balYlYu/balYlu/baMdlu	n number bahu parsarg 0  case d
+*balYlYU/balYlU/balYlalArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*balYlYagAdu/balYlagAdu/baMdlagAdu	n number bahu parsarg gAdu 
-*balYlYagawweV/balYlagawweV/baMdlagawweV	n number bahu parsarg gawweV 
-*balYlYavAdu/balYlavAdu/baMdlavAdu	n number bahu parsarg vAdu 
-*balYlYAyana/balYlAyana/baMdlAyana	n number bahu parsarg Ayana 
-*balYlYavAru/balYlavAru/baMdlavAru	n number bahu parsarg vAru 
-*balYlYaxi/balYlaxi/baMdlaxi	n number bahu parsarg xi 
-*balYlYavi/balYlavi/baMdlavi/balYlay/balYlayyi	n number bahu parsarg vi 
-*balYlYugAru/balYlugAru/baMdlugAru	n number bahu parsarg gAru 
-balYlamu/*balYlYaM/balYaM/baMdlamu/baMdlaM	n number bahu parsarg nu 
+*balYlYagAdu/balYlagAdu/baMdlagAdu	n number bahu parsarg gAdu  case d
+*balYlYagawweV/balYlagawweV/baMdlagawweV	n number bahu parsarg gawweV  case d
+*balYlYavAdu/balYlavAdu/baMdlavAdu	n number bahu parsarg vAdu  case d
+*balYlYAyana/balYlAyana/baMdlAyana	n number bahu parsarg Ayana  case d
+*balYlYavAru/balYlavAru/baMdlavAru	n number bahu parsarg vAru  case d
+*balYlYaxi/balYlaxi/baMdlaxi	n number bahu parsarg xi  case d
+*balYlYavi/balYlavi/baMdlavi/balYlay/balYlayyi	n number bahu parsarg vi  case d
+*balYlYugAru/balYlugAru/baMdlugAru	n number bahu parsarg gAru  case d
+balYlamu/*balYlYaM/balYaM/baMdlamu/baMdlaM	n number bahu parsarg nu  case d
 *balYlYu/balYlu/baMdlu	n number bahu parsarg vu 
 *balYlYayoVkka/balYlayoVkka/baMdlayoVkka	n number bahu parsarg yoVkka 
 *balYlYa/balYla/baMdla	n number bahu parsarg obl 

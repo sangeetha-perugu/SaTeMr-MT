@@ -1,18 +1,18 @@
 noun	
 kota	
-*kota	n number eka parsarg 0 
+*kota	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*kotagAdu	n number eka parsarg gAdu 
-*kotagawweV	n number eka parsarg gawweV 
-*kotavAdu	n number eka parsarg vAdu 
-*kotAyana	n number eka parsarg Ayana 
-*kotavAru	n number eka parsarg vAru 
-*kotaxi	n number eka parsarg xi 
-*kotavi	n number eka parsarg vi 
-*kotagAru	n number eka parsarg gAru 
+*kotagAdu	n number eka parsarg gAdu  case d
+*kotagawweV	n number eka parsarg gawweV  case d
+*kotavAdu	n number eka parsarg vAdu  case d
+*kotAyana	n number eka parsarg Ayana  case d
+*kotavAru	n number eka parsarg vAru  case d
+*kotaxi	n number eka parsarg xi  case d
+*kotavi	n number eka parsarg vi  case d
+*kotagAru	n number eka parsarg gAru  case d
 *kotanu	n number eka parsarg nu 
-*kotavu	n number eka parsarg vu 
+*kotavu	n number eka parsarg vu  case d
 *kotayoVkka	n number eka parsarg yoVkka 
 *kota	n number eka parsarg obl 
 *kotani/kotanu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ kotaMxu/kotanaMxu/*kotayaMxu	n number eka parsarg aMxu
 *kotalAMti/kotalAti	n number eka parsarg lAMti 
 *kotagAnI/kotagAni	n number eka parsarg gAni 
 *kotagA	n number eka parsarg gA 
-*kotalu	n number bahu parsarg 0 
-*kotalU/kotalArA	n number bahu parsarg I 
+*kotalu	n number bahu parsarg 0  case d
+*kotalU/kotalArA	n number bahu parsarg I  case d
 *kotalagA	n number bahu parsarg gA 
-*kotalagAdu	n number bahu parsarg gAdu 
-*kotalagawweV	n number bahu parsarg gawweV 
-*kotalavAdu/kotalodu	n number bahu parsarg vAdu 
-*kotalAyana	n number bahu parsarg Ayana 
-*kotalavAru/kotaloru	n number bahu parsarg vAru 
-kotalxi/*kotalaxi	n number bahu parsarg xi 
-*kotalavi/kotaliy	n number bahu parsarg vi 
-*kotalagAru	n number bahu parsarg gAru 
-kotalamu/*kotalaM	n number bahu parsarg nu 
+*kotalagAdu	n number bahu parsarg gAdu  case d
+*kotalagawweV	n number bahu parsarg gawweV  case d
+*kotalavAdu/kotalodu	n number bahu parsarg vAdu  case d
+*kotalAyana	n number bahu parsarg Ayana  case d
+*kotalavAru/kotaloru	n number bahu parsarg vAru  case d
+kotalxi/*kotalaxi	n number bahu parsarg xi  case d
+*kotalavi/kotaliy	n number bahu parsarg vi  case d
+*kotalagAru	n number bahu parsarg gAru  case d
+kotalamu/*kotalaM	n number bahu parsarg nu  case d
 *kotalu	n number bahu parsarg vu 
 *kotalayoVkka	n number bahu parsarg yoVkka 
 *kotala	n number bahu parsarg obl 

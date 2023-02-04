@@ -1,18 +1,18 @@
 noun	
 paMxeVM	
-*paMxeVM/paMxeVmu	n number eka parsarg 0 
+*paMxeVM/paMxeVmu	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*paMxeVMgAdu/paMxeVgAdu	n number eka parsarg gAdu 
-*paMxeVMgawweV/paMxeVgawweV	n number eka parsarg gawweV 
-*paMxeVMvAdu	n number eka parsarg vAdu 
-*paMxeVmAyana	n number eka parsarg Ayana 
-*paMxeVMvAru	n number eka parsarg vAru 
-*paMxeVMxi/paMxAnixi/paMxenixi	n number eka parsarg xi 
-*paMxeVMvi/paMxAnivi/paMxenivi	n number eka parsarg vi 
-*paMxeVMgAru	n number eka parsarg gAru 
+*paMxeVMgAdu/paMxeVgAdu	n number eka parsarg gAdu  case d
+*paMxeVMgawweV/paMxeVgawweV	n number eka parsarg gawweV  case d
+*paMxeVMvAdu	n number eka parsarg vAdu  case d
+*paMxeVmAyana	n number eka parsarg Ayana  case d
+*paMxeVMvAru	n number eka parsarg vAru  case d
+*paMxeVMxi/paMxAnixi/paMxenixi	n number eka parsarg xi  case d
+*paMxeVMvi/paMxAnivi/paMxenivi	n number eka parsarg vi  case d
+*paMxeVMgAru	n number eka parsarg gAru  case d
 *paMxeVMnu/paMxAnni/paMxenni/paMxeVmunu	n number eka parsarg nu 
-*paMxeVMvu/paMxAnivi/paMxeVmuvu	n number eka parsarg vu 
+*paMxeVMvu/paMxAnivi/paMxeVmuvu	n number eka parsarg vu  case d
 *paMxeVMyoVkka	n number eka parsarg yoVkka 
 *paMxeVM/paMxAni/paMxeVpu	n number eka parsarg obl 
 *paMxAnni/paMxenni/paMxeVMnu/paMxeVmunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ paMxeVmaMxu/*paMxeVmunaMxu/paMxeVmaMxu	n number eka parsarg aMxu
 *paMxeVMlAMti/paMxeVMlAti	n number eka parsarg lAMti 
 *paMxeVMgAnI/paMxeVMkAnI	n number eka parsarg gAni 
 *paMxeVMgA	n number eka parsarg gA 
-*paMxAlu/paMxeVmulu/paMxelu	n number bahu parsarg 0 
-*paMxAlU/paMxeVmulU/paMxeVmulArA/paMxAllArA	n number bahu parsarg I 
+*paMxAlu/paMxeVmulu/paMxelu	n number bahu parsarg 0  case d
+*paMxAlU/paMxeVmulU/paMxeVmulArA/paMxAllArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*paMxAlagAdu/paMxeVmulagAdu/paMxelagAdu	n number bahu parsarg gAdu 
-*paMxAlagawweV/paMxeVmulagawweV/paMxelagawweV	n number bahu parsarg gawweV 
-*paMxAlavAdu/paMxAlodu/paMxeVmulavAdu	n number bahu parsarg vAdu 
-*paMxAlAyana/paMxeVmulAyana/paMxelAyana	n number bahu parsarg Ayana 
-*paMxAlavAru/paMxAloru/paMxeVmulavAru	n number bahu parsarg vAru 
-*paMxAlaxi/paMxAlxi/paMxeVmulaxi	n number bahu parsarg xi 
-*paMxAlavi/paMxAlay/paMxeVmulavi	n number bahu parsarg vi 
-*paMxAlagAru/paMxeVmulagAru/paMxelagAru	n number bahu parsarg gAru 
-paMxAlamu/*paMxAlaM/paMxeVmulamu/paMxelaM	n number bahu parsarg nu 
+*paMxAlagAdu/paMxeVmulagAdu/paMxelagAdu	n number bahu parsarg gAdu  case d
+*paMxAlagawweV/paMxeVmulagawweV/paMxelagawweV	n number bahu parsarg gawweV  case d
+*paMxAlavAdu/paMxAlodu/paMxeVmulavAdu	n number bahu parsarg vAdu  case d
+*paMxAlAyana/paMxeVmulAyana/paMxelAyana	n number bahu parsarg Ayana  case d
+*paMxAlavAru/paMxAloru/paMxeVmulavAru	n number bahu parsarg vAru  case d
+*paMxAlaxi/paMxAlxi/paMxeVmulaxi	n number bahu parsarg xi  case d
+*paMxAlavi/paMxAlay/paMxeVmulavi	n number bahu parsarg vi  case d
+*paMxAlagAru/paMxeVmulagAru/paMxelagAru	n number bahu parsarg gAru  case d
+paMxAlamu/*paMxAlaM/paMxeVmulamu/paMxelaM	n number bahu parsarg nu  case d
 *paMxAlu/paMxeVmulu/paMxelu	n number bahu parsarg vu 
 *paMxeVmulayoVkka/paMxAlayoVkka/paMxelayoVkka	n number bahu parsarg yoVkka 
 *paMxAla/paMxeVmula/paMxela	n number bahu parsarg obl 

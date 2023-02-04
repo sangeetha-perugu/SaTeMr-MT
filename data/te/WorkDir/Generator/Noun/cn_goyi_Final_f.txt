@@ -1,18 +1,18 @@
 noun	
 goyi	
-*goyi	n number eka parsarg 0 
+*goyi	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*goyigAdu/gowigAdu	n number eka parsarg gAdu 
-*goyigawweV/gowigawweV	n number eka parsarg gawweV 
-*goyivAdu/gowivAdu	n number eka parsarg vAdu 
-*goyAyana/gowAyana	n number eka parsarg Ayana 
-*goyivAru/gowivAru	n number eka parsarg vAru 
-*goyixi/gowixi	n number eka parsarg xi 
-*goyivi/gowivi/gowiy/gowiyyi	n number eka parsarg vi 
-*goyigAru/gowigAru	n number eka parsarg gAru 
+*goyigAdu/gowigAdu	n number eka parsarg gAdu  case d
+*goyigawweV/gowigawweV	n number eka parsarg gawweV  case d
+*goyivAdu/gowivAdu	n number eka parsarg vAdu  case d
+*goyAyana/gowAyana	n number eka parsarg Ayana  case d
+*goyivAru/gowivAru	n number eka parsarg vAru  case d
+*goyixi/gowixi	n number eka parsarg xi  case d
+*goyivi/gowivi/gowiy/gowiyyi	n number eka parsarg vi  case d
+*goyigAru/gowigAru	n number eka parsarg gAru  case d
 goyinu/gowinu/*goyini/gowini	n number eka parsarg nu 
-*goyivi/gowivu/gowivi	n number eka parsarg vu 
+*goyivi/gowivu/gowivi	n number eka parsarg vu  case d
 *gowiyoVkka/goyiyoVkka	n number eka parsarg yoVkka 
 *gowi	n number eka parsarg obl 
 *goyini/goyinu/gowini	n number eka parsarg ni 
@@ -94,18 +94,18 @@ goyaMxu/goyinaMxu/gowinaMxu/*gowiyaMxu	n number eka parsarg aMxu
 *goyilAMti/goyilAti/gowilAMti/gowilAti	n number eka parsarg lAMti 
 *goyigAnI/goyikAnI/gowigAnI/gowikAnI	n number eka parsarg gAni 
 *goyigA/gowigA	n number eka parsarg gA 
-goyilu/*gowulu	n number bahu parsarg 0 
-goyilU/*gowulU/goyilArA/gowulArA	n number bahu parsarg I 
+goyilu/*gowulu	n number bahu parsarg 0  case d
+goyilU/*gowulU/goyilArA/gowulArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-goyilagAdu/*gowulagAdu	n number bahu parsarg gAdu 
-goyilagawweV/*gowulagawweV	n number bahu parsarg gawweV 
-goyilavAdu/*gowulavAdu	n number bahu parsarg vAdu 
-goyilAyana/*gowulAyana	n number bahu parsarg Ayana 
-goyilavAru/*gowulavAru	n number bahu parsarg vAru 
-goyilaxi/*gowulaxi	n number bahu parsarg xi 
-goyilavi/goyilay/*gowulavi	n number bahu parsarg vi 
-goyilugAru/*gowulagAru	n number bahu parsarg gAru 
-goyilaM/goyilamu/gowulamu/*gowulaM	n number bahu parsarg nu 
+goyilagAdu/*gowulagAdu	n number bahu parsarg gAdu  case d
+goyilagawweV/*gowulagawweV	n number bahu parsarg gawweV  case d
+goyilavAdu/*gowulavAdu	n number bahu parsarg vAdu  case d
+goyilAyana/*gowulAyana	n number bahu parsarg Ayana  case d
+goyilavAru/*gowulavAru	n number bahu parsarg vAru  case d
+goyilaxi/*gowulaxi	n number bahu parsarg xi  case d
+goyilavi/goyilay/*gowulavi	n number bahu parsarg vi  case d
+goyilugAru/*gowulagAru	n number bahu parsarg gAru  case d
+goyilaM/goyilamu/gowulamu/*gowulaM	n number bahu parsarg nu  case d
 goyilu/*gowulu	n number bahu parsarg vu 
 goyilayoVkka/*gowulayoVkka	n number bahu parsarg yoVkka 
 goyyila/*gowula	n number bahu parsarg obl 

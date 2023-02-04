@@ -1,18 +1,18 @@
 noun	
 nOkaru	
-*nOkaru	n number eka parsarg 0 
+*nOkaru	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*nOkarugAdu	n number eka parsarg gAdu 
-*nOkarugawweV	n number eka parsarg gawweV 
-*nOkaruvAdu/nOkarodu	n number eka parsarg vAdu 
-*nOkarAyana	n number eka parsarg Ayana 
-*nOkaruvAru	n number eka parsarg vAru 
-*nOkarixi/nOkaruxi	n number eka parsarg xi 
-*nOkarivi	n number eka parsarg vi 
-*nOkarugAru	n number eka parsarg gAru 
+*nOkarugAdu	n number eka parsarg gAdu  case d
+*nOkarugawweV	n number eka parsarg gawweV  case d
+*nOkaruvAdu/nOkarodu	n number eka parsarg vAdu  case d
+*nOkarAyana	n number eka parsarg Ayana  case d
+*nOkaruvAru	n number eka parsarg vAru  case d
+*nOkarixi/nOkaruxi	n number eka parsarg xi  case d
+*nOkarivi	n number eka parsarg vi  case d
+*nOkarugAru	n number eka parsarg gAru  case d
 *nOkarunu	n number eka parsarg nu 
-*nOkaruvu	n number eka parsarg vu 
+*nOkaruvu	n number eka parsarg vu  case d
 *nOkaruyoVkka	n number eka parsarg yoVkka 
 *nOkaru	n number eka parsarg obl 
 *nOkarini/nOkarni/nOkarnu/nOkarunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ nOkaraMxu/nOkarunaMxu/*nOkaruyaMxu	n number eka parsarg aMxu
 *nOkarulAMti/nOkarulAti	n number eka parsarg lAMti 
 *nOkarugAnI/nOkarukAnI	n number eka parsarg gAni 
 *nOkarugA	n number eka parsarg gA 
-*nOkarlu/nOkarulu	n number bahu parsarg 0 
-nOkarlU/nOkarulArA/*nOkarlArA	n number bahu parsarg I 
+*nOkarlu/nOkarulu	n number bahu parsarg 0  case d
+nOkarlU/nOkarulArA/*nOkarlArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*nOkarlagAdu/nOkarulagAdu	n number bahu parsarg gAdu 
-*nOkarlagawweV/nOkarulagawweV	n number bahu parsarg gawweV 
-*nOkarlavAdu/nOkarulavAdu	n number bahu parsarg vAdu 
-*nOkarlAyana/nOkarulAyana	n number bahu parsarg Ayana 
-*nOkarlavAru/nOkarulavAru	n number bahu parsarg vAru 
-*nOkarlaxi/nOkarulaxi	n number bahu parsarg xi 
-*nOkarlavi/nOkarulavi	n number bahu parsarg vi 
-*nOkarlagAru/nOkarulagAru	n number bahu parsarg gAru 
-*nOkarlaM/nOkarulamu	n number bahu parsarg nu 
+*nOkarlagAdu/nOkarulagAdu	n number bahu parsarg gAdu  case d
+*nOkarlagawweV/nOkarulagawweV	n number bahu parsarg gawweV  case d
+*nOkarlavAdu/nOkarulavAdu	n number bahu parsarg vAdu  case d
+*nOkarlAyana/nOkarulAyana	n number bahu parsarg Ayana  case d
+*nOkarlavAru/nOkarulavAru	n number bahu parsarg vAru  case d
+*nOkarlaxi/nOkarulaxi	n number bahu parsarg xi  case d
+*nOkarlavi/nOkarulavi	n number bahu parsarg vi  case d
+*nOkarlagAru/nOkarulagAru	n number bahu parsarg gAru  case d
+*nOkarlaM/nOkarulamu	n number bahu parsarg nu  case d
 *nOkarlu/nOkarulu	n number bahu parsarg vu 
 *nOkarlayoVkka/nOkarulayoVkka	n number bahu parsarg yoVkka 
 *nOkarla/nOkarula	n number bahu parsarg obl 

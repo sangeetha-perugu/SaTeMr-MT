@@ -1,18 +1,18 @@
 noun	
 wiragali	
-*wiragali	n number eka parsarg 0 
+*wiragali	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*wiragaligAdu	n number eka parsarg gAdu 
-*wiragaligawweV	n number eka parsarg gawweV 
-*wiragalivAdu	n number eka parsarg vAdu 
-*wiragalAyana	n number eka parsarg Ayana 
-*wiragalivAru	n number eka parsarg vAru 
-*wiragalixi/wiragalxi	n number eka parsarg xi 
-*wiragalivi/wiragaliy	n number eka parsarg vi 
-*wiragaligAru	n number eka parsarg gAru 
+*wiragaligAdu	n number eka parsarg gAdu  case d
+*wiragaligawweV	n number eka parsarg gawweV  case d
+*wiragalivAdu	n number eka parsarg vAdu  case d
+*wiragalAyana	n number eka parsarg Ayana  case d
+*wiragalivAru	n number eka parsarg vAru  case d
+*wiragalixi/wiragalxi	n number eka parsarg xi  case d
+*wiragalivi/wiragaliy	n number eka parsarg vi  case d
+*wiragaligAru	n number eka parsarg gAru  case d
 *wiragalini	n number eka parsarg nu 
-*wiragalivi	n number eka parsarg vu 
+*wiragalivi	n number eka parsarg vu  case d
 *wiragaliyoVkka	n number eka parsarg yoVkka 
 wiragati/*wiragali	n number eka parsarg obl 
 *wiragalini/wiragalni/wiragatini	n number eka parsarg ni 
@@ -94,18 +94,18 @@ wiragalaMte/*wiragalaMteV	n number eka parsarg aMte
 *wiragalilAMti/wiragalilAti	n number eka parsarg lAMti 
 *wiragaligAnI/wiragalikAnI	n number eka parsarg gAni 
 *wiragaligA	n number eka parsarg gA 
-wiragalYlu/*wiragalYlYu   	n number bahu parsarg 0 
-wiragalYlU/wiragalYlalArA/*wiragalYlYalArA	n number bahu parsarg I 
+wiragalYlu/*wiragalYlYu   	n number bahu parsarg 0  case d
+wiragalYlU/wiragalYlalArA/*wiragalYlYalArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*wiragalYlYagAdu/wiragalYlagAdu   	n number bahu parsarg gAdu 
-*wiragalYlYagawweV/wiragalYlagawweV   	n number bahu parsarg gawweV 
-*wiragalYlYavAdu/wiragalYlavAdu/wiragalYlodu   	n number bahu parsarg vAdu 
-*wiragalYlYAyana/wiragalYlAyana	n number bahu parsarg Ayana 
-*wiragalYlYavAru/wiragalYlavAru/wiragalYloru   	n number bahu parsarg vAru 
-*wiragalYlYaxi/wiragalYlaxi  	n number bahu parsarg xi 
-*wiragalYlYavi/wiragalYlavi  	n number bahu parsarg vi 
-*wiragalYlYagAru/wiragalYlagAru   	n number bahu parsarg gAru 
-*wiragalYlYaM/wiragalYlaM/wiragalYlamu    	n number bahu parsarg nu 
+*wiragalYlYagAdu/wiragalYlagAdu   	n number bahu parsarg gAdu  case d
+*wiragalYlYagawweV/wiragalYlagawweV   	n number bahu parsarg gawweV  case d
+*wiragalYlYavAdu/wiragalYlavAdu/wiragalYlodu   	n number bahu parsarg vAdu  case d
+*wiragalYlYAyana/wiragalYlAyana	n number bahu parsarg Ayana  case d
+*wiragalYlYavAru/wiragalYlavAru/wiragalYloru   	n number bahu parsarg vAru  case d
+*wiragalYlYaxi/wiragalYlaxi  	n number bahu parsarg xi  case d
+*wiragalYlYavi/wiragalYlavi  	n number bahu parsarg vi  case d
+*wiragalYlYagAru/wiragalYlagAru   	n number bahu parsarg gAru  case d
+*wiragalYlYaM/wiragalYlaM/wiragalYlamu    	n number bahu parsarg nu  case d
 *wiragalYlYu/wiragalYlu                   	n number bahu parsarg vu 
 *wiragalYlYayoVkka/wiragalYlayoVkka    	n number bahu parsarg yoVkka 
 *wiragalYlYa/wiragalYla       	n number bahu parsarg obl 

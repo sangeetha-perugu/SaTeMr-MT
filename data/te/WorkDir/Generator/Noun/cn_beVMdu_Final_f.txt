@@ -1,18 +1,18 @@
 noun	
 beVMdu	
-*beVMdu	n number eka parsarg 0 
+*beVMdu	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*beVMdugAdu	n number eka parsarg gAdu 
-*beVMdugawweV	n number eka parsarg gawweV 
-*beVMduvAdu	n number eka parsarg vAdu 
-*beVMdAyana	n number eka parsarg Ayana 
-*beVMduvAru	n number eka parsarg vAru 
-*beVMduxi	n number eka parsarg xi 
-*beVMduvi/beVMduy	n number eka parsarg vi 
-*beVMdugAru	n number eka parsarg gAru 
+*beVMdugAdu	n number eka parsarg gAdu  case d
+*beVMdugawweV	n number eka parsarg gawweV  case d
+*beVMduvAdu	n number eka parsarg vAdu  case d
+*beVMdAyana	n number eka parsarg Ayana  case d
+*beVMduvAru	n number eka parsarg vAru  case d
+*beVMduxi	n number eka parsarg xi  case d
+*beVMduvi/beVMduy	n number eka parsarg vi  case d
+*beVMdugAru	n number eka parsarg gAru  case d
 *beVMdunu	n number eka parsarg nu 
-*beVMduvu	n number eka parsarg vu 
+*beVMduvu	n number eka parsarg vu  case d
 *beVMduyoVkka	n number eka parsarg yoVkka 
 *beVMdu	n number eka parsarg obl 
 *beVMduni/beVMdunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ beVMdaMxu/beVMdunaMxu/*beVMduyaMxu	n number eka parsarg aMxu
 *beVMdulAMti/beVMdulAti	n number eka parsarg lAMti 
 *beVMdugAnI/beVMdukAnI	n number eka parsarg gAni 
 *beVMdugA	n number eka parsarg gA 
-*beVMdlu/beVMdulu	n number bahu parsarg 0 
-*beVMdlU/beVMdlulArA/beVMdullArA	n number bahu parsarg I 
+*beVMdlu/beVMdulu	n number bahu parsarg 0  case d
+*beVMdlU/beVMdlulArA/beVMdullArA	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*beVMdlagAdu/beVMdulugAdu	n number bahu parsarg gAdu 
-*beVMdlagawweV/beVMdulugawweV	n number bahu parsarg gawweV 
-*beVMdlavAdu/beVMdlodu	n number bahu parsarg vAdu 
-*beVMdlAyana/beVMdulAyana	n number bahu parsarg Ayana 
-*beVMdlavAru/beVMdloru	n number bahu parsarg vAru 
-*beVMdlaxi/beVMdulxi	n number bahu parsarg xi 
-*beVMdlavi/beVMdlay/beVMdluvi	n number bahu parsarg vi 
-*beVMdlugAru/beVMdulugAru	n number bahu parsarg gAru 
-*beVMdlaM/beVMdlamu	n number bahu parsarg nu 
+*beVMdlagAdu/beVMdulugAdu	n number bahu parsarg gAdu  case d
+*beVMdlagawweV/beVMdulugawweV	n number bahu parsarg gawweV  case d
+*beVMdlavAdu/beVMdlodu	n number bahu parsarg vAdu  case d
+*beVMdlAyana/beVMdulAyana	n number bahu parsarg Ayana  case d
+*beVMdlavAru/beVMdloru	n number bahu parsarg vAru  case d
+*beVMdlaxi/beVMdulxi	n number bahu parsarg xi  case d
+*beVMdlavi/beVMdlay/beVMdluvi	n number bahu parsarg vi  case d
+*beVMdlugAru/beVMdulugAru	n number bahu parsarg gAru  case d
+*beVMdlaM/beVMdlamu	n number bahu parsarg nu  case d
 *beVMdlu/beVMdulu	n number bahu parsarg vu 
 *beVMdlayoVkka	n number bahu parsarg yoVkka 
 *beVMdla	n number bahu parsarg obl 

@@ -1,18 +1,18 @@
 noun	
 cenu	
-*cenu	n number eka parsarg 0 
+*cenu	n number eka parsarg 0  case d
 -	n number eka parsarg I 
 -	n number eka parsarg gA 
-*cenugAdu	n number eka parsarg gAdu 
-*cenugawweV	n number eka parsarg gawweV 
-*cenuvAdu/cenodu	n number eka parsarg vAdu 
-*cenAyana	n number eka parsarg Ayana 
-*cenuvAru/cenoru	n number eka parsarg vAru 
-cenixi/*cenuxi	n number eka parsarg xi 
-cenivi/*cenuvi/ceniy	n number eka parsarg vi 
-*cenugAru	n number eka parsarg gAru 
+*cenugAdu	n number eka parsarg gAdu  case d
+*cenugawweV	n number eka parsarg gawweV  case d
+*cenuvAdu/cenodu	n number eka parsarg vAdu  case d
+*cenAyana	n number eka parsarg Ayana  case d
+*cenuvAru/cenoru	n number eka parsarg vAru  case d
+cenixi/*cenuxi	n number eka parsarg xi  case d
+cenivi/*cenuvi/ceniy	n number eka parsarg vi  case d
+*cenugAru	n number eka parsarg gAru  case d
 *cenuni	n number eka parsarg nu 
-*cenuvu	n number eka parsarg vu 
+*cenuvu	n number eka parsarg vu  case d
 *cenuyoVkka/ceniyoVkka	n number eka parsarg yoVkka 
 *cenu/ceni	n number eka parsarg obl 
 cenini/*cenunu	n number eka parsarg ni 
@@ -94,18 +94,18 @@ cenipAti/*cenupAti	n number eka parsarg pAti
 *cenulAMti/cenulAti	n number eka parsarg lAMti 
 *cenugAnI/cenukAnI	n number eka parsarg gAni 
 *cenugA	n number eka parsarg gA 
-*celu/cenlu	n number bahu parsarg 0 
-*celU/celalArA/cenlArA/cenlU	n number bahu parsarg I 
+*celu/cenlu	n number bahu parsarg 0  case d
+*celU/celalArA/cenlArA/cenlU	n number bahu parsarg I  case d
 -	n number bahu parsarg gA 
-*celugAdu/cenlagAdu	n number bahu parsarg gAdu 
-*celugawweV/cenlagawweV	n number bahu parsarg gawweV 
-*celavAdu/cenlodu	n number bahu parsarg vAdu 
-*celAyana/cenlAyana	n number bahu parsarg Ayana 
-*celavAru/cenloru	n number bahu parsarg vAru 
-*celaxi/cenlaxi	n number bahu parsarg xi 
-*celavi/celayyi/celay	n number bahu parsarg vi 
-*celugAru/cenlugAru	n number bahu parsarg gAru 
-celamu/*celaM/cenulamu/cenulaM/cenlaM	n number bahu parsarg nu 
+*celugAdu/cenlagAdu	n number bahu parsarg gAdu  case d
+*celugawweV/cenlagawweV	n number bahu parsarg gawweV  case d
+*celavAdu/cenlodu	n number bahu parsarg vAdu  case d
+*celAyana/cenlAyana	n number bahu parsarg Ayana  case d
+*celavAru/cenloru	n number bahu parsarg vAru  case d
+*celaxi/cenlaxi	n number bahu parsarg xi  case d
+*celavi/celayyi/celay	n number bahu parsarg vi  case d
+*celugAru/cenlugAru	n number bahu parsarg gAru  case d
+celamu/*celaM/cenulamu/cenulaM/cenlaM	n number bahu parsarg nu  case d
 *celu/cenlu	n number bahu parsarg vu 
 *celayoVkka	n number bahu parsarg yoVkka 
 *cela	n number bahu parsarg obl 
