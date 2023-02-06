@@ -1,0 +1,2503 @@
+<?xml version="1.0"?><dictionary><alphabet>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</alphabet><sdefs><sdef n="root:eVn[i]m[i]xi" c="eVn[i]m[i]xi"/>
+<sdef n="lcat:noun" c="noun" />
+<sdef n="gen:any" c="any"/>
+<sdef n="per:any" c="any"/>
+<sdef n="case:o" c="o"/>
+<sdef n="case:d" c="d"/>
+<sdef n="cm:0" c="0"/>
+<sdef n="cm:obl" c="obl"/>
+<sdef n="cm:0" c="0" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:0" c="0"/>
+<sdef n="cm:gAdu" c="gAdu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:gAdu" c="gAdu"/>
+<sdef n="cm:gawweV" c="gawweV" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:gawweV" c="gawweV"/>
+<sdef n="cm:vAdu" c="vAdu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vAdu" c="vAdu"/>
+<sdef n="cm:Ayana" c="Ayana" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:Ayana" c="Ayana"/>
+<sdef n="cm:vAru" c="vAru" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vAru" c="vAru"/>
+<sdef n="cm:xi" c="xi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xi" c="xi"/>
+<sdef n="cm:vi" c="vi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vi" c="vi"/>
+<sdef n="cm:vi" c="vi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vi" c="vi"/>
+<sdef n="cm:gAru" c="gAru" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:gAru" c="gAru"/>
+<sdef n="cm:nu" c="nu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:nu" c="nu"/>
+<sdef n="cm:vu" c="vu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vu" c="vu"/>
+<sdef n="cm:yoVkka" c="yoVkka" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:yoVkka" c="yoVkka"/>
+<sdef n="cm:obl" c="obl" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:obl" c="obl"/>
+<sdef n="cm:ni" c="ni" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:ni" c="ni"/>
+<sdef n="cm:ni" c="ni" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:ni" c="ni"/>
+<sdef n="cm:ki" c="ki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:ki" c="ki"/>
+<sdef n="cm:ki" c="ki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:ki" c="ki"/>
+<sdef n="cm:wo" c="wo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wo" c="wo"/>
+<sdef n="cm:wo" c="wo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wo" c="wo"/>
+<sdef n="cm:wo" c="wo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wo" c="wo"/>
+<sdef n="cm:lo" c="lo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lo" c="lo"/>
+<sdef n="cm:lo" c="lo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lo" c="lo"/>
+<sdef n="cm:lo" c="lo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lo" c="lo"/>
+<sdef n="cm:loni" c="loni" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:loni" c="loni"/>
+<sdef n="cm:loni" c="loni" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:loni" c="loni"/>
+<sdef n="cm:loni" c="loni" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:loni" c="loni"/>
+<sdef n="cm:mIxa" c="mIxa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:mIxa" c="mIxa"/>
+<sdef n="cm:na" c="na" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:na" c="na"/>
+<sdef n="cm:niMci" c="niMci" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:niMci" c="niMci"/>
+<sdef n="cm:niMci" c="niMci" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:niMci" c="niMci"/>
+<sdef n="cm:niMci" c="niMci" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:niMci" c="niMci"/>
+<sdef n="cm:xvArA" c="xvArA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xvArA" c="xvArA"/>
+<sdef n="cm:xvArA" c="xvArA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xvArA" c="xvArA"/>
+<sdef n="cm:valana" c="valana" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:valana" c="valana"/>
+<sdef n="cm:valana" c="valana" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:valana" c="valana"/>
+<sdef n="cm:batti" c="batti" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:batti" c="batti"/>
+<sdef n="cm:ce" c="ce" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:ce" c="ce"/>
+<sdef n="cm:ce" c="ce" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:ce" c="ce"/>
+<sdef n="cm:wopAtu" c="wopAtu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wopAtu" c="wopAtu"/>
+<sdef n="cm:wopAtu" c="wopAtu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wopAtu" c="wopAtu"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:kosaM" c="kosaM" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kosaM" c="kosaM"/>
+<sdef n="cm:kosaM" c="kosaM" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kosaM" c="kosaM"/>
+<sdef n="cm:kosaM" c="kosaM" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kosaM" c="kosaM"/>
+<sdef n="cm:koVraku" c="koVraku" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:koVraku" c="koVraku"/>
+<sdef n="cm:koVraku" c="koVraku" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:koVraku" c="koVraku"/>
+<sdef n="cm:lonuMdi" c="lonuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lonuMdi" c="lonuMdi"/>
+<sdef n="cm:lonuMdi" c="lonuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lonuMdi" c="lonuMdi"/>
+<sdef n="cm:lonuMdi" c="lonuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lonuMdi" c="lonuMdi"/>
+<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
+<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
+<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
+<sdef n="cm:xAkA" c="xAkA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xAkA" c="xAkA"/>
+<sdef n="cm:xAkA" c="xAkA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xAkA" c="xAkA"/>
+<sdef n="cm:varaku" c="varaku" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:varaku" c="varaku"/>
+<sdef n="cm:mIxaki" c="mIxaki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:mIxaki" c="mIxaki"/>
+<sdef n="cm:mIxaki" c="mIxaki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:mIxaki" c="mIxaki"/>
+<sdef n="cm:mIxaki" c="mIxaki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:mIxaki" c="mIxaki"/>
+<sdef n="cm:xaggara" c="xaggara" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xaggara" c="xaggara"/>
+<sdef n="cm:xaggara" c="xaggara" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xaggara" c="xaggara"/>
+<sdef n="cm:vaxxa" c="vaxxa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vaxxa" c="vaxxa"/>
+<sdef n="cm:vaxxa" c="vaxxa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vaxxa" c="vaxxa"/>
+<sdef n="cm:kAda" c="kAda" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kAda" c="kAda"/>
+<sdef n="cm:keVxurugA" c="keVxurugA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:keVxurugA" c="keVxurugA"/>
+<sdef n="cm:keVxurugA" c="keVxurugA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:keVxurugA" c="keVxurugA"/>
+<sdef n="cm:muMxu" c="muMxu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:muMxu" c="muMxu"/>
+<sdef n="cm:guriMci" c="guriMci" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:guriMci" c="guriMci"/>
+<sdef n="cm:guriMci" c="guriMci" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:guriMci" c="guriMci"/>
+<sdef n="cm:guriMci" c="guriMci" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:guriMci" c="guriMci"/>
+<sdef n="cm:pE" c="pE" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pE" c="pE"/>
+<sdef n="cm:pE" c="pE" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pE" c="pE"/>
+<sdef n="cm:pE" c="pE" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pE" c="pE"/>
+<sdef n="cm:pEki" c="pEki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pEki" c="pEki"/>
+<sdef n="cm:guMdA" c="guMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:guMdA" c="guMdA"/>
+<sdef n="cm:lA" c="lA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lA" c="lA"/>
+<sdef n="cm:lA" c="lA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lA" c="lA"/>
+<sdef n="cm:lA" c="lA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lA" c="lA"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:kimalle" c="kimalle" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kimalle" c="kimalle"/>
+<sdef n="cm:kimalle" c="kimalle" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kimalle" c="kimalle"/>
+<sdef n="cm:kUdA" c="kUdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kUdA" c="kUdA"/>
+<sdef n="cm:kUdA" c="kUdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kUdA" c="kUdA"/>
+<sdef n="cm:kUdA" c="kUdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kUdA" c="kUdA"/>
+<sdef n="cm:kUdA" c="kUdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kUdA" c="kUdA"/>
+<sdef n="cm:kUdA" c="kUdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kUdA" c="kUdA"/>
+<sdef n="cm:kUdA" c="kUdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kUdA" c="kUdA"/>
+<sdef n="cm:xqRtilo" c="xqRtilo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xqRtilo" c="xqRtilo"/>
+<sdef n="cm:xqRtilo" c="xqRtilo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xqRtilo" c="xqRtilo"/>
+<sdef n="cm:lekuMdA" c="lekuMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lekuMdA" c="lekuMdA"/>
+<sdef n="cm:lekuMdA" c="lekuMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lekuMdA" c="lekuMdA"/>
+<sdef n="cm:lekuMdA" c="lekuMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lekuMdA" c="lekuMdA"/>
+<sdef n="cm:lekuMdA" c="lekuMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lekuMdA" c="lekuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:moVxalukoVni" c="moVxalukoVni" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:moVxalukoVni" c="moVxalukoVni"/>
+<sdef n="cm:moVxalukoVni" c="moVxalukoVni" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:moVxalukoVni" c="moVxalukoVni"/>
+<sdef n="cm:moVxalukoVni" c="moVxalukoVni" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:moVxalukoVni" c="moVxalukoVni"/>
+<sdef n="cm:vEpu" c="vEpu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vEpu" c="vEpu"/>
+<sdef n="cm:vEpu" c="vEpu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vEpu" c="vEpu"/>
+<sdef n="cm:vEpu" c="vEpu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vEpu" c="vEpu"/>
+<sdef n="cm:pakka" c="pakka" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakka" c="pakka"/>
+<sdef n="cm:pakka" c="pakka" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakka" c="pakka"/>
+<sdef n="cm:pakka" c="pakka" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakka" c="pakka"/>
+<sdef n="cm:pakka" c="pakka" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakka" c="pakka"/>
+<sdef n="cm:pakka" c="pakka" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakka" c="pakka"/>
+<sdef n="cm:pakkalo" c="pakkalo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakkalo" c="pakkalo"/>
+<sdef n="cm:pakkalo" c="pakkalo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakkalo" c="pakkalo"/>
+<sdef n="cm:pakkalo" c="pakkalo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakkalo" c="pakkalo"/>
+<sdef n="cm:pakkalo" c="pakkalo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakkalo" c="pakkalo"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:kiMxa" c="kiMxa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kiMxa" c="kiMxa"/>
+<sdef n="cm:kiMxa" c="kiMxa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kiMxa" c="kiMxa"/>
+<sdef n="cm:kiMxa" c="kiMxa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kiMxa" c="kiMxa"/>
+<sdef n="cm:kiMxa" c="kiMxa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kiMxa" c="kiMxa"/>
+<sdef n="cm:aduguna" c="aduguna" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:aduguna" c="aduguna"/>
+<sdef n="cm:aduguna" c="aduguna" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:aduguna" c="aduguna"/>
+<sdef n="cm:kalla" c="kalla" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kalla" c="kalla"/>
+<sdef n="cm:kalla" c="kalla" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kalla" c="kalla"/>
+<sdef n="cm:veVnuka" c="veVnuka" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnuka" c="veVnuka"/>
+<sdef n="cm:veVnuka" c="veVnuka" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnuka" c="veVnuka"/>
+<sdef n="cm:veVnuka" c="veVnuka" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnuka" c="veVnuka"/>
+<sdef n="cm:veVnuka" c="veVnuka" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnuka" c="veVnuka"/>
+<sdef n="cm:waravAwa" c="waravAwa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:waravAwa" c="waravAwa"/>
+<sdef n="cm:waravAwa" c="waravAwa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:waravAwa" c="waravAwa"/>
+<sdef n="cm:waravAwa" c="waravAwa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:waravAwa" c="waravAwa"/>
+<sdef n="cm:waravAwa" c="waravAwa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:waravAwa" c="waravAwa"/>
+<sdef n="cm:waravAwa" c="waravAwa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:waravAwa" c="waravAwa"/>
+<sdef n="cm:waravAwa" c="waravAwa" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:waravAwa" c="waravAwa"/>
+<sdef n="cm:eVxuruguMdA" c="eVxuruguMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:eVxuruguMdA" c="eVxuruguMdA"/>
+<sdef n="cm:eVxuruguMdA" c="eVxuruguMdA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:eVxuruguMdA" c="eVxuruguMdA"/>
+<sdef n="cm:maXya" c="maXya" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:maXya" c="maXya"/>
+<sdef n="cm:maXya" c="maXya" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:maXya" c="maXya"/>
+<sdef n="cm:maXya" c="maXya" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:maXya" c="maXya"/>
+<sdef n="cm:naduma" c="naduma" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:naduma" c="naduma"/>
+<sdef n="cm:naduma" c="naduma" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:naduma" c="naduma"/>
+<sdef n="cm:baxulugA" c="baxulugA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:baxulugA" c="baxulugA"/>
+<sdef n="cm:baxulugA" c="baxulugA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:baxulugA" c="baxulugA"/>
+<sdef n="cm:baxulugA" c="baxulugA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:baxulugA" c="baxulugA"/>
+<sdef n="cm:baxulugA" c="baxulugA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:baxulugA" c="baxulugA"/>
+<sdef n="cm:cotlo" c="cotlo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:cotlo" c="cotlo"/>
+<sdef n="cm:cotlo" c="cotlo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:cotlo" c="cotlo"/>
+<sdef n="cm:cotlo" c="cotlo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:cotlo" c="cotlo"/>
+<sdef n="cm:cotlo" c="cotlo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:cotlo" c="cotlo"/>
+<sdef n="cm:sWAnaMlo" c="sWAnaMlo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:sWAnaMlo" c="sWAnaMlo"/>
+<sdef n="cm:sWAnaMlo" c="sWAnaMlo" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:sWAnaMlo" c="sWAnaMlo"/>
+<sdef n="cm:nerugA" c="nerugA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:nerugA" c="nerugA"/>
+<sdef n="cm:nerugA" c="nerugA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:nerugA" c="nerugA"/>
+<sdef n="cm:nerugA" c="nerugA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:nerugA" c="nerugA"/>
+<sdef n="cm:prakAraM" c="prakAraM" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:prakAraM" c="prakAraM"/>
+<sdef n="cm:prakAraM" c="prakAraM" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:prakAraM" c="prakAraM"/>
+<sdef n="cm:xaggaranuMdi" c="xaggaranuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xaggaranuMdi" c="xaggaranuMdi"/>
+<sdef n="cm:xaggaranuMdi" c="xaggaranuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xaggaranuMdi" c="xaggaranuMdi"/>
+<sdef n="cm:xaggaranuMdi" c="xaggaranuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xaggaranuMdi" c="xaggaranuMdi"/>
+<sdef n="cm:xaggaranuMdi" c="xaggaranuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:xaggaranuMdi" c="xaggaranuMdi"/>
+<sdef n="cm:vaxxanuMdi" c="vaxxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vaxxanuMdi" c="vaxxanuMdi"/>
+<sdef n="cm:vaxxanuMdi" c="vaxxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vaxxanuMdi" c="vaxxanuMdi"/>
+<sdef n="cm:vaxxanuMdi" c="vaxxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:vaxxanuMdi" c="vaxxanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:lopalanuMdi" c="lopalanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lopalanuMdi" c="lopalanuMdi"/>
+<sdef n="cm:lopalanuMdi" c="lopalanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lopalanuMdi" c="lopalanuMdi"/>
+<sdef n="cm:lopalanuMdi" c="lopalanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lopalanuMdi" c="lopalanuMdi"/>
+<sdef n="cm:bEtanuMdi" c="bEtanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:bEtanuMdi" c="bEtanuMdi"/>
+<sdef n="cm:bEtanuMdi" c="bEtanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:bEtanuMdi" c="bEtanuMdi"/>
+<sdef n="cm:bEtanuMdi" c="bEtanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:bEtanuMdi" c="bEtanuMdi"/>
+<sdef n="cm:pEnuMdi" c="pEnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pEnuMdi" c="pEnuMdi"/>
+<sdef n="cm:pEnuMdi" c="pEnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pEnuMdi" c="pEnuMdi"/>
+<sdef n="cm:pEnuMdi" c="pEnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pEnuMdi" c="pEnuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:adugunuMdi" c="adugunuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:adugunuMdi" c="adugunuMdi"/>
+<sdef n="cm:adugunuMdi" c="adugunuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:adugunuMdi" c="adugunuMdi"/>
+<sdef n="cm:adugunuMdi" c="adugunuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:adugunuMdi" c="adugunuMdi"/>
+<sdef n="cm:adugunuMdi" c="adugunuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:adugunuMdi" c="adugunuMdi"/>
+<sdef n="cm:adugunuMdi" c="adugunuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:adugunuMdi" c="adugunuMdi"/>
+<sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
+<sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
+<sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:nadumanuMdi" c="nadumanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:nadumanuMdi" c="nadumanuMdi"/>
+<sdef n="cm:nadumanuMdi" c="nadumanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:nadumanuMdi" c="nadumanuMdi"/>
+<sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
+<sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
+<sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
+<sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
+<sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
+<sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
+<sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
+<sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:aMxu" c="aMxu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:aMxu" c="aMxu"/>
+<sdef n="cm:aMxu" c="aMxu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:aMxu" c="aMxu"/>
+<sdef n="cm:aMxu" c="aMxu" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:aMxu" c="aMxu"/>
+<sdef n="cm:aMte" c="aMte" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:aMte" c="aMte"/>
+<sdef n="cm:aMte" c="aMte" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:aMte" c="aMte"/>
+<sdef n="cm:aMte" c="aMte" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:aMte" c="aMte"/>
+<sdef n="cm:aMte" c="aMte" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:aMte" c="aMte"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:Ena" c="Ena" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:Ena" c="Ena"/>
+<sdef n="cm:pAti" c="pAti" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:pAti" c="pAti"/>
+<sdef n="cm:lAMti" c="lAMti" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lAMti" c="lAMti"/>
+<sdef n="cm:lAMti" c="lAMti" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:lAMti" c="lAMti"/>
+<sdef n="cm:gAni" c="gAni" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:gAni" c="gAni"/>
+<sdef n="cm:gAni" c="gAni" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:gAni" c="gAni"/>
+<sdef n="cm:gA" c="gA" />
+<sdef n="num:sg" c="sg" />
+<sdef n="suffix:gA" c="gA"/>
+<sdef n="cm:0" c="0" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:0" c="0"/>
+<sdef n="cm:0" c="0" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:0" c="0"/>
+<sdef n="cm:I" c="I" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:I" c="I"/>
+<sdef n="cm:I" c="I" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:I" c="I"/>
+<sdef n="cm:I" c="I" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:I" c="I"/>
+<sdef n="cm:I" c="I" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:I" c="I"/>
+<sdef n="cm:gAdu" c="gAdu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gAdu" c="gAdu"/>
+<sdef n="cm:gAdu" c="gAdu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gAdu" c="gAdu"/>
+<sdef n="cm:gawweV" c="gawweV" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gawweV" c="gawweV"/>
+<sdef n="cm:gawweV" c="gawweV" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gawweV" c="gawweV"/>
+<sdef n="cm:vAdu" c="vAdu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vAdu" c="vAdu"/>
+<sdef n="cm:vAdu" c="vAdu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vAdu" c="vAdu"/>
+<sdef n="cm:Ayana" c="Ayana" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:Ayana" c="Ayana"/>
+<sdef n="cm:Ayana" c="Ayana" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:Ayana" c="Ayana"/>
+<sdef n="cm:vAru" c="vAru" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vAru" c="vAru"/>
+<sdef n="cm:vAru" c="vAru" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vAru" c="vAru"/>
+<sdef n="cm:xi" c="xi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xi" c="xi"/>
+<sdef n="cm:xi" c="xi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xi" c="xi"/>
+<sdef n="cm:xi" c="xi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xi" c="xi"/>
+<sdef n="cm:xi" c="xi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xi" c="xi"/>
+<sdef n="cm:vi" c="vi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vi" c="vi"/>
+<sdef n="cm:vi" c="vi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vi" c="vi"/>
+<sdef n="cm:vi" c="vi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vi" c="vi"/>
+<sdef n="cm:gAru" c="gAru" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gAru" c="gAru"/>
+<sdef n="cm:gAru" c="gAru" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gAru" c="gAru"/>
+<sdef n="cm:nu" c="nu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nu" c="nu"/>
+<sdef n="cm:nu" c="nu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nu" c="nu"/>
+<sdef n="cm:nu" c="nu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nu" c="nu"/>
+<sdef n="cm:nu" c="nu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nu" c="nu"/>
+<sdef n="cm:vu" c="vu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vu" c="vu"/>
+<sdef n="cm:vu" c="vu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vu" c="vu"/>
+<sdef n="cm:yoVkka" c="yoVkka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:yoVkka" c="yoVkka"/>
+<sdef n="cm:yoVkka" c="yoVkka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:yoVkka" c="yoVkka"/>
+<sdef n="cm:obl" c="obl" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:obl" c="obl"/>
+<sdef n="cm:obl" c="obl" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:obl" c="obl"/>
+<sdef n="cm:ni" c="ni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ni" c="ni"/>
+<sdef n="cm:ni" c="ni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ni" c="ni"/>
+<sdef n="cm:ni" c="ni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ni" c="ni"/>
+<sdef n="cm:ni" c="ni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ni" c="ni"/>
+<sdef n="cm:ki" c="ki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ki" c="ki"/>
+<sdef n="cm:ki" c="ki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ki" c="ki"/>
+<sdef n="cm:ki" c="ki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ki" c="ki"/>
+<sdef n="cm:ki" c="ki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ki" c="ki"/>
+<sdef n="cm:wo" c="wo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wo" c="wo"/>
+<sdef n="cm:wo" c="wo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wo" c="wo"/>
+<sdef n="cm:wo" c="wo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wo" c="wo"/>
+<sdef n="cm:wo" c="wo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wo" c="wo"/>
+<sdef n="cm:wo" c="wo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wo" c="wo"/>
+<sdef n="cm:wo" c="wo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wo" c="wo"/>
+<sdef n="cm:lo" c="lo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lo" c="lo"/>
+<sdef n="cm:lo" c="lo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lo" c="lo"/>
+<sdef n="cm:lo" c="lo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lo" c="lo"/>
+<sdef n="cm:lo" c="lo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lo" c="lo"/>
+<sdef n="cm:lo" c="lo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lo" c="lo"/>
+<sdef n="cm:loni" c="loni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:loni" c="loni"/>
+<sdef n="cm:loni" c="loni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:loni" c="loni"/>
+<sdef n="cm:loni" c="loni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:loni" c="loni"/>
+<sdef n="cm:loni" c="loni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:loni" c="loni"/>
+<sdef n="cm:mIxa" c="mIxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxa" c="mIxa"/>
+<sdef n="cm:mIxa" c="mIxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxa" c="mIxa"/>
+<sdef n="cm:mIxa" c="mIxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxa" c="mIxa"/>
+<sdef n="cm:mIxa" c="mIxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxa" c="mIxa"/>
+<sdef n="cm:na" c="na" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:na" c="na"/>
+<sdef n="cm:na" c="na" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:na" c="na"/>
+<sdef n="cm:na" c="na" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:na" c="na"/>
+<sdef n="cm:na" c="na" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:na" c="na"/>
+<sdef n="cm:niMci" c="niMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:niMci" c="niMci"/>
+<sdef n="cm:niMci" c="niMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:niMci" c="niMci"/>
+<sdef n="cm:niMci" c="niMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:niMci" c="niMci"/>
+<sdef n="cm:niMci" c="niMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:niMci" c="niMci"/>
+<sdef n="cm:niMci" c="niMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:niMci" c="niMci"/>
+<sdef n="cm:niMci" c="niMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:niMci" c="niMci"/>
+<sdef n="cm:xvArA" c="xvArA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xvArA" c="xvArA"/>
+<sdef n="cm:xvArA" c="xvArA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xvArA" c="xvArA"/>
+<sdef n="cm:xvArA" c="xvArA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xvArA" c="xvArA"/>
+<sdef n="cm:xvArA" c="xvArA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xvArA" c="xvArA"/>
+<sdef n="cm:valana" c="valana" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:valana" c="valana"/>
+<sdef n="cm:valana" c="valana" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:valana" c="valana"/>
+<sdef n="cm:valana" c="valana" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:valana" c="valana"/>
+<sdef n="cm:batti" c="batti" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:batti" c="batti"/>
+<sdef n="cm:ce" c="ce" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ce" c="ce"/>
+<sdef n="cm:ce" c="ce" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ce" c="ce"/>
+<sdef n="cm:ce" c="ce" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ce" c="ce"/>
+<sdef n="cm:ce" c="ce" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:ce" c="ce"/>
+<sdef n="cm:wopAtu" c="wopAtu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wopAtu" c="wopAtu"/>
+<sdef n="cm:wopAtu" c="wopAtu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wopAtu" c="wopAtu"/>
+<sdef n="cm:wopAtu" c="wopAtu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wopAtu" c="wopAtu"/>
+<sdef n="cm:wopAtu" c="wopAtu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wopAtu" c="wopAtu"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:wokUdi" c="wokUdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:wokUdi" c="wokUdi"/>
+<sdef n="cm:kosaM" c="kosaM" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kosaM" c="kosaM"/>
+<sdef n="cm:kosaM" c="kosaM" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kosaM" c="kosaM"/>
+<sdef n="cm:kosaM" c="kosaM" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kosaM" c="kosaM"/>
+<sdef n="cm:kosaM" c="kosaM" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kosaM" c="kosaM"/>
+<sdef n="cm:kosaM" c="kosaM" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kosaM" c="kosaM"/>
+<sdef n="cm:koVraku" c="koVraku" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:koVraku" c="koVraku"/>
+<sdef n="cm:koVraku" c="koVraku" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:koVraku" c="koVraku"/>
+<sdef n="cm:lonuMdi" c="lonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lonuMdi" c="lonuMdi"/>
+<sdef n="cm:lonuMdi" c="lonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lonuMdi" c="lonuMdi"/>
+<sdef n="cm:lonuMdi" c="lonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lonuMdi" c="lonuMdi"/>
+<sdef n="cm:lonuMdi" c="lonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lonuMdi" c="lonuMdi"/>
+<sdef n="cm:lonuMdi" c="lonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lonuMdi" c="lonuMdi"/>
+<sdef n="cm:lonuMdi" c="lonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lonuMdi" c="lonuMdi"/>
+<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
+<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
+<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
+<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
+<sdef n="cm:xAkA" c="xAkA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xAkA" c="xAkA"/>
+<sdef n="cm:xAkA" c="xAkA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xAkA" c="xAkA"/>
+<sdef n="cm:xAkA" c="xAkA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xAkA" c="xAkA"/>
+<sdef n="cm:xAkA" c="xAkA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xAkA" c="xAkA"/>
+<sdef n="cm:varaku" c="varaku" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:varaku" c="varaku"/>
+<sdef n="cm:varaku" c="varaku" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:varaku" c="varaku"/>
+<sdef n="cm:mIxaki" c="mIxaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxaki" c="mIxaki"/>
+<sdef n="cm:mIxaki" c="mIxaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxaki" c="mIxaki"/>
+<sdef n="cm:mIxaki" c="mIxaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxaki" c="mIxaki"/>
+<sdef n="cm:mIxaki" c="mIxaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxaki" c="mIxaki"/>
+<sdef n="cm:mIxaki" c="mIxaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:mIxaki" c="mIxaki"/>
+<sdef n="cm:xaggara" c="xaggara" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xaggara" c="xaggara"/>
+<sdef n="cm:xaggara" c="xaggara" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xaggara" c="xaggara"/>
+<sdef n="cm:xaggara" c="xaggara" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xaggara" c="xaggara"/>
+<sdef n="cm:vaxxa" c="vaxxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vaxxa" c="vaxxa"/>
+<sdef n="cm:vaxxa" c="vaxxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vaxxa" c="vaxxa"/>
+<sdef n="cm:vaxxa" c="vaxxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vaxxa" c="vaxxa"/>
+<sdef n="cm:kAda" c="kAda" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kAda" c="kAda"/>
+<sdef n="cm:kAda" c="kAda" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kAda" c="kAda"/>
+<sdef n="cm:keVxurugA" c="keVxurugA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:keVxurugA" c="keVxurugA"/>
+<sdef n="cm:keVxurugA" c="keVxurugA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:keVxurugA" c="keVxurugA"/>
+<sdef n="cm:muMxu" c="muMxu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:muMxu" c="muMxu"/>
+<sdef n="cm:muMxu" c="muMxu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:muMxu" c="muMxu"/>
+<sdef n="cm:guriMci" c="guriMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:guriMci" c="guriMci"/>
+<sdef n="cm:guriMci" c="guriMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:guriMci" c="guriMci"/>
+<sdef n="cm:guriMci" c="guriMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:guriMci" c="guriMci"/>
+<sdef n="cm:guriMci" c="guriMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:guriMci" c="guriMci"/>
+<sdef n="cm:guriMci" c="guriMci" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:guriMci" c="guriMci"/>
+<sdef n="cm:pE" c="pE" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pE" c="pE"/>
+<sdef n="cm:pE" c="pE" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pE" c="pE"/>
+<sdef n="cm:pE" c="pE" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pE" c="pE"/>
+<sdef n="cm:pEki" c="pEki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pEki" c="pEki"/>
+<sdef n="cm:pEki" c="pEki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pEki" c="pEki"/>
+<sdef n="cm:guMdA" c="guMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:guMdA" c="guMdA"/>
+<sdef n="cm:guMdA" c="guMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:guMdA" c="guMdA"/>
+<sdef n="cm:lA" c="lA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lA" c="lA"/>
+<sdef n="cm:lA" c="lA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lA" c="lA"/>
+<sdef n="cm:lA" c="lA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lA" c="lA"/>
+<sdef n="cm:lA" c="lA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lA" c="lA"/>
+<sdef n="cm:lA" c="lA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lA" c="lA"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:vale" c="vale" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vale" c="vale"/>
+<sdef n="cm:kimalle" c="kimalle" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kimalle" c="kimalle"/>
+<sdef n="cm:kimalle" c="kimalle" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kimalle" c="kimalle"/>
+<sdef n="cm:kimalle" c="kimalle" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kimalle" c="kimalle"/>
+<sdef n="cm:kimalle" c="kimalle" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kimalle" c="kimalle"/>
+<sdef n="cm:kUdA" c="kUdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kUdA" c="kUdA"/>
+<sdef n="cm:kUdA" c="kUdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kUdA" c="kUdA"/>
+<sdef n="cm:kUdA" c="kUdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kUdA" c="kUdA"/>
+<sdef n="cm:kUdA" c="kUdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kUdA" c="kUdA"/>
+<sdef n="cm:xqRtilo" c="xqRtilo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xqRtilo" c="xqRtilo"/>
+<sdef n="cm:xqRtilo" c="xqRtilo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xqRtilo" c="xqRtilo"/>
+<sdef n="cm:xqRtilo" c="xqRtilo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xqRtilo" c="xqRtilo"/>
+<sdef n="cm:lekuMdA" c="lekuMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lekuMdA" c="lekuMdA"/>
+<sdef n="cm:lekuMdA" c="lekuMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lekuMdA" c="lekuMdA"/>
+<sdef n="cm:lekuMdA" c="lekuMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lekuMdA" c="lekuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:kAkuMdA" c="kAkuMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
+<sdef n="cm:moVxalukoVni" c="moVxalukoVni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:moVxalukoVni" c="moVxalukoVni"/>
+<sdef n="cm:moVxalukoVni" c="moVxalukoVni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:moVxalukoVni" c="moVxalukoVni"/>
+<sdef n="cm:moVxalukoVni" c="moVxalukoVni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:moVxalukoVni" c="moVxalukoVni"/>
+<sdef n="cm:vEpu" c="vEpu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vEpu" c="vEpu"/>
+<sdef n="cm:vEpu" c="vEpu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vEpu" c="vEpu"/>
+<sdef n="cm:vEpu" c="vEpu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vEpu" c="vEpu"/>
+<sdef n="cm:vEpu" c="vEpu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vEpu" c="vEpu"/>
+<sdef n="cm:vEpu" c="vEpu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vEpu" c="vEpu"/>
+<sdef n="cm:pakka" c="pakka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakka" c="pakka"/>
+<sdef n="cm:pakka" c="pakka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakka" c="pakka"/>
+<sdef n="cm:pakka" c="pakka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakka" c="pakka"/>
+<sdef n="cm:pakka" c="pakka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakka" c="pakka"/>
+<sdef n="cm:pakkalo" c="pakkalo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakkalo" c="pakkalo"/>
+<sdef n="cm:pakkalo" c="pakkalo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakkalo" c="pakkalo"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:kiMxa" c="kiMxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kiMxa" c="kiMxa"/>
+<sdef n="cm:kiMxa" c="kiMxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kiMxa" c="kiMxa"/>
+<sdef n="cm:kiMxa" c="kiMxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kiMxa" c="kiMxa"/>
+<sdef n="cm:kiMxa" c="kiMxa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kiMxa" c="kiMxa"/>
+<sdef n="cm:aduguna" c="aduguna" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:aduguna" c="aduguna"/>
+<sdef n="cm:aduguna" c="aduguna" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:aduguna" c="aduguna"/>
+<sdef n="cm:kalla" c="kalla" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kalla" c="kalla"/>
+<sdef n="cm:kalla" c="kalla" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kalla" c="kalla"/>
+<sdef n="cm:veVnuka" c="veVnuka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnuka" c="veVnuka"/>
+<sdef n="cm:veVnuka" c="veVnuka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnuka" c="veVnuka"/>
+<sdef n="cm:veVnuka" c="veVnuka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnuka" c="veVnuka"/>
+<sdef n="cm:veVnuka" c="veVnuka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnuka" c="veVnuka"/>
+<sdef n="cm:veVnuka" c="veVnuka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnuka" c="veVnuka"/>
+<sdef n="cm:veVnuka" c="veVnuka" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnuka" c="veVnuka"/>
+<sdef n="cm:waravAwa" c="waravAwa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:waravAwa" c="waravAwa"/>
+<sdef n="cm:waravAwa" c="waravAwa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:waravAwa" c="waravAwa"/>
+<sdef n="cm:waravAwa" c="waravAwa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:waravAwa" c="waravAwa"/>
+<sdef n="cm:waravAwa" c="waravAwa" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:waravAwa" c="waravAwa"/>
+<sdef n="cm:eVxuruguMdA" c="eVxuruguMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:eVxuruguMdA" c="eVxuruguMdA"/>
+<sdef n="cm:eVxuruguMdA" c="eVxuruguMdA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:eVxuruguMdA" c="eVxuruguMdA"/>
+<sdef n="cm:maXya" c="maXya" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXya" c="maXya"/>
+<sdef n="cm:maXya" c="maXya" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXya" c="maXya"/>
+<sdef n="cm:maXya" c="maXya" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXya" c="maXya"/>
+<sdef n="cm:maXya" c="maXya" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXya" c="maXya"/>
+<sdef n="cm:naduma" c="naduma" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:naduma" c="naduma"/>
+<sdef n="cm:naduma" c="naduma" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:naduma" c="naduma"/>
+<sdef n="cm:baxulugA" c="baxulugA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:baxulugA" c="baxulugA"/>
+<sdef n="cm:baxulugA" c="baxulugA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:baxulugA" c="baxulugA"/>
+<sdef n="cm:baxulugA" c="baxulugA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:baxulugA" c="baxulugA"/>
+<sdef n="cm:baxulugA" c="baxulugA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:baxulugA" c="baxulugA"/>
+<sdef n="cm:cotlo" c="cotlo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:cotlo" c="cotlo"/>
+<sdef n="cm:cotlo" c="cotlo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:cotlo" c="cotlo"/>
+<sdef n="cm:cotlo" c="cotlo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:cotlo" c="cotlo"/>
+<sdef n="cm:sWAnaMlo" c="sWAnaMlo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMlo" c="sWAnaMlo"/>
+<sdef n="cm:sWAnaMlo" c="sWAnaMlo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMlo" c="sWAnaMlo"/>
+<sdef n="cm:sWAnaMlo" c="sWAnaMlo" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMlo" c="sWAnaMlo"/>
+<sdef n="cm:nerugA" c="nerugA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nerugA" c="nerugA"/>
+<sdef n="cm:nerugA" c="nerugA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nerugA" c="nerugA"/>
+<sdef n="cm:nerugA" c="nerugA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nerugA" c="nerugA"/>
+<sdef n="cm:prakAraM" c="prakAraM" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:prakAraM" c="prakAraM"/>
+<sdef n="cm:prakAraM" c="prakAraM" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:prakAraM" c="prakAraM"/>
+<sdef n="cm:prakAraM" c="prakAraM" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:prakAraM" c="prakAraM"/>
+<sdef n="cm:prakAraM" c="prakAraM" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:prakAraM" c="prakAraM"/>
+<sdef n="cm:prakAraM" c="prakAraM" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:prakAraM" c="prakAraM"/>
+<sdef n="cm:xaggaranuMdi" c="xaggaranuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xaggaranuMdi" c="xaggaranuMdi"/>
+<sdef n="cm:xaggaranuMdi" c="xaggaranuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xaggaranuMdi" c="xaggaranuMdi"/>
+<sdef n="cm:xaggaranuMdi" c="xaggaranuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xaggaranuMdi" c="xaggaranuMdi"/>
+<sdef n="cm:xaggaranuMdi" c="xaggaranuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xaggaranuMdi" c="xaggaranuMdi"/>
+<sdef n="cm:xaggaranuMdi" c="xaggaranuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:xaggaranuMdi" c="xaggaranuMdi"/>
+<sdef n="cm:vaxxanuMdi" c="vaxxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vaxxanuMdi" c="vaxxanuMdi"/>
+<sdef n="cm:vaxxanuMdi" c="vaxxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vaxxanuMdi" c="vaxxanuMdi"/>
+<sdef n="cm:vaxxanuMdi" c="vaxxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:vaxxanuMdi" c="vaxxanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:pakkanuMdi" c="pakkanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pakkanuMdi" c="pakkanuMdi"/>
+<sdef n="cm:lopalanuMdi" c="lopalanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalanuMdi" c="lopalanuMdi"/>
+<sdef n="cm:lopalanuMdi" c="lopalanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalanuMdi" c="lopalanuMdi"/>
+<sdef n="cm:lopalanuMdi" c="lopalanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalanuMdi" c="lopalanuMdi"/>
+<sdef n="cm:lopalanuMdi" c="lopalanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalanuMdi" c="lopalanuMdi"/>
+<sdef n="cm:lopalanuMdi" c="lopalanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalanuMdi" c="lopalanuMdi"/>
+<sdef n="cm:lopalanuMdi" c="lopalanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalanuMdi" c="lopalanuMdi"/>
+<sdef n="cm:bEtanuMdi" c="bEtanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:bEtanuMdi" c="bEtanuMdi"/>
+<sdef n="cm:bEtanuMdi" c="bEtanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:bEtanuMdi" c="bEtanuMdi"/>
+<sdef n="cm:bEtanuMdi" c="bEtanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:bEtanuMdi" c="bEtanuMdi"/>
+<sdef n="cm:bEtanuMdi" c="bEtanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:bEtanuMdi" c="bEtanuMdi"/>
+<sdef n="cm:pEnuMdi" c="pEnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pEnuMdi" c="pEnuMdi"/>
+<sdef n="cm:pEnuMdi" c="pEnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pEnuMdi" c="pEnuMdi"/>
+<sdef n="cm:pEnuMdi" c="pEnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pEnuMdi" c="pEnuMdi"/>
+<sdef n="cm:pEnuMdi" c="pEnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pEnuMdi" c="pEnuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:kriMxanuMdi" c="kriMxanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kriMxanuMdi" c="kriMxanuMdi"/>
+<sdef n="cm:adugunuMdi" c="adugunuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:adugunuMdi" c="adugunuMdi"/>
+<sdef n="cm:adugunuMdi" c="adugunuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:adugunuMdi" c="adugunuMdi"/>
+<sdef n="cm:adugunuMdi" c="adugunuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:adugunuMdi" c="adugunuMdi"/>
+<sdef n="cm:adugunuMdi" c="adugunuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:adugunuMdi" c="adugunuMdi"/>
+<sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
+<sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
+<sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
+<sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
+<sdef n="cm:nadumanuMdi" c="nadumanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nadumanuMdi" c="nadumanuMdi"/>
+<sdef n="cm:nadumanuMdi" c="nadumanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nadumanuMdi" c="nadumanuMdi"/>
+<sdef n="cm:nadumanuMdi" c="nadumanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nadumanuMdi" c="nadumanuMdi"/>
+<sdef n="cm:nadumanuMdi" c="nadumanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:nadumanuMdi" c="nadumanuMdi"/>
+<sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
+<sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
+<sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
+<sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
+<sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
+<sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
+<sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
+<sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
+<sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
+<sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
+<sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="cm:aMxu" c="aMxu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:aMxu" c="aMxu"/>
+<sdef n="cm:aMxu" c="aMxu" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:aMxu" c="aMxu"/>
+<sdef n="cm:aMte" c="aMte" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:aMte" c="aMte"/>
+<sdef n="cm:aMte" c="aMte" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:aMte" c="aMte"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="cm:Ena" c="Ena" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:Ena" c="Ena"/>
+<sdef n="cm:Ena" c="Ena" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:Ena" c="Ena"/>
+<sdef n="cm:pAti" c="pAti" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pAti" c="pAti"/>
+<sdef n="cm:pAti" c="pAti" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:pAti" c="pAti"/>
+<sdef n="cm:lAMti" c="lAMti" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lAMti" c="lAMti"/>
+<sdef n="cm:lAMti" c="lAMti" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lAMti" c="lAMti"/>
+<sdef n="cm:lAMti" c="lAMti" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lAMti" c="lAMti"/>
+<sdef n="cm:lAMti" c="lAMti" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lAMti" c="lAMti"/>
+<sdef n="cm:gAni" c="gAni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gAni" c="gAni"/>
+<sdef n="cm:gAni" c="gAni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gAni" c="gAni"/>
+<sdef n="cm:gAni" c="gAni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gAni" c="gAni"/>
+<sdef n="cm:gAni" c="gAni" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gAni" c="gAni"/>
+<sdef n="cm:gA" c="gA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gA" c="gA"/>
+<sdef n="cm:gA" c="gA" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:gA" c="gA"/>
+</sdefs><pardefs><pardef n="eVn/[i]m[i]xi__n">
+<e><p><l>imixi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:0"/><s n="suffix:0"/></r></p></e>
+<e><p><l>imixi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:obl"/><s n="suffix:obl"/></r></p></e>
+<e><p><l>imixigAdu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:gAdu"/><s n="suffix:gAdu"/></r></p></e>
+<e><p><l>imixigawweV</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:gawweV"/><s n="suffix:gawweV"/></r></p></e>
+<e><p><l>imixivAdu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vAdu"/><s n="suffix:vAdu"/></r></p></e>
+<e><p><l>imixAyana</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:Ayana"/><s n="suffix:Ayana"/></r></p></e>
+<e><p><l>imixivAru</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vAru"/><s n="suffix:vAru"/></r></p></e>
+<e><p><l>imixixi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:xi"/><s n="suffix:xi"/></r></p></e>
+<e><p><l>imixivi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+<e><p><l>imixivi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vu"/><s n="suffix:vu"/></r></p></e>
+<e><p><l>imixiy</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+<e><p><l>imixigAru</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:gAru"/><s n="suffix:gAru"/></r></p></e>
+<e><p><l>imixini</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
+<e><p><l>imixini</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+<e><p><l>imixiyoVkka</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:yoVkka"/><s n="suffix:yoVkka"/></r></p></e>
+<e><p><l>imixinu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+<e><p><l>imixiki</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+<e><p><l>imixiku</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+<e><p><l>imixiwo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+<e><p><l>imixiwoda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+<e><p><l>imixiwoti</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+<e><p><l>imixilo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+<e><p><l>imixilona</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+<e><p><l>imixilopala</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+<e><p><l>imixiloni</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+<e><p><l>imixilopali</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+<e><p><l>imixiyaMxali</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+<e><p><l>imiximIxa</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxa"/><s n="suffix:mIxa"/></r></p></e>
+<e><p><l>imixina</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:na"/><s n="suffix:na"/></r></p></e>
+<e><p><l>imixiniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+<e><p><l>imixinuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+<e><p><l>imixinuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+<e><p><l>imixixvArA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+<e><p><l>imixixvAra</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+<e><p><l>imixivalana</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+<e><p><l>imixivalla</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+<e><p><l>imixinibatti</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:batti"/><s n="suffix:batti"/></r></p></e>
+<e><p><l>imixice</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+<e><p><l>imixicewa</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+<e><p><l>imixiwopAtu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+<e><p><l>imixiwobAtu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+<e><p><l>imixiwokUdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixiwokUda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixiwokUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixiwogUdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixiwogUda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixiwogUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixikosaM</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+<e><p><l>imixikE</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+<e><p><l>imixArWaM</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+<e><p><l>imixikoVraku</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+<e><p><l>imixikoVrYaku</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+<e><p><l>imixilonuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+<e><p><l>imixilonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+<e><p><l>imixiloniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+<e><p><l>imiximIxanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+<e><p><l>imiximIxanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+<e><p><l>imiximIxaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+<e><p><l>imixixAkA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+<e><p><l>imixixAka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+<e><p><l>imixivaraku</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:varaku"/><s n="suffix:varaku"/></r></p></e>
+<e><p><l>imiximIxaki</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+<e><p><l>imiximIxaku</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+<e><p><l>imiximIxiki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+<e><p><l>imixixaggara</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+<e><p><l>imixixaggira</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+<e><p><l>imixivaxxa</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+<e><p><l>imixoVxxa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+<e><p><l>imixikAda</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAda"/><s n="suffix:kAda"/></r></p></e>
+<e><p><l>imixikeVxurugA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+<e><p><l>imixeVxurugA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+<e><p><l>imiximuMxu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxu"/><s n="suffix:muMxu"/></r></p></e>
+<e><p><l>imixiguriMci</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+<e><p><l>imixiniguriMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+<e><p><l>imixinugUrci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+<e><p><l>imixipE</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+<e><p><l>imixipEna</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+<e><p><l>imixipEni</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+<e><p><l>imixipEki</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pEki"/><s n="suffix:pEki"/></r></p></e>
+<e><p><l>imixiguMdA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:guMdA"/><s n="suffix:guMdA"/></r></p></e>
+<e><p><l>imixilA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+<e><p><l>imixilAga</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+<e><p><l>imixilAgA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+<e><p><l>imixivale</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>imiximAxiri</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>imixinipolina</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>imixinibolina</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>imixikimalle</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+<e><p><l>imixikimalleV</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+<e><p><l>imixikUdA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+<e><p><l>imixinikUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+<e><p><l>imixikUda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+<e><p><l>imixigUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+<e><p><l>imixinigUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+<e><p><l>imixigUda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+<e><p><l>imixixqRtilo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+<e><p><l>imixixruRtilo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+<e><p><l>imixilekuMdA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+<e><p><l>imixinilekuMdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+<e><p><l>imixileka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+<e><p><l>imixileka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+<e><p><l>imixikAkuMdA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>imixinikAkuMdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>imixikAka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>imixigAka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>imixigAkuMdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>imixigAkuMda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>imiximoVxalukoVni</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+<e><p><l>imixinimoVxalukoVni</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+<e><p><l>imixinumoVxalukoVni</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+<e><p><l>imixivEpu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+<e><p><l>imixivepu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+<e><p><l>imixikesi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+<e><p><l>imixipakka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+<e><p><l>imixiprakka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+<e><p><l>imixipakkana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+<e><p><l>imixiprakkana</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+<e><p><l>imixipakkani</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+<e><p><l>imixipakkalo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+<e><p><l>imixiprakkalo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+<e><p><l>imixipakkalona</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+<e><p><l>imixipakkaloni</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+<e><p><l>imixiloki</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>imixiloniki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>imixilopalaki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>imixilopalaku</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>imixilopaliki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>imixikiMxa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+<e><p><l>imixikriMxa</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+<e><p><l>imixikriMxana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+<e><p><l>imixikiMxana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+<e><p><l>imixaduguna</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+<e><p><l>imixikaduguna</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+<e><p><l>imixikeVlla</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+<e><p><l>imixikalla</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+<e><p><l>imixivuka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+<e><p><l>imixivakAla</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+<e><p><l>imixivakAwala</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+<e><p><l>imixivakana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+<e><p><l>imixiwaravAwa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+<e><p><l>imixiwarvAwa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+<e><p><l>imixiwaruvAwa</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+<e><p><l>imixiwaravAwana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+<e><p><l>imixiwarvAwana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+<e><p><l>imixiwaruvAwana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+<e><p><l>imixeVxuruguMdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+<e><p><l>imixikeVxuruguMdA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+<e><p><l>imiximaXya</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+<e><p><l>imiximaXyalo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+<e><p><l>imiximaXyana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+<e><p><l>imixinaduma</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+<e><p><l>imixinadumana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+<e><p><l>imixibaxulugA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+<e><p><l>imixibaxulu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+<e><p><l>imixikibaxulu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+<e><p><l>imixikubaxulu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+<e><p><l>imixicotlo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+<e><p><l>imixicotulo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+<e><p><l>imixicotuna</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+<e><p><l>imixicota</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+<e><p><l>imixisWAnaMlo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+<e><p><l>imixiswAnaMlo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+<e><p><l>imixinerugA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+<e><p><l>imixikunerugA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+<e><p><l>imixikinerugA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+<e><p><l>imixiprakAraM</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+<e><p><l>imixiprakAramu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+<e><p><l>imixixaggaranuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+<e><p><l>imixixaggaranuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+<e><p><l>imixixaggiranuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+<e><p><l>imixixaggiranuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+<e><p><l>imixivaxxanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+<e><p><l>imixivaxxanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+<e><p><l>imixivaxxaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+<e><p><l>imixipakkanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>imixipakkanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>imixipakkaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>imixipakkalonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>imixipakkalonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>imixipakkaloniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>imixilopalanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+<e><p><l>imixilopalanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+<e><p><l>imixilopalaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+<e><p><l>imixibEtanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+<e><p><l>imixibEtanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+<e><p><l>imixibEtaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+<e><p><l>imixipEnuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+<e><p><l>imixipEnuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+<e><p><l>imixipEniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+<e><p><l>imixikiMxanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>imixikiMxanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>imixikiMxaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>imixikriMxanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>imixikriMxanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>imixikriMxaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>imixadugunuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+<e><p><l>imixadugunuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+<e><p><l>imixikadugunuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+<e><p><l>imixikadugunuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+<e><p><l>imixikaduguniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+<e><p><l>imiximuMxunuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+<e><p><l>imiximuMxunuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+<e><p><l>imiximuMxuniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+<e><p><l>imixivukanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixivakAlanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixivakAwalanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixivakanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixivukanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixivakAlanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixivakAwalanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixivakanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixeVxutinuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imixikeVxutinuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imixikeVxutinuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imixeVxutinuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imixeVxutanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imixikeVxutanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imixikeVxutanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imiximaXyanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>imiximaXyanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>imiximaXyalonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>imiximaXyalonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>imixinadumanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+<e><p><l>imixinadumanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+<e><p><l>imixiwaravAwanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+<e><p><l>imixiwarvAwanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+<e><p><l>imixiwaravAwanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+<e><p><l>imixiwarvAwanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+<e><p><l>imixicotlonuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+<e><p><l>imixicotunuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+<e><p><l>imixicotlonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+<e><p><l>imixicotunuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+<e><p><l>imixisWAnaMnuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixisWAnamunuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixisWAnaMnuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixisWAnamunuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixisWAnaMlonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixisWAnamulonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixisWAnaMlonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixiswAnamulonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixaMxu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+<e><p><l>imixinaMxu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+<e><p><l>imixiyaMxu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+<e><p><l>imixaMte</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+<e><p><l>imixaMteV</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+<e><p><l>imixiyaMte</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+<e><p><l>imixiyaMteV</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+<e><p><l>imixikaMteV</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>imixikaMte</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>imixikanna</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>imixikannA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>imixEna</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:Ena"/><s n="suffix:Ena"/></r></p></e>
+<e><p><l>imixipAti</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pAti"/><s n="suffix:pAti"/></r></p></e>
+<e><p><l>imixilAMti</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+<e><p><l>imixilAti</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+<e><p><l>imixigAnI</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+<e><p><l>imixikAnI</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+<e><p><l>imixigA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:gA"/><s n="suffix:gA"/></r></p></e>
+<e><p><l>umuxulu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:0"/><s n="suffix:0"/></r></p></e>
+<e><p><l>umuxulu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vu"/><s n="suffix:vu"/></r></p></e>
+<e><p><l>imixulu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:0"/><s n="suffix:0"/></r></p></e>
+<e><p><l>imixulu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vu"/><s n="suffix:vu"/></r></p></e>
+<e><p><l>umuxulU</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:I"/><s n="suffix:I"/></r></p></e>
+<e><p><l>imixulU</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:I"/><s n="suffix:I"/></r></p></e>
+<e><p><l>umuxulArA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:I"/><s n="suffix:I"/></r></p></e>
+<e><p><l>imixulArA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:I"/><s n="suffix:I"/></r></p></e>
+<e><p><l>umuxulugAdu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gAdu"/><s n="suffix:gAdu"/></r></p></e>
+<e><p><l>imixulagAdu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gAdu"/><s n="suffix:gAdu"/></r></p></e>
+<e><p><l>umuxulugawweV</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gawweV"/><s n="suffix:gawweV"/></r></p></e>
+<e><p><l>imixulagawweV</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gawweV"/><s n="suffix:gawweV"/></r></p></e>
+<e><p><l>umuxulavAdu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAdu"/><s n="suffix:vAdu"/></r></p></e>
+<e><p><l>imixulavAdu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAdu"/><s n="suffix:vAdu"/></r></p></e>
+<e><p><l>umuxulAyana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:Ayana"/><s n="suffix:Ayana"/></r></p></e>
+<e><p><l>imixulAyana</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:Ayana"/><s n="suffix:Ayana"/></r></p></e>
+<e><p><l>umuxulavAru</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAru"/><s n="suffix:vAru"/></r></p></e>
+<e><p><l>imixulavAru</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAru"/><s n="suffix:vAru"/></r></p></e>
+<e><p><l>umuxulaxi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:xi"/><s n="suffix:xi"/></r></p></e>
+<e><p><l>imixulxi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:xi"/><s n="suffix:xi"/></r></p></e>
+<e><p><l>umuxulxi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:xi"/><s n="suffix:xi"/></r></p></e>
+<e><p><l>imixulaxi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:xi"/><s n="suffix:xi"/></r></p></e>
+<e><p><l>umuxulavi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+<e><p><l>imixulay</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+<e><p><l>imixulavi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+<e><p><l>umuxulagAru</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gAru"/><s n="suffix:gAru"/></r></p></e>
+<e><p><l>imixulagAru</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gAru"/><s n="suffix:gAru"/></r></p></e>
+<e><p><l>umuxulaM</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
+<e><p><l>imixulaM</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
+<e><p><l>umuxulamu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
+<e><p><l>imixulamu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
+<e><p><l>umuxulayoVkka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:yoVkka"/><s n="suffix:yoVkka"/></r></p></e>
+<e><p><l>imixulayoVkka</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:yoVkka"/><s n="suffix:yoVkka"/></r></p></e>
+<e><p><l>umuxula</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:obl"/><s n="suffix:obl"/></r></p></e>
+<e><p><l>imixula</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:obl"/><s n="suffix:obl"/></r></p></e>
+<e><p><l>umuxulani</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+<e><p><l>imixulni</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+<e><p><l>umuxulanu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+<e><p><l>imixulani</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+<e><p><l>umuxulaku</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+<e><p><l>imixulaki</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+<e><p><l>imixulaku</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+<e><p><l>umuxulaki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+<e><p><l>umuxulawo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+<e><p><l>imixulawo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+<e><p><l>umuxulawoda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+<e><p><l>umuxulawoti</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+<e><p><l>imixulawoti</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+<e><p><l>imixulawoda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+<e><p><l>umuxulalo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+<e><p><l>umuxullo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+<e><p><l>umuxulalona</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+<e><p><l>imixullo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+<e><p><l>imixulalona</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+<e><p><l>umuxulaloni</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+<e><p><l>umuxulayaMxali</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+<e><p><l>umuxulloni</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+<e><p><l>imixulloni</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+<e><p><l>umuxulamIxa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxa"/><s n="suffix:mIxa"/></r></p></e>
+<e><p><l>imixulamIxa</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxa"/><s n="suffix:mIxa"/></r></p></e>
+<e><p><l>imixulamIxi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxa"/><s n="suffix:mIxa"/></r></p></e>
+<e><p><l>umuxulamIxi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxa"/><s n="suffix:mIxa"/></r></p></e>
+<e><p><l>umuxulana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:na"/><s n="suffix:na"/></r></p></e>
+<e><p><l>umuxulana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:na"/><s n="suffix:na"/></r></p></e>
+<e><p><l>imixulana</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:na"/><s n="suffix:na"/></r></p></e>
+<e><p><l>imixulana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:na"/><s n="suffix:na"/></r></p></e>
+<e><p><l>umuxulaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+<e><p><l>imixulaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+<e><p><l>umuxulanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+<e><p><l>imixulanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+<e><p><l>umuxulanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+<e><p><l>imixulnuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+<e><p><l>umuxulaxvArA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+<e><p><l>imixulaxvAra</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+<e><p><l>imixulaxvArA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+<e><p><l>umuxulaxvAra</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+<e><p><l>umuxulavalana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+<e><p><l>imixulavalana</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+<e><p><l>imixulavalla</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+<e><p><l>imixulanubatti</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:batti"/><s n="suffix:batti"/></r></p></e>
+<e><p><l>umuxulacewa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+<e><p><l>imixulacewa</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+<e><p><l>umuxulace</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+<e><p><l>imixulace</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+<e><p><l>umuxulawopAtu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+<e><p><l>imixulawopAtu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+<e><p><l>umuxulawobAtu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+<e><p><l>imixulawobAtu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+<e><p><l>umuxulawokUdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixulawokUdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>umuxulawokUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixulawokUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixulwokUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>umuxulawogUdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixulawogUdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>umuxulawogUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixulawogUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>imixulwogUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+<e><p><l>umuxulakosaM</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+<e><p><l>imixulakE</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+<e><p><l>imixulakosaM</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+<e><p><l>umuxulakE</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+<e><p><l>imixulArWaM</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+<e><p><l>umuxulakoVraku</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+<e><p><l>imixulakoVraku</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+<e><p><l>umuxulalonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+<e><p><l>umuxulalonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+<e><p><l>umuxulalonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+<e><p><l>imixullonuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+<e><p><l>umuxullonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+<e><p><l>imixulloniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+<e><p><l>umuxulamIxanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+<e><p><l>umuxulamIxanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+<e><p><l>imixulamIxanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+<e><p><l>imixulamIxaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+<e><p><l>umuxulaxAkA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+<e><p><l>imixulaxAka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+<e><p><l>imixulaxAkA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+<e><p><l>umuxulaxAka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+<e><p><l>umuxulavaraku</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:varaku"/><s n="suffix:varaku"/></r></p></e>
+<e><p><l>imixulavaraku</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:varaku"/><s n="suffix:varaku"/></r></p></e>
+<e><p><l>umuxulamIxaki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+<e><p><l>umuxulamIxaku</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+<e><p><l>umuxulamIxiki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+<e><p><l>imixulamIxiki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+<e><p><l>imixulamIxaku</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+<e><p><l>umuxulaxaggara</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+<e><p><l>imixulaxaggara</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+<e><p><l>imixulaxaggira</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+<e><p><l>umuxulavaxxa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+<e><p><l>imixulavaxxa</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+<e><p><l>imixuloVxxa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+<e><p><l>umuxulakAda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAda"/><s n="suffix:kAda"/></r></p></e>
+<e><p><l>imixulakAda</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAda"/><s n="suffix:kAda"/></r></p></e>
+<e><p><l>umuxuleVxurugA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+<e><p><l>imixulakeVxurugA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+<e><p><l>umuxulamuMxu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxu"/><s n="suffix:muMxu"/></r></p></e>
+<e><p><l>imixulamuMxu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxu"/><s n="suffix:muMxu"/></r></p></e>
+<e><p><l>umuxulaguriMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+<e><p><l>umuxulagUrci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+<e><p><l>imixulaguriMci</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+<e><p><l>imixulanuguriMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+<e><p><l>imixulanigUrci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+<e><p><l>umuxulapE</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+<e><p><l>umuxulapEni</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+<e><p><l>imixulapEna</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+<e><p><l>umuxulapEki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEki"/><s n="suffix:pEki"/></r></p></e>
+<e><p><l>imixulapEki</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEki"/><s n="suffix:pEki"/></r></p></e>
+<e><p><l>umuxulaguMdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guMdA"/><s n="suffix:guMdA"/></r></p></e>
+<e><p><l>imixulaguMdA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guMdA"/><s n="suffix:guMdA"/></r></p></e>
+<e><p><l>umuxulalA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+<e><p><l>imixullA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+<e><p><l>umuxulalAga</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+<e><p><l>imixullAga</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+<e><p><l>umuxullAgA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+<e><p><l>umuxulavale</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>umuxulavaleV</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>imixulavaleV</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>imixulamAxiri</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>umuxulanupolina</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>imixulanubolina</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>umuxulamAxiri</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>umuxulapolina</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>imixulabolina</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+<e><p><l>umuxulakumalle</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+<e><p><l>imixulakumalle</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+<e><p><l>umuxulakumalleV</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+<e><p><l>imixulakumalleV</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+<e><p><l>umuxulukUdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+<e><p><l>imixulugUdA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+<e><p><l>umuxulukUda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+<e><p><l>imixulugUda</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+<e><p><l>umuxulaxqRtilo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+<e><p><l>imixulaxqRtilo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+<e><p><l>imixulaxruRtilo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+<e><p><l>umuxululekuMdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+<e><p><l>imixullekuMdA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+<e><p><l>umuxululeka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+<e><p><l>imixulukAkuMdA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>umuxulukAkuMdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>umuxulukAka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>imixulugAka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>imixulukAka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>imixulukAka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>umuxulugAka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+<e><p><l>umuxulumoVxalukoVni</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+<e><p><l>imixulumoVxalukoVni</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+<e><p><l>imixulanumoVxalukoVni</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+<e><p><l>umuxulavEpu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+<e><p><l>imixulavEpu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+<e><p><l>imixulavepu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+<e><p><l>umuxulakesi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+<e><p><l>imixulakesi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+<e><p><l>umuxulapakka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+<e><p><l>umuxulapakkana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+<e><p><l>imixulaprakka</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+<e><p><l>umuxulaprakkana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+<e><p><l>umuxulapakkalo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+<e><p><l>imixulaprakkalo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+<e><p><l>umuxulaloki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>imixulaloki</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>umuxulaloniki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>imixulaloniki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>umuxulalopalaki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>umuxulalopaliki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>imixullopaliki</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>imixullopalaku</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+<e><p><l>umuxulakiMxa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+<e><p><l>imixulakriMxa</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+<e><p><l>umuxulakriMxana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+<e><p><l>imixulakiMxana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+<e><p><l>umuxuladuguna</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+<e><p><l>imixulakaduguna</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+<e><p><l>umuxulakeVlla</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+<e><p><l>imixulakalla</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+<e><p><l>imixulavuka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+<e><p><l>umuxulavaka</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+<e><p><l>imixulavakAla</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+<e><p><l>umuxulavukAla</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+<e><p><l>umuxulavakAwala</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+<e><p><l>imixulavukAwala</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+<e><p><l>umuxulawaravAwa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+<e><p><l>imixulawaruvAwa</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+<e><p><l>imixulawarvAwa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+<e><p><l>umuxulwaravAwa</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+<e><p><l>umuxuleVxuruguMdA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+<e><p><l>imixulakeVxuruguMdA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+<e><p><l>umuxulamaXya</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+<e><p><l>imixulamaXya</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+<e><p><l>imixulamaXyana</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+<e><p><l>umuxulamaXyalo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+<e><p><l>umuxulanaduma</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+<e><p><l>imixulakinaduma</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+<e><p><l>umuxulabaxulugA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+<e><p><l>imixulakibaxulugA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+<e><p><l>umuxulabaxulu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+<e><p><l>imixulakibaxulu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+<e><p><l>umuxulacotlo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+<e><p><l>imixulacotlo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+<e><p><l>imixulacotulo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+<e><p><l>umuxulasWAnaMlo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+<e><p><l>imixulaswAnaMlo</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+<e><p><l>umuxulasWAnamulo</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+<e><p><l>umuxulanerugA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+<e><p><l>umuxulakunerugA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+<e><p><l>imixulakinerugA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+<e><p><l>umuxulaprakAraM</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+<e><p><l>imixulaprakAraM</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+<e><p><l>umuxulanubatti</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+<e><p><l>umuxulabatti</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+<e><p><l>imixulanibatti</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+<e><p><l>umuxulaxaggaranuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+<e><p><l>imixulaxaggaranuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+<e><p><l>imixulaxaggiranuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+<e><p><l>umuxulaxaggaranuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+<e><p><l>imixulaxaggiranuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+<e><p><l>umuxulavaxxanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+<e><p><l>imixulavaxxanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+<e><p><l>imixulavaxxanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+<e><p><l>umuxulapakkanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>imixulapakkanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>imixulapakkanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>umuxulapakkalonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>imixulapakkalonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+<e><p><l>umuxulalopalanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+<e><p><l>imixullopalanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+<e><p><l>umuxulalopalanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+<e><p><l>imixullopalanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+<e><p><l>imixullopalinuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+<e><p><l>imixulalopalinuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+<e><p><l>umuxulabEtanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+<e><p><l>imixulabEtanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+<e><p><l>imixulabEtanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+<e><p><l>umuxulabEtaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+<e><p><l>umuxulapEnuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+<e><p><l>umuxulapEnuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+<e><p><l>imixulapEniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+<e><p><l>imixulapEnuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+<e><p><l>umuxulakiMxanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>umuxulakiMxanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>imixulakiMxaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>umuxulakriMxanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>umuxulakriMxanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>imixulakriMxaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>imixulakriMxanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+<e><p><l>umuxuladugunuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+<e><p><l>umuxuladugunuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+<e><p><l>imixuladuguniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+<e><p><l>imixuladugunuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+<e><p><l>umuxulamuMxunuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+<e><p><l>umuxulamuMxunuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+<e><p><l>imixulamuMxuniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+<e><p><l>imixulamuMxunuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+<e><p><l>umuxulavukanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>umuxulavakanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixulavakAlanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>umuxulavakAlanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>umuxulavukanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixulavakanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>umuxulavakAwalanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>imixulavakAwalanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+<e><p><l>umuxuleVxutinuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imixulakeVxutinuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>umuxuleVxutanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imixulakeVxutanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>umuxuleVxutinuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imixulakeVxutinuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>umuxuleVxutanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>imixulakeVxutanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+<e><p><l>umuxulamaXyanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>imixulamaXyanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>imixulamaXyanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>imixulamaXyaniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>umuxulamaXyalonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>imixulamaXyalonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>umuxulamaXyaloniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+<e><p><l>imixulanadumanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+<e><p><l>imixulanadamanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+<e><p><l>umuxulanadumanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+<e><p><l>umuxulanadamanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+<e><p><l>umuxulawaravAwanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+<e><p><l>imixulawaravAwanuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+<e><p><l>imixulawarvAwanuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+<e><p><l>umuxulawaravAwanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+<e><p><l>imixulawarvAwanuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+<e><p><l>umuxulacotunuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+<e><p><l>imixulacotunuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+<e><p><l>umuxulacotlonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+<e><p><l>imixulacotloniMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+<e><p><l>umuxulacotlonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+<e><p><l>imixulacotulonuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+<e><p><l>umuxulasWAnamunuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixulasWAnaMnuMdi</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>umuxulasWAnamunuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixulasWAnaMnuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>umuxulasWAnaMlonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixulasWAnamulonuMdi</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixulasWAnaMlonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>imixulasWAnamulonuMci</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+<e><p><l>umuxulayaMxu</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+<e><p><l>imixulaMxu</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+<e><p><l>umuxulaMte</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+<e><p><l>imixulaMteV</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+<e><p><l>umuxulakaMteV</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>imixulakaMte</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>umuxulakannA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>imixulakanna</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>umuxulakaMte</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>imixulakaMteV</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>umuxulakanna</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>imixulakannA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+<e><p><l>umuxulEna</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:Ena"/><s n="suffix:Ena"/></r></p></e>
+<e><p><l>imixlEna</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:Ena"/><s n="suffix:Ena"/></r></p></e>
+<e><p><l>umuxulapati</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pAti"/><s n="suffix:pAti"/></r></p></e>
+<e><p><l>imixulapAti</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pAti"/><s n="suffix:pAti"/></r></p></e>
+<e><p><l>umuxululAMti</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+<e><p><l>umuxululAti</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+<e><p><l>imixululAMti</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+<e><p><l>imixululAti</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+<e><p><l>umuxulugAnI</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+<e><p><l>umuxulukAnI</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+<e><p><l>imixulugAnI</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+<e><p><l>imixulukAnI</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+<e><p><l>umuxulugA</l><r e="LR"><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gA"/><s n="suffix:gA"/></r></p></e>
+<e><p><l>imixulugA</l><r><prm/>m<prm/>xi<s n="root:eVn[i]m[i]xi"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gA"/><s n="suffix:gA"/></r></p></e>
+</pardef>
+</pardefs><section id="main" type="standard"><e lm="eVnimixi"><i>eVn</i><par n="eVn/[i]m[i]xi__n" prm="i" /></e></section></dictionary>
