@@ -8,10 +8,10 @@ illu
 *iMtivAdu	n number eka parsarg vAdu  case d
 *iMtAyana	n number eka parsarg Ayana  case d
 *iMtivAru	n number eka parsarg vAru  case d
-*iMtixi	n number eka parsarg xi  case d
-*iMtivi/iMtiy	n number eka parsarg vi  case d
+#*iMtixi	n number eka parsarg xi  case o
+#*iMtivi/iMtiy	n number eka parsarg vi_agr  case d
 *illugAru	n number eka parsarg gAru  case d
-*illunu	n number eka parsarg nu 
+#*illunu	n number eka parsarg nu_agr 
 *iMtivi	n number eka parsarg vu  case d
 *iMtiyoVkka	n number eka parsarg yoVkka 
 *iMti	n number eka parsarg obl 
@@ -105,8 +105,8 @@ ilYlulArA/*ilYlYU/ilYlU/iMdlulArA/iMdlU	n number bahu parsarg I  case d
 *ilYlYaxi/ilYlaxi/iMdlaxi	n number bahu parsarg xi  case d
 *ilYlYavi/ilYlavi/ilYlay/iMdlavi/iMdlay	n number bahu parsarg vi  case d
 *ilYlYagAru/ilYlagAru/iMdlagAru	n number bahu parsarg gAru  case d
-*ilYlYaM/ilYlaM/ilYlamu/iMdlaM/iMdlamu	n number bahu parsarg nu  case d
--	n number bahu parsarg vu 
+#*ilYlYaM/ilYlaM/ilYlamu/iMdlaM/iMdlamu	n number bahu parsarg nu_agr  case d
+-	n number bahu parsarg vu
 iMdlayoVkka/*ilYlYayoVkka/ilYlayoVkka	n number bahu parsarg yoVkka 
 *ilYlYa/ilYla/iMdla	n number bahu parsarg obl 
 *ilYlYani/ilYlani/ilYlanu/iMdlani/iMdlanu/illulni	n number bahu parsarg ni 
