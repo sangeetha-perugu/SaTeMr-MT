@@ -1,4 +1,4 @@
-<sdef n="root:puswakaM" c="puswakaM"/>
+<sdef n="root:man[i]Ri" c="man[i]Ri"/>
 <sdef n="lcat:noun" c="noun" />
 <sdef n="gen:any" c="any"/>
 <sdef n="per:any" c="any"/>
@@ -9,51 +9,24 @@
 <sdef n="cm:0" c="0" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:0" c="0"/>
-<sdef n="cm:0" c="0" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:0" c="0"/>
-<sdef n="cm:gAdu" c="gAdu" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:gAdu" c="gAdu"/>
 <sdef n="cm:gAdu" c="gAdu" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:gAdu" c="gAdu"/>
 <sdef n="cm:gawweV" c="gawweV" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:gawweV" c="gawweV"/>
-<sdef n="cm:gawweV" c="gawweV" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:gawweV" c="gawweV"/>
-<sdef n="cm:vAdu" c="vAdu" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:vAdu" c="vAdu"/>
 <sdef n="cm:vAdu" c="vAdu" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:vAdu" c="vAdu"/>
 <sdef n="cm:Ayana" c="Ayana" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:Ayana" c="Ayana"/>
-<sdef n="cm:Ayana" c="Ayana" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:Ayana" c="Ayana"/>
-<sdef n="cm:vAru" c="vAru" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:vAru" c="vAru"/>
 <sdef n="cm:vAru" c="vAru" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:vAru" c="vAru"/>
 <sdef n="cm:xi" c="xi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:xi" c="xi"/>
-<sdef n="cm:xi" c="xi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:xi" c="xi"/>
-<sdef n="cm:xi" c="xi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:xi" c="xi"/>
-<sdef n="cm:vi" c="vi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:vi" c="vi"/>
 <sdef n="cm:vi" c="vi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:vi" c="vi"/>
@@ -66,18 +39,6 @@
 <sdef n="cm:nu" c="nu" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:nu" c="nu"/>
-<sdef n="cm:nu" c="nu" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:nu" c="nu"/>
-<sdef n="cm:nu" c="nu" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:nu" c="nu"/>
-<sdef n="cm:vu" c="vu" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:vu" c="vu"/>
-<sdef n="cm:vu" c="vu" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:vu" c="vu"/>
 <sdef n="cm:vu" c="vu" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:vu" c="vu"/>
@@ -87,15 +48,6 @@
 <sdef n="cm:obl" c="obl" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:obl" c="obl"/>
-<sdef n="cm:obl" c="obl" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:obl" c="obl"/>
-<sdef n="cm:obl" c="obl" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:obl" c="obl"/>
-<sdef n="cm:ni" c="ni" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:ni" c="ni"/>
 <sdef n="cm:ni" c="ni" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:ni" c="ni"/>
@@ -108,15 +60,6 @@
 <sdef n="cm:ki" c="ki" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:ki" c="ki"/>
-<sdef n="cm:ki" c="ki" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:ki" c="ki"/>
-<sdef n="cm:ki" c="ki" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:ki" c="ki"/>
-<sdef n="cm:wo" c="wo" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:wo" c="wo"/>
 <sdef n="cm:wo" c="wo" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:wo" c="wo"/>
@@ -147,18 +90,9 @@
 <sdef n="cm:mIxa" c="mIxa" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:mIxa" c="mIxa"/>
-<sdef n="cm:mIxa" c="mIxa" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:mIxa" c="mIxa"/>
 <sdef n="cm:na" c="na" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:na" c="na"/>
-<sdef n="cm:na" c="na" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:na" c="na"/>
-<sdef n="cm:niMci" c="niMci" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:niMci" c="niMci"/>
 <sdef n="cm:niMci" c="niMci" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:niMci" c="niMci"/>
@@ -180,18 +114,6 @@
 <sdef n="cm:valana" c="valana" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:valana" c="valana"/>
-<sdef n="cm:valana" c="valana" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:valana" c="valana"/>
-<sdef n="cm:valana" c="valana" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:valana" c="valana"/>
-<sdef n="cm:batti" c="batti" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:batti" c="batti"/>
-<sdef n="cm:batti" c="batti" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:batti" c="batti"/>
 <sdef n="cm:batti" c="batti" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:batti" c="batti"/>
@@ -204,15 +126,6 @@
 <sdef n="cm:wopAtu" c="wopAtu" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:wopAtu" c="wopAtu"/>
-<sdef n="cm:wopAtu" c="wopAtu" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:wopAtu" c="wopAtu"/>
-<sdef n="cm:wopAtu" c="wopAtu" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:wopAtu" c="wopAtu"/>
-<sdef n="cm:wopAtu" c="wopAtu" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:wopAtu" c="wopAtu"/>
 <sdef n="cm:wokUdi" c="wokUdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:wokUdi" c="wokUdi"/>
@@ -222,21 +135,6 @@
 <sdef n="cm:wokUdi" c="wokUdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:wokUdi" c="wokUdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:wokUdi" c="wokUdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:wokUdi" c="wokUdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:kosaM" c="kosaM" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:kosaM" c="kosaM"/>
-<sdef n="cm:kosaM" c="kosaM" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:kosaM" c="kosaM"/>
 <sdef n="cm:kosaM" c="kosaM" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:kosaM" c="kosaM"/>
@@ -252,9 +150,6 @@
 <sdef n="cm:koVraku" c="koVraku" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:koVraku" c="koVraku"/>
-<sdef n="cm:koVraku" c="koVraku" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:koVraku" c="koVraku"/>
 <sdef n="cm:lonuMdi" c="lonuMdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:lonuMdi" c="lonuMdi"/>
@@ -264,15 +159,6 @@
 <sdef n="cm:lonuMdi" c="lonuMdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:lonuMdi" c="lonuMdi"/>
-<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
-<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
-<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
 <sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
@@ -291,15 +177,6 @@
 <sdef n="cm:varaku" c="varaku" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:varaku" c="varaku"/>
-<sdef n="cm:mIxaki" c="mIxaki" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:mIxaki" c="mIxaki"/>
-<sdef n="cm:mIxaki" c="mIxaki" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:mIxaki" c="mIxaki"/>
-<sdef n="cm:mIxaki" c="mIxaki" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:mIxaki" c="mIxaki"/>
 <sdef n="cm:mIxaki" c="mIxaki" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:mIxaki" c="mIxaki"/>
@@ -330,12 +207,6 @@
 <sdef n="cm:keVxurugA" c="keVxurugA" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:keVxurugA" c="keVxurugA"/>
-<sdef n="cm:keVxurugA" c="keVxurugA" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:keVxurugA" c="keVxurugA"/>
-<sdef n="cm:muMxu" c="muMxu" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:muMxu" c="muMxu"/>
 <sdef n="cm:muMxu" c="muMxu" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:muMxu" c="muMxu"/>
@@ -384,27 +255,12 @@
 <sdef n="cm:vale" c="vale" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:vale" c="vale"/>
-<sdef n="cm:vale" c="vale" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:vale" c="vale"/>
-<sdef n="cm:vale" c="vale" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:vale" c="vale"/>
 <sdef n="cm:kimalle" c="kimalle" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:kimalle" c="kimalle"/>
 <sdef n="cm:kimalle" c="kimalle" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:kimalle" c="kimalle"/>
-<sdef n="cm:kimalle" c="kimalle" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:kimalle" c="kimalle"/>
-<sdef n="cm:kimalle" c="kimalle" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:kimalle" c="kimalle"/>
-<sdef n="cm:kUdA" c="kUdA" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:kUdA" c="kUdA"/>
 <sdef n="cm:kUdA" c="kUdA" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:kUdA" c="kUdA"/>
@@ -420,15 +276,6 @@
 <sdef n="cm:xqRtilo" c="xqRtilo" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:xqRtilo" c="xqRtilo"/>
-<sdef n="cm:xqRtilo" c="xqRtilo" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:xqRtilo" c="xqRtilo"/>
-<sdef n="cm:lekuMdA" c="lekuMdA" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:lekuMdA" c="lekuMdA"/>
-<sdef n="cm:lekuMdA" c="lekuMdA" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:lekuMdA" c="lekuMdA"/>
 <sdef n="cm:lekuMdA" c="lekuMdA" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:lekuMdA" c="lekuMdA"/>
@@ -450,12 +297,6 @@
 <sdef n="cm:kAkuMdA" c="kAkuMdA" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
-<sdef n="cm:kAkuMdA" c="kAkuMdA" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
-<sdef n="cm:moVxalukoVni" c="moVxalukoVni" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:moVxalukoVni" c="moVxalukoVni"/>
 <sdef n="cm:moVxalukoVni" c="moVxalukoVni" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:moVxalukoVni" c="moVxalukoVni"/>
@@ -501,9 +342,6 @@
 <sdef n="cm:pakkalo" c="pakkalo" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:pakkalo" c="pakkalo"/>
-<sdef n="cm:lopalaki" c="lopalaki" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:lopalaki" c="lopalaki"/>
 <sdef n="cm:lopalaki" c="lopalaki" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:lopalaki" c="lopalaki"/>
@@ -579,18 +417,6 @@
 <sdef n="cm:eVxuruguMdA" c="eVxuruguMdA" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:eVxuruguMdA" c="eVxuruguMdA"/>
-<sdef n="cm:eVxuruguMdA" c="eVxuruguMdA" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:eVxuruguMdA" c="eVxuruguMdA"/>
-<sdef n="cm:maXya" c="maXya" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:maXya" c="maXya"/>
-<sdef n="cm:maXya" c="maXya" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:maXya" c="maXya"/>
-<sdef n="cm:maXya" c="maXya" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:maXya" c="maXya"/>
 <sdef n="cm:maXya" c="maXya" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:maXya" c="maXya"/>
@@ -651,9 +477,6 @@
 <sdef n="cm:prakAraM" c="prakAraM" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:prakAraM" c="prakAraM"/>
-<sdef n="cm:prakAraM" c="prakAraM" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:prakAraM" c="prakAraM"/>
 <sdef n="cm:xaggaranuMdi" c="xaggaranuMdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:xaggaranuMdi" c="xaggaranuMdi"/>
@@ -762,15 +585,6 @@
 <sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
-<sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
-<sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
-<sdef n="cm:muMxunuMdi" c="muMxunuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:muMxunuMdi" c="muMxunuMdi"/>
 <sdef n="cm:veVnukanuMdi" c="veVnukanuMdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:veVnukanuMdi" c="veVnukanuMdi"/>
@@ -819,18 +633,6 @@
 <sdef n="cm:eVxutinuMdi" c="eVxutinuMdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:eVxutinuMdi" c="eVxutinuMdi"/>
-<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
-<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
-<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
-<sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
 <sdef n="cm:maXyanuMdi" c="maXyanuMdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:maXyanuMdi" c="maXyanuMdi"/>
@@ -897,24 +699,9 @@
 <sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
-<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
+<sdef n="cm:aMxu" c="aMxu" />
 <sdef n="num:sg" c="sg" />
-<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
-<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
-<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
-<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
-<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
-<sdef n="cm:sWAnaMnuMdi" c="sWAnaMnuMdi" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:sWAnaMnuMdi" c="sWAnaMnuMdi"/>
+<sdef n="suffix:aMxu" c="aMxu"/>
 <sdef n="cm:aMxu" c="aMxu" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:aMxu" c="aMxu"/>
@@ -927,9 +714,6 @@
 <sdef n="cm:aMte" c="aMte" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:aMte" c="aMte"/>
-<sdef n="cm:aMte" c="aMte" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:aMte" c="aMte"/>
 <sdef n="cm:kaMteV" c="kaMteV" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:kaMteV" c="kaMteV"/>
@@ -942,12 +726,9 @@
 <sdef n="cm:kaMteV" c="kaMteV" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:kaMteV" c="kaMteV"/>
-<sdef n="cm:kaMteV" c="kaMteV" />
+<sdef n="cm:Ena" c="Ena" />
 <sdef n="num:sg" c="sg" />
-<sdef n="suffix:kaMteV" c="kaMteV"/>
-<sdef n="cm:kaMteV" c="kaMteV" />
-<sdef n="num:sg" c="sg" />
-<sdef n="suffix:kaMteV" c="kaMteV"/>
+<sdef n="suffix:Ena" c="Ena"/>
 <sdef n="cm:Ena" c="Ena" />
 <sdef n="num:sg" c="sg" />
 <sdef n="suffix:Ena" c="Ena"/>
@@ -975,9 +756,6 @@
 <sdef n="cm:0" c="0" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:0" c="0"/>
-<sdef n="cm:0" c="0" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:0" c="0"/>
 <sdef n="cm:I" c="I" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:I" c="I"/>
@@ -987,12 +765,6 @@
 <sdef n="cm:gAdu" c="gAdu" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:gAdu" c="gAdu"/>
-<sdef n="cm:gAdu" c="gAdu" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:gAdu" c="gAdu"/>
-<sdef n="cm:gawweV" c="gawweV" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:gawweV" c="gawweV"/>
 <sdef n="cm:gawweV" c="gawweV" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:gawweV" c="gawweV"/>
@@ -1002,12 +774,6 @@
 <sdef n="cm:vAdu" c="vAdu" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:vAdu" c="vAdu"/>
-<sdef n="cm:vAdu" c="vAdu" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:vAdu" c="vAdu"/>
-<sdef n="cm:Ayana" c="Ayana" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:Ayana" c="Ayana"/>
 <sdef n="cm:Ayana" c="Ayana" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:Ayana" c="Ayana"/>
@@ -1017,21 +783,12 @@
 <sdef n="cm:vAru" c="vAru" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:vAru" c="vAru"/>
-<sdef n="cm:vAru" c="vAru" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:vAru" c="vAru"/>
 <sdef n="cm:xi" c="xi" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:xi" c="xi"/>
 <sdef n="cm:xi" c="xi" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:xi" c="xi"/>
-<sdef n="cm:xi" c="xi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:xi" c="xi"/>
-<sdef n="cm:vi" c="vi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:vi" c="vi"/>
 <sdef n="cm:vi" c="vi" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:vi" c="vi"/>
@@ -1041,15 +798,6 @@
 <sdef n="cm:gAru" c="gAru" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:gAru" c="gAru"/>
-<sdef n="cm:gAru" c="gAru" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:gAru" c="gAru"/>
-<sdef n="cm:nu" c="nu" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:nu" c="nu"/>
-<sdef n="cm:nu" c="nu" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:nu" c="nu"/>
 <sdef n="cm:nu" c="nu" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:nu" c="nu"/>
@@ -1059,18 +807,9 @@
 <sdef n="cm:vu" c="vu" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:vu" c="vu"/>
-<sdef n="cm:vu" c="vu" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:vu" c="vu"/>
 <sdef n="cm:yoVkka" c="yoVkka" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:yoVkka" c="yoVkka"/>
-<sdef n="cm:yoVkka" c="yoVkka" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:yoVkka" c="yoVkka"/>
-<sdef n="cm:obl" c="obl" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:obl" c="obl"/>
 <sdef n="cm:obl" c="obl" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:obl" c="obl"/>
@@ -1086,18 +825,12 @@
 <sdef n="cm:ni" c="ni" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:ni" c="ni"/>
-<sdef n="cm:ni" c="ni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:ni" c="ni"/>
 <sdef n="cm:ki" c="ki" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:ki" c="ki"/>
 <sdef n="cm:ki" c="ki" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:ki" c="ki"/>
-<sdef n="cm:ki" c="ki" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:ki" c="ki"/>
 <sdef n="cm:wo" c="wo" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:wo" c="wo"/>
@@ -1134,39 +867,6 @@
 <sdef n="cm:lo" c="lo" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:lo" c="lo"/>
-<sdef n="cm:lo" c="lo" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:lo" c="lo"/>
-<sdef n="cm:lo" c="lo" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:lo" c="lo"/>
-<sdef n="cm:loni" c="loni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:loni" c="loni"/>
-<sdef n="cm:loni" c="loni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:loni" c="loni"/>
-<sdef n="cm:loni" c="loni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:loni" c="loni"/>
-<sdef n="cm:loni" c="loni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:loni" c="loni"/>
-<sdef n="cm:loni" c="loni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:loni" c="loni"/>
-<sdef n="cm:loni" c="loni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:loni" c="loni"/>
-<sdef n="cm:loni" c="loni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:loni" c="loni"/>
-<sdef n="cm:loni" c="loni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:loni" c="loni"/>
-<sdef n="cm:loni" c="loni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:loni" c="loni"/>
 <sdef n="cm:loni" c="loni" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:loni" c="loni"/>
@@ -1185,12 +885,6 @@
 <sdef n="cm:mIxa" c="mIxa" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:mIxa" c="mIxa"/>
-<sdef n="cm:mIxa" c="mIxa" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:mIxa" c="mIxa"/>
-<sdef n="cm:na" c="na" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:na" c="na"/>
 <sdef n="cm:na" c="na" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:na" c="na"/>
@@ -1212,12 +906,6 @@
 <sdef n="cm:niMci" c="niMci" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:niMci" c="niMci"/>
-<sdef n="cm:niMci" c="niMci" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:niMci" c="niMci"/>
-<sdef n="cm:xvArA" c="xvArA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:xvArA" c="xvArA"/>
 <sdef n="cm:xvArA" c="xvArA" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:xvArA" c="xvArA"/>
@@ -1248,24 +936,6 @@
 <sdef n="cm:ce" c="ce" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:ce" c="ce"/>
-<sdef n="cm:ce" c="ce" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:ce" c="ce"/>
-<sdef n="cm:ce" c="ce" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:ce" c="ce"/>
-<sdef n="cm:wopAtu" c="wopAtu" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wopAtu" c="wopAtu"/>
-<sdef n="cm:wopAtu" c="wopAtu" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wopAtu" c="wopAtu"/>
-<sdef n="cm:wopAtu" c="wopAtu" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wopAtu" c="wopAtu"/>
-<sdef n="cm:wopAtu" c="wopAtu" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wopAtu" c="wopAtu"/>
 <sdef n="cm:wopAtu" c="wopAtu" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:wopAtu" c="wopAtu"/>
@@ -1287,33 +957,6 @@
 <sdef n="cm:wokUdi" c="wokUdi" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:wokUdi" c="wokUdi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:wokUdi" c="wokUdi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:wokUdi" c="wokUdi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:wokUdi" c="wokUdi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:wokUdi" c="wokUdi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:wokUdi" c="wokUdi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:wokUdi" c="wokUdi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:wokUdi" c="wokUdi"/>
-<sdef n="cm:kosaM" c="kosaM" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kosaM" c="kosaM"/>
-<sdef n="cm:kosaM" c="kosaM" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kosaM" c="kosaM"/>
 <sdef n="cm:kosaM" c="kosaM" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:kosaM" c="kosaM"/>
@@ -1329,9 +972,6 @@
 <sdef n="cm:koVraku" c="koVraku" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:koVraku" c="koVraku"/>
-<sdef n="cm:koVraku" c="koVraku" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:koVraku" c="koVraku"/>
 <sdef n="cm:lonuMdi" c="lonuMdi" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:lonuMdi" c="lonuMdi"/>
@@ -1350,12 +990,6 @@
 <sdef n="cm:lonuMdi" c="lonuMdi" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:lonuMdi" c="lonuMdi"/>
-<sdef n="cm:lonuMdi" c="lonuMdi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:lonuMdi" c="lonuMdi"/>
-<sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
 <sdef n="cm:mIxanuMdi" c="mIxanuMdi" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:mIxanuMdi" c="mIxanuMdi"/>
@@ -1371,12 +1005,6 @@
 <sdef n="cm:xAkA" c="xAkA" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:xAkA" c="xAkA"/>
-<sdef n="cm:xAkA" c="xAkA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:xAkA" c="xAkA"/>
-<sdef n="cm:varaku" c="varaku" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:varaku" c="varaku"/>
 <sdef n="cm:varaku" c="varaku" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:varaku" c="varaku"/>
@@ -1404,21 +1032,12 @@
 <sdef n="cm:kAda" c="kAda" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:kAda" c="kAda"/>
-<sdef n="cm:kAda" c="kAda" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kAda" c="kAda"/>
-<sdef n="cm:kAda" c="kAda" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kAda" c="kAda"/>
 <sdef n="cm:keVxurugA" c="keVxurugA" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:keVxurugA" c="keVxurugA"/>
 <sdef n="cm:keVxurugA" c="keVxurugA" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:keVxurugA" c="keVxurugA"/>
-<sdef n="cm:muMxu" c="muMxu" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:muMxu" c="muMxu"/>
 <sdef n="cm:muMxu" c="muMxu" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:muMxu" c="muMxu"/>
@@ -1446,12 +1065,6 @@
 <sdef n="cm:pEki" c="pEki" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:pEki" c="pEki"/>
-<sdef n="cm:pEki" c="pEki" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:pEki" c="pEki"/>
-<sdef n="cm:guMdA" c="guMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:guMdA" c="guMdA"/>
 <sdef n="cm:guMdA" c="guMdA" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:guMdA" c="guMdA"/>
@@ -1491,15 +1104,6 @@
 <sdef n="cm:kimalle" c="kimalle" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:kimalle" c="kimalle"/>
-<sdef n="cm:kimalle" c="kimalle" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kimalle" c="kimalle"/>
-<sdef n="cm:kUdA" c="kUdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kUdA" c="kUdA"/>
-<sdef n="cm:kUdA" c="kUdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kUdA" c="kUdA"/>
 <sdef n="cm:kUdA" c="kUdA" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:kUdA" c="kUdA"/>
@@ -1521,36 +1125,6 @@
 <sdef n="cm:lekuMdA" c="lekuMdA" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:lekuMdA" c="lekuMdA"/>
-<sdef n="cm:lekuMdA" c="lekuMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:lekuMdA" c="lekuMdA"/>
-<sdef n="cm:lekuMdA" c="lekuMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:lekuMdA" c="lekuMdA"/>
-<sdef n="cm:kAkuMdA" c="kAkuMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
-<sdef n="cm:kAkuMdA" c="kAkuMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
-<sdef n="cm:kAkuMdA" c="kAkuMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
-<sdef n="cm:kAkuMdA" c="kAkuMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
-<sdef n="cm:kAkuMdA" c="kAkuMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
-<sdef n="cm:kAkuMdA" c="kAkuMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
-<sdef n="cm:kAkuMdA" c="kAkuMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
-<sdef n="cm:kAkuMdA" c="kAkuMdA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
 <sdef n="cm:kAkuMdA" c="kAkuMdA" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:kAkuMdA" c="kAkuMdA"/>
@@ -1614,6 +1188,12 @@
 <sdef n="cm:lopalaki" c="lopalaki" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
+<sdef n="cm:lopalaki" c="lopalaki" />
+<sdef n="num:pl" c="pl" />
+<sdef n="suffix:lopalaki" c="lopalaki"/>
 <sdef n="cm:kiMxa" c="kiMxa" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:kiMxa" c="kiMxa"/>
@@ -1656,9 +1236,6 @@
 <sdef n="cm:veVnuka" c="veVnuka" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:veVnuka" c="veVnuka"/>
-<sdef n="cm:waravAwa" c="waravAwa" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:waravAwa" c="waravAwa"/>
 <sdef n="cm:waravAwa" c="waravAwa" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:waravAwa" c="waravAwa"/>
@@ -1929,9 +1506,6 @@
 <sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
-<sdef n="cm:waravAwanuMdi" c="waravAwanuMdi" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:waravAwanuMdi" c="waravAwanuMdi"/>
 <sdef n="cm:cotlonuMdi" c="cotlonuMdi" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:cotlonuMdi" c="cotlonuMdi"/>
@@ -2007,15 +1581,6 @@
 <sdef n="cm:pAti" c="pAti" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:pAti" c="pAti"/>
-<sdef n="cm:pAti" c="pAti" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:pAti" c="pAti"/>
-<sdef n="cm:lAMti" c="lAMti" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:lAMti" c="lAMti"/>
-<sdef n="cm:lAMti" c="lAMti" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:lAMti" c="lAMti"/>
 <sdef n="cm:lAMti" c="lAMti" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:lAMti" c="lAMti"/>
@@ -2031,15 +1596,6 @@
 <sdef n="cm:gAni" c="gAni" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:gAni" c="gAni"/>
-<sdef n="cm:gAni" c="gAni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:gAni" c="gAni"/>
-<sdef n="cm:gAni" c="gAni" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:gAni" c="gAni"/>
-<sdef n="cm:gA" c="gA" />
-<sdef n="num:pl" c="pl" />
-<sdef n="suffix:gA" c="gA"/>
 <sdef n="cm:gA" c="gA" />
 <sdef n="num:pl" c="pl" />
 <sdef n="suffix:gA" c="gA"/>

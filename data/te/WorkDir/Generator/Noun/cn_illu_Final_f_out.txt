@@ -1,899 +1,2691 @@
 <pardef n="i/llu__n">
+
+<!--pcdata line number=1-->
 <e><p><l>llu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:0"/><s n="suffix:0"/></r></p></e>
+
+<!--pcdata line number=4-->
 <e><p><l>MtgAdu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:gAdu"/><s n="suffix:gAdu"/></r></p></e>
+
+<!--pcdata line number=5-->
 <e><p><l>MtgawweV</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:gawweV"/><s n="suffix:gawweV"/></r></p></e>
+
+<!--pcdata line number=6-->
 <e><p><l>MtvAdu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vAdu"/><s n="suffix:vAdu"/></r></p></e>
+
+<!--pcdata line number=7-->
 <e><p><l>MtAyana</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:Ayana"/><s n="suffix:Ayana"/></r></p></e>
+
+<!--pcdata line number=8-->
 <e><p><l>MtvAru</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vAru"/><s n="suffix:vAru"/></r></p></e>
+
+<!--pcdata line number=9-->
 <e><p><l>Mtx</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:xi"/><s n="suffix:xi"/></r></p></e>
+
+<!--pcdata line number=10-->
 <e><p><l>Mtv</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
-<e><p><l>Mtv</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vu"/><s n="suffix:vu"/></r></p></e>
+
+<!--pcdata line number=10-->
 <e><p><l>Mty</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+
+<!--pcdata line number=11-->
 <e><p><l>llugAru</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:gAru"/><s n="suffix:gAru"/></r></p></e>
+
+<!--pcdata line number=12-->
 <e><p><l>llunu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
-<e><p><l>llunu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+
+<!--pcdata line number=13-->
+<e><p><l>Mtv</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:d"/><s n="cm:vu"/><s n="suffix:vu"/></r></p></e>
+
+<!--pcdata line number=14-->
 <e><p><l>MtyoVkka</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:yoVkka"/><s n="suffix:yoVkka"/></r></p></e>
+
+<!--pcdata line number=15-->
 <e><p><l>Mt</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:obl"/><s n="suffix:obl"/></r></p></e>
+
+<!--pcdata line number=16-->
 <e><p><l>Mtn</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+
+<!--pcdata line number=16-->
+<e><p><l>llunu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+
+<!--pcdata line number=17-->
 <e><p><l>Mtk</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+
+<!--pcdata line number=17-->
 <e><p><l>lluku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+
+<!--pcdata line number=18-->
 <e><p><l>Mtwo</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=18-->
 <e><p><l>Mtwoda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=18-->
 <e><p><l>Mtwot</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=18-->
 <e><p><l>lluwot</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=18-->
 <e><p><l>lluwo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=19-->
 <e><p><l>Mtlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=19-->
 <e><p><l>Mtlona</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=19-->
 <e><p><l>Mtlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=19-->
 <e><p><l>Mtlona</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=19-->
 <e><p><l>Mtlopala</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=19-->
 <e><p><l>Mtlopala</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=19-->
 <e><p><l>llulo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=20-->
 <e><p><l>Mtlon</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=20-->
 <e><p><l>Mtlon</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=20-->
 <e><p><l>Mtlopal</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=20-->
 <e><p><l>Mtlopal</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=21-->
 <e><p><l>MtmIxa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxa"/><s n="suffix:mIxa"/></r></p></e>
+
+<!--pcdata line number=22-->
 <e><p><l>Mtna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:na"/><s n="suffix:na"/></r></p></e>
+
+<!--pcdata line number=22-->
 <e><p><l>Mta</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:na"/><s n="suffix:na"/></r></p></e>
+
+<!--pcdata line number=23-->
 <e><p><l>MtnMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+
+<!--pcdata line number=23-->
 <e><p><l>MtnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+
+<!--pcdata line number=23-->
 <e><p><l>MtnuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+
+<!--pcdata line number=24-->
 <e><p><l>MtxvArA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+
+<!--pcdata line number=24-->
 <e><p><l>MtxvAra</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+
+<!--pcdata line number=25-->
 <e><p><l>Mtvalana</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+
+<!--pcdata line number=25-->
 <e><p><l>Mtvalla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+
+<!--pcdata line number=26-->
 <e><p><l>Mtnbatt</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:batti"/><s n="suffix:batti"/></r></p></e>
+
+<!--pcdata line number=27-->
 <e><p><l>Mtce</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+
+<!--pcdata line number=27-->
 <e><p><l>Mtcewa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+
+<!--pcdata line number=28-->
 <e><p><l>MtwopAtu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+
+<!--pcdata line number=29-->
 <e><p><l>MtwokUd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=29-->
 <e><p><l>MtwokUda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=29-->
 <e><p><l>MtwokUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=29-->
 <e><p><l>lluwokUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=29-->
 <e><p><l>MtwogUd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=29-->
 <e><p><l>MtwogUda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=29-->
 <e><p><l>MtwogUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=29-->
 <e><p><l>lluwogUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=30-->
 <e><p><l>MtkosaM</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=30-->
 <e><p><l>MtkE</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=30-->
 <e><p><l>llukosaM</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=30-->
 <e><p><l>llukosamu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=30-->
 <e><p><l>MtArWaM</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=31-->
 <e><p><l>MtkoVraku</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+
+<!--pcdata line number=31-->
 <e><p><l>MtkoVrYaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+
+<!--pcdata line number=32-->
 <e><p><l>MtlonuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=32-->
 <e><p><l>MtlonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=32-->
 <e><p><l>MtlonMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=32-->
 <e><p><l>MtlonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=32-->
 <e><p><l>MtlonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=32-->
 <e><p><l>MtlonMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=32-->
 <e><p><l>MtloMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=33-->
 <e><p><l>MtmIxanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+
+<!--pcdata line number=33-->
 <e><p><l>MtmIxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+
+<!--pcdata line number=33-->
 <e><p><l>MtmIxanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+
+<!--pcdata line number=34-->
 <e><p><l>MtxAkA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+
+<!--pcdata line number=34-->
 <e><p><l>MtxAka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+
+<!--pcdata line number=35-->
 <e><p><l>Mtvaraku</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:varaku"/><s n="suffix:varaku"/></r></p></e>
+
+<!--pcdata line number=36-->
 <e><p><l>MtmIxak</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+
+<!--pcdata line number=36-->
 <e><p><l>MtmIxaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+
+<!--pcdata line number=36-->
 <e><p><l>MtmIxk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+
+<!--pcdata line number=37-->
 <e><p><l>Mtxaggara</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+
+<!--pcdata line number=37-->
 <e><p><l>Mtxaggra</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+
+<!--pcdata line number=38-->
 <e><p><l>Mtvaxxa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+
+<!--pcdata line number=38-->
 <e><p><l>MtoVxxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+
+<!--pcdata line number=39-->
 <e><p><l>MtkAda</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAda"/><s n="suffix:kAda"/></r></p></e>
+
+<!--pcdata line number=40-->
 <e><p><l>MtkeVxurugA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+
+<!--pcdata line number=40-->
 <e><p><l>lleVxurugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+
+<!--pcdata line number=40-->
 <e><p><l>MteVxurugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+
+<!--pcdata line number=41-->
 <e><p><l>MtmuMxu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxu"/><s n="suffix:muMxu"/></r></p></e>
+
+<!--pcdata line number=42-->
 <e><p><l>MtgurMc</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=42-->
 <e><p><l>MtngurMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=42-->
 <e><p><l>MtngUrc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=42-->
 <e><p><l>llunugurMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=42-->
 <e><p><l>llunugUrc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=43-->
 <e><p><l>MtpE</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+
+<!--pcdata line number=43-->
 <e><p><l>MtpEna</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+
+<!--pcdata line number=43-->
 <e><p><l>MtpEn</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+
+<!--pcdata line number=44-->
 <e><p><l>MtpEk</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pEki"/><s n="suffix:pEki"/></r></p></e>
+
+<!--pcdata line number=45-->
 <e><p><l>MtguMdA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:guMdA"/><s n="suffix:guMdA"/></r></p></e>
+
+<!--pcdata line number=46-->
 <e><p><l>MtlA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=46-->
 <e><p><l>llulA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=46-->
 <e><p><l>llulAga</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=46-->
 <e><p><l>llulAgA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=46-->
 <e><p><l>MtlAga</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=46-->
 <e><p><l>MtlAgA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=47-->
 <e><p><l>Mtvale</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=47-->
 <e><p><l>MtvaleV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=47-->
 <e><p><l>MtmAxr</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=47-->
 <e><p><l>Mtnpol</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=47-->
 <e><p><l>Mtnbolna</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=48-->
 <e><p><l>Mtkmalle</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+
+<!--pcdata line number=48-->
 <e><p><l>MtkmalleV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+
+<!--pcdata line number=49-->
 <e><p><l>MtkUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=49-->
 <e><p><l>MtnkUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=49-->
 <e><p><l>llunukUdA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=49-->
 <e><p><l>MtgUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=49-->
 <e><p><l>MtngUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=49-->
 <e><p><l>llunugUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=50-->
 <e><p><l>MtxqRtlo</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+
+<!--pcdata line number=50-->
 <e><p><l>MtxruRtlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+
+<!--pcdata line number=51-->
 <e><p><l>llulekuMdA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=51-->
 <e><p><l>MtnlekuMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=51-->
 <e><p><l>llulekuMda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=51-->
 <e><p><l>lluleka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=52-->
 <e><p><l>llukAkuMdA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=52-->
 <e><p><l>MtnkAkuMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=52-->
 <e><p><l>llugAkuMda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=52-->
 <e><p><l>llugAka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=53-->
 <e><p><l>llumoVxalukoVn</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+
+<!--pcdata line number=53-->
 <e><p><l>MtnmoVxalukoVn</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+
+<!--pcdata line number=53-->
 <e><p><l>MtnumoVxalukoVn</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+
+<!--pcdata line number=54-->
 <e><p><l>MtvEpu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+
+<!--pcdata line number=54-->
 <e><p><l>Mtvepu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+
+<!--pcdata line number=54-->
 <e><p><l>Mtkes</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+
+<!--pcdata line number=55-->
 <e><p><l>Mtpakka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=55-->
 <e><p><l>Mtprakka</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=55-->
 <e><p><l>Mtpakkana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=55-->
 <e><p><l>Mtprakkana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=55-->
 <e><p><l>Mtpakkan</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=56-->
 <e><p><l>Mtpakkalo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+
+<!--pcdata line number=56-->
 <e><p><l>Mtprakkalo</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+
+<!--pcdata line number=56-->
 <e><p><l>Mtpakkalona</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+
+<!--pcdata line number=56-->
 <e><p><l>Mtpakkalon</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+
+<!--pcdata line number=57-->
 <e><p><l>Mtlok</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=57-->
 <e><p><l>Mtlonk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=57-->
 <e><p><l>Mtlok</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=57-->
 <e><p><l>Mtlonk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=57-->
 <e><p><l>Mtlopalaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=57-->
 <e><p><l>llulopalaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=57-->
 <e><p><l>Mtlopalak</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=57-->
 <e><p><l>llulopalk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=57-->
 <e><p><l>Mtlopalk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=58-->
 <e><p><l>MtkMxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=58-->
 <e><p><l>MtkrMxa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=58-->
 <e><p><l>MtkrMxana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=58-->
 <e><p><l>MtkMxana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=59-->
 <e><p><l>lladuguna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+
+<!--pcdata line number=59-->
 <e><p><l>Mtkaduguna</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+
+<!--pcdata line number=60-->
 <e><p><l>MtkeVlla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+
+<!--pcdata line number=60-->
 <e><p><l>Mtkalla</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+
+<!--pcdata line number=61-->
 <e><p><l>MtveVnuka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=61-->
 <e><p><l>MtveVnakAla</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=61-->
 <e><p><l>MtveVnakAwala</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=61-->
 <e><p><l>MtveVnakana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=62-->
 <e><p><l>MtwaravAwa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=62-->
 <e><p><l>MtwarvAwa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=62-->
 <e><p><l>MtwaruvAwa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=62-->
 <e><p><l>MtwaravAwana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=62-->
 <e><p><l>MtwarvAwana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=62-->
 <e><p><l>MtwaruvAwana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=63-->
 <e><p><l>lleVxuruguMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+
+<!--pcdata line number=63-->
 <e><p><l>MtkeVxuruguMdA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+
+<!--pcdata line number=64-->
 <e><p><l>MtmaXya</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+
+<!--pcdata line number=64-->
 <e><p><l>MtmaXyalo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+
+<!--pcdata line number=64-->
 <e><p><l>MtmaXyana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+
+<!--pcdata line number=65-->
 <e><p><l>Mtnaduma</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+
+<!--pcdata line number=65-->
 <e><p><l>Mtnadumana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+
+<!--pcdata line number=66-->
 <e><p><l>llubaxulugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=66-->
 <e><p><l>Mtbaxulu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=66-->
 <e><p><l>Mtkbaxulu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=66-->
 <e><p><l>Mtkubaxulu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=67-->
 <e><p><l>Mtcotlo</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+
+<!--pcdata line number=67-->
 <e><p><l>Mtcotulo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+
+<!--pcdata line number=67-->
 <e><p><l>Mtcotuna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+
+<!--pcdata line number=67-->
 <e><p><l>Mtcota</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+
+<!--pcdata line number=68-->
 <e><p><l>MtsWAnaMlo</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+
+<!--pcdata line number=68-->
 <e><p><l>MtswAnaMlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+
+<!--pcdata line number=69-->
 <e><p><l>MtnerugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+
+<!--pcdata line number=69-->
 <e><p><l>MtkunerugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+
+<!--pcdata line number=69-->
 <e><p><l>MtknerugA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+
+<!--pcdata line number=70-->
 <e><p><l>MtprakAraM</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=70-->
 <e><p><l>MtprakAramu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=71-->
 <e><p><l>MtxaggaranuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=71-->
 <e><p><l>MtxaggaranuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=71-->
 <e><p><l>MtxaggranuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=71-->
 <e><p><l>MtxaggranuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=72-->
 <e><p><l>MtvaxxanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+
+<!--pcdata line number=72-->
 <e><p><l>MtvaxxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+
+<!--pcdata line number=72-->
 <e><p><l>MtvaxxanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+
+<!--pcdata line number=73-->
 <e><p><l>MtpakkanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=73-->
 <e><p><l>MtpakkanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=73-->
 <e><p><l>MtpakkanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=73-->
 <e><p><l>MtpakkalonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=73-->
 <e><p><l>MtpakkalonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=73-->
 <e><p><l>MtpakkalonMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=74-->
 <e><p><l>MtlopalanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=74-->
 <e><p><l>MtlopalnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=74-->
 <e><p><l>MtlopalanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=74-->
 <e><p><l>MtlopalnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=74-->
 <e><p><l>MtlopalanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=75-->
 <e><p><l>MtbEtanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+
+<!--pcdata line number=75-->
 <e><p><l>MtbEtanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+
+<!--pcdata line number=75-->
 <e><p><l>MtbEtanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+
+<!--pcdata line number=76-->
 <e><p><l>MtpEnuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+
+<!--pcdata line number=76-->
 <e><p><l>MtpEnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+
+<!--pcdata line number=76-->
 <e><p><l>MtpEnMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+
+<!--pcdata line number=77-->
 <e><p><l>MtkMxanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=77-->
 <e><p><l>MtkMxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=77-->
 <e><p><l>MtkMxanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=77-->
 <e><p><l>MtkrMxanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=77-->
 <e><p><l>MtkrMxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=77-->
 <e><p><l>MtkrMxanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=78-->
 <e><p><l>lladugunuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=78-->
 <e><p><l>lladugunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=78-->
 <e><p><l>MtkadugunuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=78-->
 <e><p><l>MtkadugunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=78-->
 <e><p><l>MtkadugunMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=79-->
 <e><p><l>MtmuMxunuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+
+<!--pcdata line number=79-->
 <e><p><l>MtmuMxunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+
+<!--pcdata line number=79-->
 <e><p><l>MtmuMxunMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+
+<!--pcdata line number=80-->
 <e><p><l>MtveVnukanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=80-->
 <e><p><l>MtveVnakAlanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=80-->
 <e><p><l>MtveVnakAwalanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=80-->
 <e><p><l>MtveVnakanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=80-->
 <e><p><l>MtveVnukanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=80-->
 <e><p><l>MtveVnakAlanuMc</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=80-->
 <e><p><l>MtveVnakAwalanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=80-->
 <e><p><l>MtveVnakanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=81-->
 <e><p><l>lleVxutnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=81-->
 <e><p><l>MtkeVxutnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=81-->
 <e><p><l>MtkeVxutnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=81-->
 <e><p><l>lleVxutnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=81-->
 <e><p><l>lleVxutanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=81-->
 <e><p><l>MtkeVxutanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=81-->
 <e><p><l>MtkeVxutanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=81-->
 <e><p><l>lleVxutanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=82-->
 <e><p><l>MtmaXyanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=82-->
 <e><p><l>MtmaXyanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=82-->
 <e><p><l>MtmaXyalonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=82-->
 <e><p><l>MtmaXyalonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=83-->
 <e><p><l>MtnadumanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=83-->
 <e><p><l>MtnadumanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=84-->
 <e><p><l>MtwaravAwanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=84-->
 <e><p><l>MtwarvAwanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=84-->
 <e><p><l>MtwaravAwanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=84-->
 <e><p><l>MtwarvAwanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=85-->
 <e><p><l>MtcotlonuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=85-->
 <e><p><l>MtcotunuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=85-->
 <e><p><l>MtcotlonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=85-->
 <e><p><l>MtcotunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=86-->
 <e><p><l>MtsWAnaMnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=86-->
 <e><p><l>MtsWAnamunuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=86-->
 <e><p><l>MtsWAnaMnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=86-->
 <e><p><l>MtsWAnamunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=86-->
 <e><p><l>MtsWAnaMlonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=86-->
 <e><p><l>MtsWAnamulonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=86-->
 <e><p><l>MtsWAnaMlonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=86-->
 <e><p><l>MtsWAnamulonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=87-->
 <e><p><l>llaMxu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+
+<!--pcdata line number=87-->
 <e><p><l>MtnaMxu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+
+<!--pcdata line number=87-->
 <e><p><l>MtyaMxu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+
+<!--pcdata line number=88-->
 <e><p><l>llaMte</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+
+<!--pcdata line number=88-->
 <e><p><l>llaMteV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+
+<!--pcdata line number=89-->
 <e><p><l>MtkaMteV</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=89-->
 <e><p><l>MtkaMte</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=89-->
 <e><p><l>llukannA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=89-->
 <e><p><l>llukanna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=89-->
 <e><p><l>MtkannA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=89-->
 <e><p><l>Mtkanna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=90-->
 <e><p><l>llEna</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:Ena"/><s n="suffix:Ena"/></r></p></e>
+
+<!--pcdata line number=91-->
 <e><p><l>llupAt</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pAti"/><s n="suffix:pAti"/></r></p></e>
+
+<!--pcdata line number=91-->
 <e><p><l>MtpAt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:pAti"/><s n="suffix:pAti"/></r></p></e>
+
+<!--pcdata line number=92-->
 <e><p><l>MtlAMt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+
+<!--pcdata line number=92-->
 <e><p><l>llulAt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+
+<!--pcdata line number=92-->
 <e><p><l>llulAMt</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+
+<!--pcdata line number=93-->
 <e><p><l>llugAnI</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+
+<!--pcdata line number=93-->
 <e><p><l>llukAnI</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+
+<!--pcdata line number=94-->
 <e><p><l>llugA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:sg"/><s n="per:any"/><s n="case:o"/><s n="cm:gA"/><s n="suffix:gA"/></r></p></e>
+
+<!--pcdata line number=95-->
 <e><p><l>lYlYu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:0"/><s n="suffix:0"/></r></p></e>
+
+<!--pcdata line number=95-->
 <e><p><l>lYlu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:0"/><s n="suffix:0"/></r></p></e>
+
+<!--pcdata line number=95-->
 <e><p><l>Mdlu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:0"/><s n="suffix:0"/></r></p></e>
+
+<!--pcdata line number=96-->
 <e><p><l>lYlulArA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:I"/><s n="suffix:I"/></r></p></e>
+
+<!--pcdata line number=96-->
 <e><p><l>lYlYU</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:I"/><s n="suffix:I"/></r></p></e>
+
+<!--pcdata line number=96-->
 <e><p><l>lYlU</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:I"/><s n="suffix:I"/></r></p></e>
+
+<!--pcdata line number=96-->
 <e><p><l>MdlulArA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:I"/><s n="suffix:I"/></r></p></e>
+
+<!--pcdata line number=96-->
 <e><p><l>MdlU</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:I"/><s n="suffix:I"/></r></p></e>
+
+<!--pcdata line number=98-->
 <e><p><l>lYlYagAdu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gAdu"/><s n="suffix:gAdu"/></r></p></e>
+
+<!--pcdata line number=98-->
 <e><p><l>lYlagAdu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gAdu"/><s n="suffix:gAdu"/></r></p></e>
+
+<!--pcdata line number=98-->
 <e><p><l>MdlagAdu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gAdu"/><s n="suffix:gAdu"/></r></p></e>
+
+<!--pcdata line number=99-->
 <e><p><l>lYlYagawweV</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gawweV"/><s n="suffix:gawweV"/></r></p></e>
+
+<!--pcdata line number=99-->
 <e><p><l>lYlagawweV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gawweV"/><s n="suffix:gawweV"/></r></p></e>
+
+<!--pcdata line number=99-->
 <e><p><l>MdlagawweV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gawweV"/><s n="suffix:gawweV"/></r></p></e>
+
+<!--pcdata line number=100-->
 <e><p><l>lYlYavAdu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAdu"/><s n="suffix:vAdu"/></r></p></e>
+
+<!--pcdata line number=100-->
 <e><p><l>lYlavAdu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAdu"/><s n="suffix:vAdu"/></r></p></e>
+
+<!--pcdata line number=100-->
 <e><p><l>lYlodu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAdu"/><s n="suffix:vAdu"/></r></p></e>
+
+<!--pcdata line number=100-->
 <e><p><l>MdlavAdu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAdu"/><s n="suffix:vAdu"/></r></p></e>
+
+<!--pcdata line number=100-->
 <e><p><l>Mdlodu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAdu"/><s n="suffix:vAdu"/></r></p></e>
+
+<!--pcdata line number=101-->
 <e><p><l>lYlYAyana</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:Ayana"/><s n="suffix:Ayana"/></r></p></e>
+
+<!--pcdata line number=101-->
 <e><p><l>lYlAyana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:Ayana"/><s n="suffix:Ayana"/></r></p></e>
+
+<!--pcdata line number=101-->
 <e><p><l>MdlAyana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:Ayana"/><s n="suffix:Ayana"/></r></p></e>
+
+<!--pcdata line number=102-->
 <e><p><l>lYlYavAru</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAru"/><s n="suffix:vAru"/></r></p></e>
+
+<!--pcdata line number=102-->
 <e><p><l>lYlavAru</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAru"/><s n="suffix:vAru"/></r></p></e>
+
+<!--pcdata line number=102-->
 <e><p><l>lYloru</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAru"/><s n="suffix:vAru"/></r></p></e>
+
+<!--pcdata line number=102-->
 <e><p><l>MdlavAru</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAru"/><s n="suffix:vAru"/></r></p></e>
+
+<!--pcdata line number=102-->
 <e><p><l>Mdloru</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vAru"/><s n="suffix:vAru"/></r></p></e>
+
+<!--pcdata line number=103-->
 <e><p><l>lYlYax</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:xi"/><s n="suffix:xi"/></r></p></e>
+
+<!--pcdata line number=103-->
 <e><p><l>lYlax</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:xi"/><s n="suffix:xi"/></r></p></e>
+
+<!--pcdata line number=103-->
 <e><p><l>Mdlax</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:xi"/><s n="suffix:xi"/></r></p></e>
+
+<!--pcdata line number=104-->
 <e><p><l>lYlYav</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+
+<!--pcdata line number=104-->
 <e><p><l>lYlav</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+
+<!--pcdata line number=104-->
 <e><p><l>lYlay</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+
+<!--pcdata line number=104-->
 <e><p><l>Mdlav</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+
+<!--pcdata line number=104-->
 <e><p><l>Mdlay</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:vi"/><s n="suffix:vi"/></r></p></e>
+
+<!--pcdata line number=105-->
 <e><p><l>lYlYagAru</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gAru"/><s n="suffix:gAru"/></r></p></e>
+
+<!--pcdata line number=105-->
 <e><p><l>lYlagAru</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gAru"/><s n="suffix:gAru"/></r></p></e>
+
+<!--pcdata line number=105-->
 <e><p><l>MdlagAru</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:gAru"/><s n="suffix:gAru"/></r></p></e>
+
+<!--pcdata line number=106-->
 <e><p><l>lYlYaM</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
+
+<!--pcdata line number=106-->
 <e><p><l>lYlaM</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
+
+<!--pcdata line number=106-->
 <e><p><l>lYlamu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
+
+<!--pcdata line number=106-->
 <e><p><l>MdlaM</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
+
+<!--pcdata line number=106-->
 <e><p><l>Mdlamu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:d"/><s n="cm:nu"/><s n="suffix:nu"/></r></p></e>
+
+<!--pcdata line number=108-->
 <e><p><l>MdlayoVkka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:yoVkka"/><s n="suffix:yoVkka"/></r></p></e>
+
+<!--pcdata line number=108-->
 <e><p><l>lYlYayoVkka</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:yoVkka"/><s n="suffix:yoVkka"/></r></p></e>
+
+<!--pcdata line number=108-->
 <e><p><l>lYlayoVkka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:yoVkka"/><s n="suffix:yoVkka"/></r></p></e>
+
+<!--pcdata line number=109-->
 <e><p><l>lYlYa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:obl"/><s n="suffix:obl"/></r></p></e>
+
+<!--pcdata line number=109-->
 <e><p><l>lYla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:obl"/><s n="suffix:obl"/></r></p></e>
+
+<!--pcdata line number=109-->
 <e><p><l>Mdla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:obl"/><s n="suffix:obl"/></r></p></e>
+
+<!--pcdata line number=110-->
 <e><p><l>lYlYan</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+
+<!--pcdata line number=110-->
 <e><p><l>lYlan</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+
+<!--pcdata line number=110-->
 <e><p><l>lYlanu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+
+<!--pcdata line number=110-->
 <e><p><l>Mdlan</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+
+<!--pcdata line number=110-->
 <e><p><l>Mdlanu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+
+<!--pcdata line number=110-->
 <e><p><l>lluln</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ni"/><s n="suffix:ni"/></r></p></e>
+
+<!--pcdata line number=111-->
 <e><p><l>lYlYak</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+
+<!--pcdata line number=111-->
 <e><p><l>lYlak</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+
+<!--pcdata line number=111-->
 <e><p><l>lYlaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+
+<!--pcdata line number=111-->
 <e><p><l>Mdlak</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+
+<!--pcdata line number=111-->
 <e><p><l>Mdlaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ki"/><s n="suffix:ki"/></r></p></e>
+
+<!--pcdata line number=112-->
 <e><p><l>lYlYawo</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=112-->
 <e><p><l>lYlawo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=112-->
 <e><p><l>lYlawoda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=112-->
 <e><p><l>lYlawot</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=112-->
 <e><p><l>Mdlawo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=112-->
 <e><p><l>Mdlawoda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=112-->
 <e><p><l>Mdlawot</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wo"/><s n="suffix:wo"/></r></p></e>
+
+<!--pcdata line number=113-->
 <e><p><l>lYlalo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=113-->
 <e><p><l>lYlallo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=113-->
 <e><p><l>lYlallona</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=113-->
 <e><p><l>lYlYalopala</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=113-->
 <e><p><l>lYlalopala</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=113-->
 <e><p><l>Mdlalo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=113-->
 <e><p><l>Mdlallo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=113-->
 <e><p><l>Mdlallona</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=113-->
 <e><p><l>Mdlalona</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=113-->
 <e><p><l>Mdlalopala</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lo"/><s n="suffix:lo"/></r></p></e>
+
+<!--pcdata line number=114-->
 <e><p><l>lYlallon</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=114-->
 <e><p><l>lYlYalopal</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=114-->
 <e><p><l>lYlalopal</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=114-->
 <e><p><l>Mdlallon</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=114-->
 <e><p><l>Mdlalon</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=114-->
 <e><p><l>Mdlalopal</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=114-->
 <e><p><l>MdlayaMxal</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:loni"/><s n="suffix:loni"/></r></p></e>
+
+<!--pcdata line number=115-->
 <e><p><l>lYlYamIxa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxa"/><s n="suffix:mIxa"/></r></p></e>
+
+<!--pcdata line number=115-->
 <e><p><l>MdlamIxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxa"/><s n="suffix:mIxa"/></r></p></e>
+
+<!--pcdata line number=116-->
 <e><p><l>lYlYana</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:na"/><s n="suffix:na"/></r></p></e>
+
+<!--pcdata line number=116-->
 <e><p><l>lYlana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:na"/><s n="suffix:na"/></r></p></e>
+
+<!--pcdata line number=116-->
 <e><p><l>Mdlana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:na"/><s n="suffix:na"/></r></p></e>
+
+<!--pcdata line number=117-->
 <e><p><l>lYlanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+
+<!--pcdata line number=117-->
 <e><p><l>lYlanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+
+<!--pcdata line number=117-->
 <e><p><l>lYlYanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+
+<!--pcdata line number=117-->
 <e><p><l>lYlanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+
+<!--pcdata line number=117-->
 <e><p><l>MdlanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+
+<!--pcdata line number=117-->
 <e><p><l>MdlanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+
+<!--pcdata line number=117-->
 <e><p><l>MdlanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:niMci"/><s n="suffix:niMci"/></r></p></e>
+
+<!--pcdata line number=118-->
 <e><p><l>lYlYaxvArA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+
+<!--pcdata line number=118-->
 <e><p><l>lYlaxvArA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+
+<!--pcdata line number=118-->
 <e><p><l>lYlaxvAra</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+
+<!--pcdata line number=118-->
 <e><p><l>MdlaxvArA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+
+<!--pcdata line number=118-->
 <e><p><l>MdlaxvAra</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xvArA"/><s n="suffix:xvArA"/></r></p></e>
+
+<!--pcdata line number=119-->
 <e><p><l>lYlYavalana</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+
+<!--pcdata line number=119-->
 <e><p><l>lYlavalana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+
+<!--pcdata line number=119-->
 <e><p><l>lYlavalla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+
+<!--pcdata line number=119-->
 <e><p><l>Mdlavalana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+
+<!--pcdata line number=119-->
 <e><p><l>Mdlavalla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:valana"/><s n="suffix:valana"/></r></p></e>
+
+<!--pcdata line number=120-->
 <e><p><l>lYlYanubatt</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:batti"/><s n="suffix:batti"/></r></p></e>
+
+<!--pcdata line number=120-->
 <e><p><l>lYlanubatt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:batti"/><s n="suffix:batti"/></r></p></e>
-<e><p><l>lYlanubatt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=120-->
 <e><p><l>Mdlanubatt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:batti"/><s n="suffix:batti"/></r></p></e>
-<e><p><l>Mdlanubatt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=121-->
 <e><p><l>lYlYacewa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+
+<!--pcdata line number=121-->
 <e><p><l>lYlacewa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+
+<!--pcdata line number=121-->
 <e><p><l>lYlace</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+
+<!--pcdata line number=121-->
 <e><p><l>Mdlacewa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+
+<!--pcdata line number=121-->
 <e><p><l>Mdlace</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:ce"/><s n="suffix:ce"/></r></p></e>
+
+<!--pcdata line number=122-->
 <e><p><l>lYlYawopAtu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+
+<!--pcdata line number=122-->
 <e><p><l>lYlawopAtu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+
+<!--pcdata line number=122-->
 <e><p><l>lYlawobAtu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+
+<!--pcdata line number=122-->
 <e><p><l>MdlawopAtu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+
+<!--pcdata line number=122-->
 <e><p><l>MdlawobAtu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wopAtu"/><s n="suffix:wopAtu"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>lYlYawokUd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>lYlawokUd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>lYlawogUd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>lYlawokUda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>lYlawogUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>lYlawokUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>MdlawokUd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>MdlawogUd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>MdlawokUda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>MdlawogUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=123-->
 <e><p><l>MdlawokUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:wokUdi"/><s n="suffix:wokUdi"/></r></p></e>
+
+<!--pcdata line number=124-->
 <e><p><l>lYlYakosaM</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=124-->
 <e><p><l>lYlakosaM</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=124-->
 <e><p><l>lYlakE</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=124-->
 <e><p><l>MdlakosaM</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=124-->
 <e><p><l>MdlakE</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=124-->
 <e><p><l>lYlArWaM</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kosaM"/><s n="suffix:kosaM"/></r></p></e>
+
+<!--pcdata line number=125-->
 <e><p><l>lYlYakoVraku</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+
+<!--pcdata line number=125-->
 <e><p><l>lYlakoVraku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+
+<!--pcdata line number=125-->
 <e><p><l>lYlakoVrYaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+
+<!--pcdata line number=125-->
 <e><p><l>MdlakoVraku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+
+<!--pcdata line number=125-->
 <e><p><l>MdlakoVrYaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:koVraku"/><s n="suffix:koVraku"/></r></p></e>
+
+<!--pcdata line number=126-->
 <e><p><l>lYlYalonuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=126-->
 <e><p><l>lYlalonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=126-->
 <e><p><l>lYlalonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=126-->
 <e><p><l>lYlalonMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=126-->
 <e><p><l>MdlalonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=126-->
 <e><p><l>MdlalonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=126-->
 <e><p><l>MdlalonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=126-->
 <e><p><l>MdlalonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=126-->
 <e><p><l>MdlalonMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=126-->
 <e><p><l>MdlalonMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lonuMdi"/><s n="suffix:lonuMdi"/></r></p></e>
+
+<!--pcdata line number=127-->
 <e><p><l>lYlYamIxanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+
+<!--pcdata line number=127-->
 <e><p><l>lYlamIxanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+
+<!--pcdata line number=127-->
 <e><p><l>lYlamIxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+
+<!--pcdata line number=127-->
 <e><p><l>lYlamIxanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+
+<!--pcdata line number=127-->
 <e><p><l>MdlamIxanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+
+<!--pcdata line number=127-->
 <e><p><l>MdlamIxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+
+<!--pcdata line number=127-->
 <e><p><l>MdlamIxanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxanuMdi"/><s n="suffix:mIxanuMdi"/></r></p></e>
+
+<!--pcdata line number=128-->
 <e><p><l>lYlYaxAkA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+
+<!--pcdata line number=128-->
 <e><p><l>lYlaxAkA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+
+<!--pcdata line number=128-->
 <e><p><l>lYlaxAka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+
+<!--pcdata line number=128-->
 <e><p><l>MdlaxAkA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+
+<!--pcdata line number=128-->
 <e><p><l>MdlaxAka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xAkA"/><s n="suffix:xAkA"/></r></p></e>
+
+<!--pcdata line number=129-->
 <e><p><l>lYlYavaraku</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:varaku"/><s n="suffix:varaku"/></r></p></e>
+
+<!--pcdata line number=129-->
 <e><p><l>lYlavaraku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:varaku"/><s n="suffix:varaku"/></r></p></e>
+
+<!--pcdata line number=129-->
 <e><p><l>Mdlavaraku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:varaku"/><s n="suffix:varaku"/></r></p></e>
+
+<!--pcdata line number=130-->
 <e><p><l>lYlYamIxak</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+
+<!--pcdata line number=130-->
 <e><p><l>lYlamIxak</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+
+<!--pcdata line number=130-->
 <e><p><l>lYlamIxaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+
+<!--pcdata line number=130-->
 <e><p><l>lYlamIxk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+
+<!--pcdata line number=130-->
 <e><p><l>MdlamIxak</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+
+<!--pcdata line number=130-->
 <e><p><l>MdlamIxaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+
+<!--pcdata line number=130-->
 <e><p><l>MdlamIxk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:mIxaki"/><s n="suffix:mIxaki"/></r></p></e>
+
+<!--pcdata line number=131-->
 <e><p><l>lYlYaxaggara</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+
+<!--pcdata line number=131-->
 <e><p><l>lYlaxaggara</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+
+<!--pcdata line number=131-->
 <e><p><l>lYlaxaggra</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+
+<!--pcdata line number=131-->
 <e><p><l>Mdlaxaggara</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+
+<!--pcdata line number=131-->
 <e><p><l>Mdlaxaggra</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggara"/><s n="suffix:xaggara"/></r></p></e>
+
+<!--pcdata line number=132-->
 <e><p><l>lYlYavaxxa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+
+<!--pcdata line number=132-->
 <e><p><l>lYlavaxxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+
+<!--pcdata line number=132-->
 <e><p><l>lYloVxxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+
+<!--pcdata line number=132-->
 <e><p><l>Mdlavaxxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+
+<!--pcdata line number=132-->
 <e><p><l>MdloVxxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxa"/><s n="suffix:vaxxa"/></r></p></e>
+
+<!--pcdata line number=133-->
 <e><p><l>lYlYakAda</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAda"/><s n="suffix:kAda"/></r></p></e>
+
+<!--pcdata line number=133-->
 <e><p><l>lYlakAda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAda"/><s n="suffix:kAda"/></r></p></e>
+
+<!--pcdata line number=133-->
 <e><p><l>MdlakAda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAda"/><s n="suffix:kAda"/></r></p></e>
+
+<!--pcdata line number=134-->
 <e><p><l>lYleVxurugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+
+<!--pcdata line number=134-->
 <e><p><l>lYlYakeVxurugA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+
+<!--pcdata line number=134-->
 <e><p><l>lYlakeVxurugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+
+<!--pcdata line number=134-->
 <e><p><l>MdleVxurugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+
+<!--pcdata line number=134-->
 <e><p><l>MdlakeVxurugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:keVxurugA"/><s n="suffix:keVxurugA"/></r></p></e>
+
+<!--pcdata line number=135-->
 <e><p><l>lYlYamuMxu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxu"/><s n="suffix:muMxu"/></r></p></e>
+
+<!--pcdata line number=135-->
 <e><p><l>lYlamuMxu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxu"/><s n="suffix:muMxu"/></r></p></e>
+
+<!--pcdata line number=135-->
 <e><p><l>MdlamuMxu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxu"/><s n="suffix:muMxu"/></r></p></e>
+
+<!--pcdata line number=136-->
 <e><p><l>lYlYagurMc</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=136-->
 <e><p><l>lYlagurMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=136-->
 <e><p><l>lYlagUrc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=136-->
 <e><p><l>lYlanugurMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=136-->
 <e><p><l>lYlangUrc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=136-->
 <e><p><l>MdlagurMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=136-->
 <e><p><l>MdlagUrc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=136-->
 <e><p><l>MdlanugurMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=136-->
 <e><p><l>MdlangUrc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guriMci"/><s n="suffix:guriMci"/></r></p></e>
+
+<!--pcdata line number=137-->
 <e><p><l>lYlapE</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+
+<!--pcdata line number=137-->
 <e><p><l>lYlapEn</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+
+<!--pcdata line number=137-->
 <e><p><l>lYlYapEna</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+
+<!--pcdata line number=137-->
 <e><p><l>lYlapEna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+
+<!--pcdata line number=137-->
 <e><p><l>MdlapE</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+
+<!--pcdata line number=137-->
 <e><p><l>MdlapEn</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+
+<!--pcdata line number=137-->
 <e><p><l>MdlapEna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pE"/><s n="suffix:pE"/></r></p></e>
+
+<!--pcdata line number=138-->
 <e><p><l>lYlYapEk</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEki"/><s n="suffix:pEki"/></r></p></e>
+
+<!--pcdata line number=138-->
 <e><p><l>lYlapEk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEki"/><s n="suffix:pEki"/></r></p></e>
+
+<!--pcdata line number=138-->
 <e><p><l>MdlapEk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEki"/><s n="suffix:pEki"/></r></p></e>
+
+<!--pcdata line number=139-->
 <e><p><l>lYlYaguMdA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guMdA"/><s n="suffix:guMdA"/></r></p></e>
+
+<!--pcdata line number=139-->
 <e><p><l>lYlaguMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guMdA"/><s n="suffix:guMdA"/></r></p></e>
+
+<!--pcdata line number=139-->
 <e><p><l>MdlaguMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:guMdA"/><s n="suffix:guMdA"/></r></p></e>
+
+<!--pcdata line number=140-->
 <e><p><l>lYlalA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=140-->
 <e><p><l>lYlalAga</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=140-->
 <e><p><l>lYlYalAgA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=140-->
 <e><p><l>lYlalAgA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=140-->
 <e><p><l>MdlalA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=140-->
 <e><p><l>MdlalAga</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=140-->
 <e><p><l>MdlalAgA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lA"/><s n="suffix:lA"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>lYlYavale</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>lYlavale</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>lYlavaleV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>lYlamAxr</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>lYlanupol</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>lYlanubolna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>Mdlavale</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>MdlavaleV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>MdlamAxr</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>Mdlanupol</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=141-->
 <e><p><l>Mdlanubolna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vale"/><s n="suffix:vale"/></r></p></e>
+
+<!--pcdata line number=142-->
 <e><p><l>lYlYakumalle</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+
+<!--pcdata line number=142-->
 <e><p><l>lYlakumalle</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+
+<!--pcdata line number=142-->
 <e><p><l>lYlakumalleV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+
+<!--pcdata line number=142-->
 <e><p><l>Mdlakumalle</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+
+<!--pcdata line number=142-->
 <e><p><l>MdlakumalleV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kimalle"/><s n="suffix:kimalle"/></r></p></e>
+
+<!--pcdata line number=143-->
 <e><p><l>lYlanukUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=143-->
 <e><p><l>lYlYukUdA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=143-->
 <e><p><l>lYlukUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=143-->
 <e><p><l>lYlugUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=143-->
 <e><p><l>lYlanugUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=143-->
 <e><p><l>MdlanukUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=143-->
 <e><p><l>MdlukUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=143-->
 <e><p><l>MdlugUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=143-->
 <e><p><l>MdlanugUdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kUdA"/><s n="suffix:kUdA"/></r></p></e>
+
+<!--pcdata line number=144-->
 <e><p><l>lYlYaxqRtlo</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+
+<!--pcdata line number=144-->
 <e><p><l>lYlaxqRtlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+
+<!--pcdata line number=144-->
 <e><p><l>lYlaxruRtlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+
+<!--pcdata line number=144-->
 <e><p><l>MdlaxqRtlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+
+<!--pcdata line number=144-->
 <e><p><l>MdlaxruRtlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xqRtilo"/><s n="suffix:xqRtilo"/></r></p></e>
+
+<!--pcdata line number=145-->
 <e><p><l>lYlYulekuMdA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=145-->
 <e><p><l>lYlulekuMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=145-->
 <e><p><l>lYlanulekuMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=145-->
 <e><p><l>lYluleka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=145-->
 <e><p><l>MdlulekuMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=145-->
 <e><p><l>MdlanulekuMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=145-->
 <e><p><l>Mdluleka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lekuMdA"/><s n="suffix:lekuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>lYlYukAkuMdA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>lYlukAkuMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>lYlukAkuMda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>lYlukAka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>lYlugAkuMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>lYlugAkuMda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>lYlugAka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>MdlukAkuMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>MdlukAkuMda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>MdlukAka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>MdlugAkuMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>MdlugAkuMda</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=146-->
 <e><p><l>MdlugAka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kAkuMdA"/><s n="suffix:kAkuMdA"/></r></p></e>
+
+<!--pcdata line number=147-->
 <e><p><l>lYlYumoVxalukoVn</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+
+<!--pcdata line number=147-->
 <e><p><l>lYlumoVxalukoVn</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+
+<!--pcdata line number=147-->
 <e><p><l>lYlanumoVxalukoVn</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+
+<!--pcdata line number=147-->
 <e><p><l>MdlumoVxalukoVn</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+
+<!--pcdata line number=147-->
 <e><p><l>MdlanumoVxalukoVn</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:moVxalukoVni"/><s n="suffix:moVxalukoVni"/></r></p></e>
+
+<!--pcdata line number=148-->
 <e><p><l>lYlYavEpu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+
+<!--pcdata line number=148-->
 <e><p><l>lYlavEpu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+
+<!--pcdata line number=148-->
 <e><p><l>lYlavepu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+
+<!--pcdata line number=148-->
 <e><p><l>lYlakes</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+
+<!--pcdata line number=148-->
 <e><p><l>MdlavEpu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+
+<!--pcdata line number=148-->
 <e><p><l>Mdlavepu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+
+<!--pcdata line number=148-->
 <e><p><l>Mdlakes</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vEpu"/><s n="suffix:vEpu"/></r></p></e>
+
+<!--pcdata line number=149-->
 <e><p><l>lYlapakka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=149-->
 <e><p><l>lYlapakkana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=149-->
 <e><p><l>lYlaprakka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=149-->
 <e><p><l>lYlYaprakkana</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=149-->
 <e><p><l>lYlaprakkana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=149-->
 <e><p><l>Mdlapakka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=149-->
 <e><p><l>Mdlapakkana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=149-->
 <e><p><l>Mdlaprakka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=149-->
 <e><p><l>Mdlaprakkana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakka"/><s n="suffix:pakka"/></r></p></e>
+
+<!--pcdata line number=150-->
 <e><p><l>lYlapakkalo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+
+<!--pcdata line number=150-->
 <e><p><l>lYlYaprakkalo</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+
+<!--pcdata line number=150-->
 <e><p><l>lYlaprakkalo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+
+<!--pcdata line number=150-->
 <e><p><l>Mdlapakkalo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+
+<!--pcdata line number=150-->
 <e><p><l>Mdlaprakkalo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkalo"/><s n="suffix:pakkalo"/></r></p></e>
+
+<!--pcdata line number=151-->
 <e><p><l>lYlalok</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=151-->
 <e><p><l>lYlalonk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=151-->
 <e><p><l>Mdlalok</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=151-->
 <e><p><l>Mdlalonk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=151-->
 <e><p><l>lYlalopalaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=151-->
 <e><p><l>lYlYalopalk</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=151-->
 <e><p><l>lYlalopalk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=151-->
 <e><p><l>Mdlalopalaku</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=151-->
 <e><p><l>Mdlalopalk</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalaki"/><s n="suffix:lopalaki"/></r></p></e>
+
+<!--pcdata line number=152-->
 <e><p><l>lYlakMxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=152-->
 <e><p><l>lYlYakrMxa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=152-->
 <e><p><l>lYlakrMxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=152-->
 <e><p><l>MdlakMxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=152-->
 <e><p><l>MdlakrMxa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=152-->
 <e><p><l>lYlakrMxane</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=152-->
 <e><p><l>lYlakMxane</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=152-->
 <e><p><l>MdlakrMxane</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=152-->
 <e><p><l>MdlakMxane</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kiMxa"/><s n="suffix:kiMxa"/></r></p></e>
+
+<!--pcdata line number=153-->
 <e><p><l>lYladuguna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+
+<!--pcdata line number=153-->
 <e><p><l>lYlYakaduguna</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+
+<!--pcdata line number=153-->
 <e><p><l>lYlakaduguna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+
+<!--pcdata line number=153-->
 <e><p><l>Mdladuguna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+
+<!--pcdata line number=153-->
 <e><p><l>Mdlakaduguna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aduguna"/><s n="suffix:aduguna"/></r></p></e>
+
+<!--pcdata line number=154-->
 <e><p><l>lYlakeVlla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+
+<!--pcdata line number=154-->
 <e><p><l>lYlYakalla</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+
+<!--pcdata line number=154-->
 <e><p><l>lYlakalla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+
+<!--pcdata line number=154-->
 <e><p><l>MdlakeVlla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+
+<!--pcdata line number=154-->
 <e><p><l>Mdlakalla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kalla"/><s n="suffix:kalla"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>lYlaveVnuka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>lYlaveVnaka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>lYlYaveVnakAla</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>lYlaveVnakAla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>lYlaveVnukAla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>lYlaveVnakAwala</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>lYlaveVnukAwala</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>MdlaveVnuka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>MdlaveVnaka</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>MdlaveVnakAla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>MdlaveVnukAla</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>MdlaveVnakAwala</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=155-->
 <e><p><l>MdlaveVnukAwala</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnuka"/><s n="suffix:veVnuka"/></r></p></e>
+
+<!--pcdata line number=156-->
 <e><p><l>lYlYawaravAwa</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=156-->
 <e><p><l>lYlawaravAwa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=156-->
 <e><p><l>lYlawarvAwa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=156-->
 <e><p><l>MdlawarvAwa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=156-->
 <e><p><l>MdlawaravAwa</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwa"/><s n="suffix:waravAwa"/></r></p></e>
+
+<!--pcdata line number=157-->
 <e><p><l>lYleVxuruguMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+
+<!--pcdata line number=157-->
 <e><p><l>lYlYakeVxuruguMdA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+
+<!--pcdata line number=157-->
 <e><p><l>lYlakeVxuruguMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+
+<!--pcdata line number=157-->
 <e><p><l>MdleVxuruguMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+
+<!--pcdata line number=157-->
 <e><p><l>MdlakeVxuruguMdA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxuruguMdA"/><s n="suffix:eVxuruguMdA"/></r></p></e>
+
+<!--pcdata line number=158-->
 <e><p><l>lYlYamaXya</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+
+<!--pcdata line number=158-->
 <e><p><l>lYlamaXya</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+
+<!--pcdata line number=158-->
 <e><p><l>lYlamaXyana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+
+<!--pcdata line number=158-->
 <e><p><l>lYlamaXyalo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+
+<!--pcdata line number=158-->
 <e><p><l>MdlamaXya</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+
+<!--pcdata line number=158-->
 <e><p><l>MdlamaXyana</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+
+<!--pcdata line number=158-->
 <e><p><l>MdlamaXyalo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXya"/><s n="suffix:maXya"/></r></p></e>
+
+<!--pcdata line number=159-->
 <e><p><l>lYlanaduma</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+
+<!--pcdata line number=159-->
 <e><p><l>lYlanaduma</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+
+<!--pcdata line number=159-->
 <e><p><l>lYlaknaduma</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+
+<!--pcdata line number=159-->
 <e><p><l>Mdlanaduma</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+
+<!--pcdata line number=159-->
 <e><p><l>Mdlaknaduma</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:naduma"/><s n="suffix:naduma"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>lYlabaxulugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>lYlakbaxulugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>lYlabaxulu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>lYlYakbaxulu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>lYlakbaxulu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>lYlnubaxulu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>MdlabaxulugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>MdlakbaxulugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>Mdlabaxulu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>Mdlakbaxulu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>Mdlakubaxulu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=160-->
 <e><p><l>Mdlanubaxulu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:baxulugA"/><s n="suffix:baxulugA"/></r></p></e>
+
+<!--pcdata line number=161-->
 <e><p><l>lYlYacotlo</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+
+<!--pcdata line number=161-->
 <e><p><l>lYlacotlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+
+<!--pcdata line number=161-->
 <e><p><l>lYlacotulo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+
+<!--pcdata line number=161-->
 <e><p><l>Mdlacotlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+
+<!--pcdata line number=161-->
 <e><p><l>Mdlacotulo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlo"/><s n="suffix:cotlo"/></r></p></e>
+
+<!--pcdata line number=162-->
 <e><p><l>lYlasWAnaMlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+
+<!--pcdata line number=162-->
 <e><p><l>lYlaswAnaMlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+
+<!--pcdata line number=162-->
 <e><p><l>lYlYasWAnamulo</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+
+<!--pcdata line number=162-->
 <e><p><l>lYlasWAnamulo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+
+<!--pcdata line number=162-->
 <e><p><l>MdlasWAnaMlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+
+<!--pcdata line number=162-->
 <e><p><l>MdlaswAnaMlo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+
+<!--pcdata line number=162-->
 <e><p><l>MdlasWAnamulo</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMlo"/><s n="suffix:sWAnaMlo"/></r></p></e>
+
+<!--pcdata line number=163-->
 <e><p><l>lYlanerugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+
+<!--pcdata line number=163-->
 <e><p><l>lYlakunerugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+
+<!--pcdata line number=163-->
 <e><p><l>lYlYaknerugA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+
+<!--pcdata line number=163-->
 <e><p><l>lYlaknerugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+
+<!--pcdata line number=163-->
 <e><p><l>MdlanerugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+
+<!--pcdata line number=163-->
 <e><p><l>MdlakunerugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+
+<!--pcdata line number=163-->
 <e><p><l>MdlaknerugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nerugA"/><s n="suffix:nerugA"/></r></p></e>
+
+<!--pcdata line number=164-->
 <e><p><l>lYlYaprakAraM</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=164-->
 <e><p><l>lYlaprakAraM</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=164-->
+<e><p><l>lYlanubatt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=164-->
 <e><p><l>lYlabatt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=164-->
 <e><p><l>lYlanbatt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=164-->
 <e><p><l>MdlaprakAraM</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=164-->
+<e><p><l>Mdlanubatt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=164-->
 <e><p><l>Mdlabatt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=164-->
 <e><p><l>Mdlanbatt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:prakAraM"/><s n="suffix:prakAraM"/></r></p></e>
+
+<!--pcdata line number=165-->
 <e><p><l>lYlYaxaggaranuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=165-->
 <e><p><l>lYlaxaggaranuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=165-->
 <e><p><l>lYlaxaggranuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=165-->
 <e><p><l>lYlaxaggaranuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=165-->
 <e><p><l>lYlaxaggranuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=165-->
 <e><p><l>MdlaxaggaranuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=165-->
 <e><p><l>MdlaxaggranuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=165-->
 <e><p><l>MdlaxaggaranuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=165-->
 <e><p><l>MdlaxaggranuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:xaggaranuMdi"/><s n="suffix:xaggaranuMdi"/></r></p></e>
+
+<!--pcdata line number=166-->
 <e><p><l>lYlYavaxxanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+
+<!--pcdata line number=166-->
 <e><p><l>lYlavaxxanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+
+<!--pcdata line number=166-->
 <e><p><l>lYlavaxxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+
+<!--pcdata line number=166-->
 <e><p><l>MdlavaxxanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+
+<!--pcdata line number=166-->
 <e><p><l>MdlavaxxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:vaxxanuMdi"/><s n="suffix:vaxxanuMdi"/></r></p></e>
+
+<!--pcdata line number=167-->
 <e><p><l>lYlYapakkanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=167-->
 <e><p><l>lYlapakkanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=167-->
 <e><p><l>lYlapakkanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=167-->
 <e><p><l>MdlapakkanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=167-->
 <e><p><l>MdlapakkanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=167-->
 <e><p><l>lYlapakkalonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=167-->
 <e><p><l>lYlapakkalonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=167-->
 <e><p><l>MdlapakkalonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=167-->
 <e><p><l>MdlapakkalonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pakkanuMdi"/><s n="suffix:pakkanuMdi"/></r></p></e>
+
+<!--pcdata line number=168-->
 <e><p><l>lYlYalopalanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=168-->
 <e><p><l>lYlalopalanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=168-->
 <e><p><l>lYlalopalanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=168-->
 <e><p><l>lYlalopalnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=168-->
 <e><p><l>lYlalopalnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=168-->
 <e><p><l>MdlalopalanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=168-->
 <e><p><l>MdlalopalanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=168-->
 <e><p><l>MdlalopalnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=168-->
 <e><p><l>MdlalopalnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lopalanuMdi"/><s n="suffix:lopalanuMdi"/></r></p></e>
+
+<!--pcdata line number=169-->
 <e><p><l>lYlYabEtanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+
+<!--pcdata line number=169-->
 <e><p><l>lYlabEtanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+
+<!--pcdata line number=169-->
 <e><p><l>lYlabEtanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+
+<!--pcdata line number=169-->
 <e><p><l>lYlabEtanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+
+<!--pcdata line number=169-->
 <e><p><l>MdlabEtanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+
+<!--pcdata line number=169-->
 <e><p><l>MdlabEtanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+
+<!--pcdata line number=169-->
 <e><p><l>MdlabEtanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:bEtanuMdi"/><s n="suffix:bEtanuMdi"/></r></p></e>
+
+<!--pcdata line number=170-->
 <e><p><l>lYlapEnuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+
+<!--pcdata line number=170-->
 <e><p><l>lYlapEnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+
+<!--pcdata line number=170-->
 <e><p><l>lYlapEnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+
+<!--pcdata line number=170-->
 <e><p><l>lYlapEnMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+
+<!--pcdata line number=170-->
 <e><p><l>MdlapEnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+
+<!--pcdata line number=170-->
 <e><p><l>MdlapEnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+
+<!--pcdata line number=170-->
 <e><p><l>MdlapEnMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pEnuMdi"/><s n="suffix:pEnuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>lYlYakMxanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>lYlakMxanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>lYlakMxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>lYlakMxanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>MdlakMxanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>MdlakMxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>MdlakMxanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>lYlYakrMxanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>lYlakrMxanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>lYlakrMxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>lYlakrMxanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>MdlakrMxanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>MdlakrMxanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=171-->
 <e><p><l>MdlakrMxanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kriMxanuMdi"/><s n="suffix:kriMxanuMdi"/></r></p></e>
+
+<!--pcdata line number=172-->
 <e><p><l>lYlYadugunuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=172-->
 <e><p><l>lYladugunuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=172-->
 <e><p><l>lYladugunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=172-->
 <e><p><l>lYladugunMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=172-->
 <e><p><l>MdladugunuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=172-->
 <e><p><l>MdladugunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=172-->
 <e><p><l>MdladugunMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:adugunuMdi"/><s n="suffix:adugunuMdi"/></r></p></e>
+
+<!--pcdata line number=173-->
 <e><p><l>lYlYamuMxunuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+
+<!--pcdata line number=173-->
 <e><p><l>lYlamuMxunuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+
+<!--pcdata line number=173-->
 <e><p><l>lYlamuMxunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+
+<!--pcdata line number=173-->
 <e><p><l>lYlamuMxunMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+
+<!--pcdata line number=173-->
 <e><p><l>MdlamuMxunuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+
+<!--pcdata line number=173-->
 <e><p><l>MdlamuMxunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+
+<!--pcdata line number=173-->
 <e><p><l>MdlamuMxunMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:muMxunuMdi"/><s n="suffix:muMxunuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>lYlaveVnukanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>lYlaveVnakanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>lYlYaveVnakAlanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>lYlaveVnakAlanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>MdlaveVnukanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>MdlaveVnakanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>MdlaveVnakAlanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>lYlaveVnakAlanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>lYlaveVnukanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>lYlaveVnakanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>lYlaveVnakAwalanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>lYlaveVnakAwalanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>MdlaveVnakAlanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>MdlaveVnukanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>MdlaveVnakanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>MdlaveVnakAwalanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=174-->
 <e><p><l>MdlaveVnakAwalanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:veVnukanuMdi"/><s n="suffix:veVnukanuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>lYleVxutnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>lYlakeVxutnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>lYleVxutanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>lYlYakeVxutanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>lYlakeVxutanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>lYleVxutnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>lYlakeVxutnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>lYleVxutanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>lYlakeVxutanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>MdleVxutnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>MdlakeVxutnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>MdleVxutanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>MdlakeVxutanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>MdleVxutnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>MdlakeVxutnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>MdleVxutanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=175-->
 <e><p><l>MdlakeVxutanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:eVxutinuMdi"/><s n="suffix:eVxutinuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>lYlYamaXyanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>lYlamaXyanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>lYlamaXyanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>lYlamaXyanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>MdlamaXyanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>MdlamaXyanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>MdlamaXyanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>lYlamaXyalonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>lYlamaXyalonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>lYlamaXyalonMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>MdlamaXyalonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>MdlamaXyalonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=176-->
 <e><p><l>MdlamaXyalonMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:maXyanuMdi"/><s n="suffix:maXyanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>lYlYanadumanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>lYlanadumanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>lYlanadamanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>lYlanadumanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>lYlanadumanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>lYlanadamanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>MdlanadumanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>MdlanadamanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>MdlanadumanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>MdlanadumanMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=177-->
 <e><p><l>MdlanadamanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:nadumanuMdi"/><s n="suffix:nadumanuMdi"/></r></p></e>
+
+<!--pcdata line number=178-->
 <e><p><l>lYlYawaravAwanuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=178-->
 <e><p><l>lYlawaravAwanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=178-->
 <e><p><l>lYlawarvAwanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=178-->
 <e><p><l>lYlawaravAwanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=178-->
 <e><p><l>lYlawarvAwanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=178-->
 <e><p><l>MdlawaravAwanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=178-->
 <e><p><l>MdlawarvAwanuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=178-->
 <e><p><l>MdlawaravAwanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=178-->
 <e><p><l>MdlawarvAwanuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:waravAwanuMdi"/><s n="suffix:waravAwanuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>lYlacotunuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>lYlacotunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>lYlacotlonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>lYlacotlonMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>lYlYacotlonuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>lYlacotlonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>MdlacotunuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>MdlacotunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>MdlacotlonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>MdlacotlonMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=179-->
 <e><p><l>MdlacotlonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:cotlonuMdi"/><s n="suffix:cotlonuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>lYlYasWAnamunuMd</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>lYlasWAnamunuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>lYlasWAnaMnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>lYlasWAnamunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>lYlasWAnaMnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>MdlasWAnamunuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>MdlasWAnaMnuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>MdlasWAnamunuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>MdlasWAnaMnuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>lYlasWAnaMlonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>lYlasWAnamulonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>MdlasWAnaMlonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>MdlasWAnamulonuMd</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>lYlasWAnaMlonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>lYlasWAnamulonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>MdlasWAnaMlonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=180-->
 <e><p><l>MdlasWAnamulonuMc</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:sWAnaMnuMdi"/><s n="suffix:sWAnaMnuMdi"/></r></p></e>
+
+<!--pcdata line number=181-->
 <e><p><l>lYlYayaMxu</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+
+<!--pcdata line number=181-->
 <e><p><l>lYlayaMxu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+
+<!--pcdata line number=181-->
 <e><p><l>lYlaMxu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+
+<!--pcdata line number=181-->
 <e><p><l>MdlayaMxu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+
+<!--pcdata line number=181-->
 <e><p><l>MdlaMxu</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMxu"/><s n="suffix:aMxu"/></r></p></e>
+
+<!--pcdata line number=182-->
 <e><p><l>lYlYaMte</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+
+<!--pcdata line number=182-->
 <e><p><l>lYlaMte</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+
+<!--pcdata line number=182-->
 <e><p><l>lYlaMteV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+
+<!--pcdata line number=182-->
 <e><p><l>MdlaMte</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+
+<!--pcdata line number=182-->
 <e><p><l>MdlaMteV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:aMte"/><s n="suffix:aMte"/></r></p></e>
+
+<!--pcdata line number=183-->
 <e><p><l>lYlYakaMteV</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=183-->
 <e><p><l>lYlakaMteV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=183-->
 <e><p><l>lYlakaMte</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=183-->
 <e><p><l>lYlakanna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=183-->
 <e><p><l>lYlakannA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=183-->
 <e><p><l>MdlakaMteV</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=183-->
 <e><p><l>MdlakaMte</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=183-->
 <e><p><l>Mdlakanna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=183-->
 <e><p><l>MdlakannA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:kaMteV"/><s n="suffix:kaMteV"/></r></p></e>
+
+<!--pcdata line number=184-->
 <e><p><l>lYlYEna</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:Ena"/><s n="suffix:Ena"/></r></p></e>
+
+<!--pcdata line number=184-->
 <e><p><l>lYlEna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:Ena"/><s n="suffix:Ena"/></r></p></e>
+
+<!--pcdata line number=184-->
 <e><p><l>MdlEna</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:Ena"/><s n="suffix:Ena"/></r></p></e>
+
+<!--pcdata line number=185-->
 <e><p><l>lYlYapAt</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pAti"/><s n="suffix:pAti"/></r></p></e>
+
+<!--pcdata line number=185-->
 <e><p><l>lYlapAt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pAti"/><s n="suffix:pAti"/></r></p></e>
+
+<!--pcdata line number=185-->
 <e><p><l>MdlapAt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:pAti"/><s n="suffix:pAti"/></r></p></e>
+
+<!--pcdata line number=186-->
 <e><p><l>lYlYalAMt</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+
+<!--pcdata line number=186-->
 <e><p><l>lYlalAMt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+
+<!--pcdata line number=186-->
 <e><p><l>lYlalAt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+
+<!--pcdata line number=186-->
 <e><p><l>MdlalAMt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+
+<!--pcdata line number=186-->
 <e><p><l>MdlalAt</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:lAMti"/><s n="suffix:lAMti"/></r></p></e>
+
+<!--pcdata line number=187-->
 <e><p><l>lYlYugAnI</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+
+<!--pcdata line number=187-->
 <e><p><l>lYlugAnI</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+
+<!--pcdata line number=187-->
 <e><p><l>lYlukAnI</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+
+<!--pcdata line number=187-->
 <e><p><l>MdlugAnI</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+
+<!--pcdata line number=187-->
 <e><p><l>MdlukAnI</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gAni"/><s n="suffix:gAni"/></r></p></e>
+
+<!--pcdata line number=188-->
 <e><p><l>lYlYugA</l><r>llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gA"/><s n="suffix:gA"/></r></p></e>
+
+<!--pcdata line number=188-->
 <e><p><l>lYlugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gA"/><s n="suffix:gA"/></r></p></e>
+
+<!--pcdata line number=188-->
 <e><p><l>MdlugA</l><r e="LR">llu<s n="root:illu"/><s n="lcat:noun"/><s n="gen:any"/><s n="num:pl"/><s n="per:any"/><s n="case:o"/><s n="cm:gA"/><s n="suffix:gA"/></r></p></e>
 </pardef>
 
